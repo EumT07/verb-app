@@ -1,0 +1,96 @@
+https://dbdiagram.io/d
+
+Table users {
+  id integer [primary key]
+  nickName varchar
+  firstName varchar
+  lastName varchar
+  genre varchar
+  birth_date date
+  email varchar
+  password varchar
+  country varchar
+  role use_roles
+
+  created_at timestamp
+  update_at timestamp
+}
+
+//Enum
+
+Enum use_roles {
+  guess
+  user
+  teacher
+  premiun
+  admin
+}
+
+
+Table irregular_verbs {
+  id integer [primary key]
+  infinitive varchar
+  phonetic_symbol varchar
+  present varchar
+  past varchar
+  past_participle varchar
+  present_participle varchar
+  meaning varchar
+}
+
+Table regular_verbs {
+  id integer [primary key]
+  infinitive varchar
+  phonetic_symbol varchar
+  present varchar
+  past varchar
+  past_participle varchar
+  present_participle varchar
+  meaning varchar
+}
+
+Table phrasal_verb {
+  id int [primary key]
+  phrasal_verb varchar
+  verb_id varchar
+  preposition_id varchar
+  meaning text
+}
+
+table preposition {
+  id int [primary key]
+  preposition varchar
+  meaning text
+}
+Table sentences_verbs {
+  id integer [primary key]
+  verb_id varchar
+  post_sentences_verbs_id text
+}
+
+Table sentences_phrasal_verbs{
+  id integer [primary key]
+  phrasal_verbs_id varchar
+  post_sentences_phrasal_verbs_id text
+}
+
+
+Table post_sentences_verbs {
+  id integer [primary key]
+  verbs_id varchar
+  present varchar
+  past varchar
+  past_participle varchar
+  present_participle varchar
+  users_id varchar 
+}
+
+Table post_sentences_phrasal_verbs {
+  id integer [primary key]
+  phrasal_verbs_id varchar
+  present varchar
+  past varchar
+  past_participle varchar
+  present_participle varchar
+  users_id varchar 
+}
