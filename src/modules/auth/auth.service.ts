@@ -3,18 +3,21 @@ import { PrismaService } from 'src/modules/prisma/prisma.service';
 import { EmailDto, LoginDto, ResetPasswordDto } from './dto';
 import { comparePassword, encryptPassword } from 'src/shared/utils/index';
 import { JwtService } from '@nestjs/jwt';
+import { UserLoginIT, UserRecoveryIT } from './interface/index';
+import { EmailService } from '../../providers/email/email.service';
 
 
 @Injectable()
 export class AuthService {
     constructor(
         private readonly prismaService: PrismaService,
-        private readonly jwtService: JwtService
+        private readonly jwtService: JwtService,
+        private readonly emailService: EmailService
     ){}
 
     async login({email, password}: LoginDto){
         try {
-            let user: { id:string, password:string, role:string}
+            let user: UserLoginIT;
 
             //Searching user
             user = await this.prismaService.user.findUnique({
@@ -52,7 +55,7 @@ export class AuthService {
     }
     async createEmailToken({email}: EmailDto){
         try {
-            let user: {id:string, email:string, username:string, firstName:string, lastName:string};
+            let user: UserRecoveryIT ;
 
             user = await this.prismaService.user.findUnique({
                 where: { email},
@@ -68,8 +71,14 @@ export class AuthService {
             if (!user) {
                 throw new UnauthorizedException('Invalidad Email');
             }
+
+            //Creating Token
+            const payload = {id: user.id}
+
+            const token = await this.jwtService.signAsync(payload);
         
             //Sent email
+            // await this.emailService.sendEmail_recoveryPassword(user,token);
 
             return {
                 ok: "true",

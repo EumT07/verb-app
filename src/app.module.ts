@@ -6,6 +6,7 @@ import { PrismaModule } from './modules/prisma/prisma.module';
 import configuration from './config/configuration';
 import { PrismaService } from './modules/prisma/prisma.service';
 import { UserModule } from './modules/user/user.module';
+import { EmailModule } from './providers/email/email.module';
 
 
 
@@ -15,6 +16,7 @@ import { UserModule } from './modules/user/user.module';
     AuthModule,
     PrismaModule,
     UserModule,
+    EmailModule,
   ],
   controllers: [],
   providers: [

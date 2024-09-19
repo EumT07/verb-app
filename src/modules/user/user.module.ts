@@ -4,9 +4,10 @@ import { UserController } from './user.controller';
 import { PrismaService } from '../prisma/prisma.service';
 import { JwtModule } from '@nestjs/jwt';
 import { ConfigModule, ConfigService } from '@nestjs/config';
+import { EmailService } from '../../providers/email/email.service';
 
 @Module({
-  providers: [UserService, PrismaService],
+  providers: [UserService, PrismaService,EmailService],
   imports: [
     JwtModule.registerAsync({
       imports: [ConfigModule],

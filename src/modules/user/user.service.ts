@@ -4,12 +4,14 @@ import { JwtService } from '@nestjs/jwt';
 import { encryptPassword } from 'src/shared/utils/index';
 import { CreateUserDto, UpdateUserDto } from './dto';
 import { PrismaClientKnownRequestError } from '@prisma/client/runtime/library';
+import { EmailService } from '../../providers/email/email.service';
 
 @Injectable()
 export class UserService {
     constructor (
         private readonly prismaService: PrismaService,
-        private readonly jwtService: JwtService
+        private readonly jwtService: JwtService,
+        private readonly emailService: EmailService
     ){}
 
     async createUser({password, email, username, role}: CreateUserDto){
@@ -52,6 +54,7 @@ export class UserService {
             const token = await this.jwtService.signAsync(payload)
 
             //Todo: Welcome Email Message
+            // await this.emailService.sendEmail_welcome(user);
 
             return {
                 status: 201,
