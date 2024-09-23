@@ -191,7 +191,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
       <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:15px 10px 10px;font-family:'Lato',sans-serif;" align="left">
         
   <!--[if mso]><table width="100%"><tr><td><![endif]-->
-    <h1 style="margin: 0px; color: #faad06; line-height: 140%; text-align: center; word-wrap: break-word; font-family: book antiqua,palatino; font-size: 35px; font-weight: 400;"><span><span>${dataMail.title}</span></span></h1>
+    <h1 style="margin: 0px; color: #FFCF81; line-height: 140%; text-align: center; word-wrap: break-word; font-family: book antiqua,palatino; font-size: 35px; font-weight: 400;"><span><span>${dataMail.title}</span></span></h1>
   <!--[if mso]></td></tr></table><![endif]-->
 
       </td>
@@ -244,7 +244,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <div style="font-size: 14px; color: #4b4a4a; line-height: 140%; text-align: center; word-wrap: break-word;">
     <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px; color: #ffffff;">${dataMail.info}</span></p>
 <p style="font-size: 14px; line-height: 140%;"> </p>
-<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px;"><span style="color: #ffffff; line-height: 19.6px;">Saludos, SlowMovies team.!! </span> </span></p>
+<p style="font-size: 14px; line-height: 140%;"><span style="font-size: 14px; line-height: 19.6px;"><span style="color: #ffffff; line-height: 19.6px;">Greetings, VerbsApp team.!! </span> </span></p>
   </div>
 
       </td>
@@ -260,7 +260,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
   <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
 <div align="center">
   <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:40px; v-text-anchor:middle; width:95px;" arcsize="25%"  strokecolor="#CCC" strokeweight="3px" fillcolor="#0c35f1"><w:anchorlock/><center style="color:#ffffff;"><![endif]-->
-    <a href="${dataMail.link}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #ffffff; background-color: #0c35f1; border-radius: 10px;-webkit-border-radius: 10px; -moz-border-radius: 10px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;border-top-width: 3px; border-top-style: solid; border-top-color: #CCC; border-left-width: 3px; border-left-style: solid; border-left-color: #CCC; border-right-width: 3px; border-right-style: solid; border-right-color: #CCC; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #CCC;font-size: 14px;">
+    <a href="${dataMail.link}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #ffffff; background-color: #03AED2; border-radius: 10px;-webkit-border-radius: 10px; -moz-border-radius: 10px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;border-top-width: 3px; border-top-style: solid; border-top-color: #CCC; border-left-width: 3px; border-left-style: solid; border-left-color: #CCC; border-right-width: 3px; border-right-style: solid; border-right-color: #CCC; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #CCC;font-size: 14px;">
       <span style="display:block;padding:10px 30px;line-height:120%;"><span style="font-size: 16px; line-height: 19.2px; font-family: Lato, sans-serif;">${dataMail.buttonTitle}</span></span>
     </a>
     <!--[if mso]></center></v:roundrect><![endif]-->
@@ -428,7 +428,7 @@ table, td { color: #000000; } #u_body a { color: #0000ee; text-decoration: under
       <td class="v-container-padding-padding" style="overflow-wrap:break-word;word-break:break-word;padding:10px 10px 15px;font-family:'Lato',sans-serif;" align="left">
         
   <div style="font-size: 14px; color: #7e8c8d; line-height: 140%; text-align: center; word-wrap: break-word;">
-    <p style="font-size: 14px; line-height: 140%;">© 2024 SlowMovies. All Rights Reserved.</p>
+    <p style="font-size: 14px; line-height: 140%;">© 2024 VerbsApp. All Rights Reserved..</p>
   </div>
 
       </td>
