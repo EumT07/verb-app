@@ -2,12 +2,13 @@ https://dbdiagram.io/d
 
 Table users {
   id integer [primary key]
-  nickName varchar
+  userName varchar
   firstName varchar
   lastName varchar
   genre varchar
   birth_date date
   email varchar
+  number varchar
   password varchar
   country varchar
   role use_roles
@@ -26,71 +27,119 @@ Enum use_roles {
   admin
 }
 
+table verbs {
+  id integer [primary key]
+  infinitive varchar
+  present varchar
+  past varchar
+  past_participle varchar
+  present_participle varchar
+  meaning varchar
+  type type_verbs
+}
+
+enum type_verbs {
+  regular
+  irregular
+}
 
 Table irregular_verbs {
   id integer [primary key]
-  infinitive varchar
-  phonetic_symbol varchar
-  present varchar
-  past varchar
-  past_participle varchar
-  present_participle varchar
-  meaning varchar
+  verbs_id int
+  IPA_irregular_verbs_id varchar
 }
+
+Ref: irregular_verbs.verbs_id - verbs.id
 
 Table regular_verbs {
   id integer [primary key]
-  infinitive varchar
-  phonetic_symbol varchar
-  present varchar
-  past varchar
-  past_participle varchar
-  present_participle varchar
-  meaning varchar
+  verbs_id int
+  past_sound past_sounds
+  IPA_regular_verbs_id varchar
 }
+Ref: regular_verbs.verbs_id - verbs.id
+
+Enum past_sounds {
+  id
+  t
+  d
+}
+
+Table IPA_regular_verbs {
+  id integer [primary key]
+  verbs_id int
+  ipa_present_uk varchar
+  ipa_present_us varchar
+  ipa_past_uk varchar
+  ipa_past_us varchar
+  ipa_past_participle_uk varchar
+  ipa_past_participle_us varchar
+  ipa_present_participle_uk varchar
+  ipa_present_participle_us varchar
+}
+
+ref: IPA_regular_verbs.verbs_id - regular_verbs.id 
+
+Table IPA_irregular_verbs {
+  id integer [primary key]
+  verbs_id int
+  ipa_present_uk varchar
+  ipa_present_us varchar
+  ipa_past_uk varchar
+  ipa_past_us varchar
+  ipa_past_participle_uk varchar
+  ipa_past_participle_us varchar
+  ipa_present_participle_uk varchar
+  ipa_present_participle_us varchar
+}
+
+ref: IPA_irregular_verbs.verbs_id - irregular_verbs.id
 
 Table phrasal_verb {
   id int [primary key]
   phrasal_verb varchar
-  verb_id varchar
-  preposition_id varchar
+  verb_id int
+  preposition_id int
   meaning text
 }
+
+Ref: phrasal_verb.verb_id - verbs.id
+Ref: phrasal_verb.preposition_id > preposition.id
 
 table preposition {
   id int [primary key]
   preposition varchar
   meaning text
 }
-Table sentences_verbs {
-  id integer [primary key]
-  verb_id varchar
-  post_sentences_verbs_id text
-}
-
-Table sentences_phrasal_verbs{
-  id integer [primary key]
-  phrasal_verbs_id varchar
-  post_sentences_phrasal_verbs_id text
-}
 
 
-Table post_sentences_verbs {
+Table post_sentences_regular_verbs {
   id integer [primary key]
-  verbs_id varchar
-  present varchar
-  past varchar
-  past_participle varchar
-  present_participle varchar
-  users_id varchar 
+  regular_verb_id int
+  sense varchar
+  users_id int 
 }
+
+Ref: post_sentences_regular_verbs.regular_verb_id > regular_verbs.id
+Ref: post_sentences_regular_verbs.users_id > users.id
+
+
+Table post_sentences_irregular_verbs {
+  id integer [primary key]
+  irregular_verb_id int
+  sense varchar
+  users_id int 
+}
+
+Ref: post_sentences_irregular_verbs.irregular_verb_id > irregular_verbs.id
+Ref: post_sentences_irregular_verbs.users_id > users.id
 
 Table post_sentences_phrasal_verbs {
   id integer [primary key]
-  phrasal_verbs_id varchar
-  present varchar
-  past varchar
-  past_participle varchar
-  present_participle varchar
-  users_id varchar 
+  phrasal_verbs_id int
+  sense varchar
+  users_id int  
 }
+
+Ref: post_sentences_phrasal_verbs.phrasal_verbs_id > phrasal_verb.id
+Ref: post_sentences_phrasal_verbs.users_id > users.id

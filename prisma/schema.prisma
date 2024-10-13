@@ -14,19 +14,124 @@ datasource db {
 }
 
 model User {
-  id        String    @id @default(uuid())
-  username  String    @unique
-  firstName String?
-  lastName  String?
-  email     String    @unique
-  genre     String?
-  birth     DateTime?  
-  password  String
-  country   String?
-  role      UserRole? @default(USER)
+  id                   String                         @id @default(uuid())
+  username             String                         @unique
+  firstName            String?
+  lastName             String?
+  email                String                         @unique
+  genre                String?
+  birth                DateTime?
+  password             String
+  country              String?
+  number               String?
+  role                 UserRole?                      @default(USER)
+  post_sentences_verbs Post_sentences_verbs[]
+  post_PhrasalV        Post_sentences_phrasal_verbs[]
 
-  create_at DateTime  @default(now())
-  update_at DateTime  @default(now())
+  create_at DateTime @default(now())
+  update_at DateTime @default(now())
+}
+
+model Verbs {
+  id                   String                @id @unique
+  infinitive           String
+  present              String
+  past                 String
+  past_participle      String
+  present_participle   String
+  meaning              String?
+  type                 VerbsType
+  RegularVerbs         RegularVerbs?
+  IrregularVerbs       IrregularVerbs?
+  Phrasal_verbs        PhrasalVerbs?
+  IPA_regular_verbs    IPA_regular_verbs?
+  IPA_irregular_verbs  IPA_irregular_verbs?
+  Post_sentences_verbs Post_sentences_verbs?
+}
+
+model IPA_regular_verbs {
+  id                        String        @id @unique
+  verbs                     Verbs         @relation(fields: [verb_id], references: [id])
+  verb_id                   String        @unique
+  ipa_present_uk            String
+  ipa_present_us            String
+  ipa_past_uk               String
+  ipa_past_us               String
+  ipa_past_participle_uk    String
+  ipa_past_participle_us    String
+  ipa_present_participle_uk String
+  ipa_present_participle_us String
+  RegularVerbs              RegularVerbs?
+}
+
+model IPA_irregular_verbs {
+  id                        String          @id @unique
+  verbs                     Verbs           @relation(fields: [verb_id], references: [id])
+  verb_id                   String          @unique
+  ipa_present_uk            String
+  ipa_present_us            String
+  ipa_past_uk               String
+  ipa_past_us               String
+  ipa_past_participle_uk    String
+  ipa_past_participle_us    String
+  ipa_present_participle_uk String
+  ipa_present_participle_us String
+  IrregularVerbs            IrregularVerbs?
+}
+
+model RegularVerbs {
+  id                   String            @id @unique
+  verbs                Verbs             @relation(fields: [verb_id], references: [id])
+  verb_id              String            @unique
+  ipa_regular          IPA_regular_verbs @relation(fields: [ipa_regular_verbs_id], references: [id])
+  ipa_regular_verbs_id String            @unique
+  past_sound           String
+}
+
+model IrregularVerbs {
+  id                     String              @id @unique
+  verbs                  Verbs               @relation(fields: [verb_id], references: [id])
+  verb_id                String              @unique
+  ipa_irregular          IPA_irregular_verbs @relation(fields: [ipa_irregular_verbs_id], references: [id])
+  ipa_irregular_verbs_id String              @unique
+}
+
+model PhrasalVerbs {
+  id             String                        @id @unique
+  phrasal_verb   String
+  meaning        String
+  preposition    Preposition                   @relation(fields: [preposition_id], references: [id])
+  preposition_id String                        @unique
+  verbs          Verbs                         @relation(fields: [verbs_id], references: [id])
+  verbs_id       String                        @unique
+  post_sentences Post_sentences_phrasal_verbs?
+}
+
+model Preposition {
+  id           String        @id @unique
+  preposition  String
+  meaning      String
+  phrasalVerbs PhrasalVerbs?
+}
+
+model Post_sentences_verbs {
+  id       String @id @default(uuid())
+  verbs    Verbs  @relation(fields: [verb_id], references: [id])
+  verb_id  String @unique
+  tense    String
+  sentence String
+  user     User   @relation(fields: [user_id], references: [id])
+  user_id  String
+}
+
+model Post_sentences_phrasal_verbs {
+  id              String       @id @default(uuid())
+  phrasalVerbs    PhrasalVerbs @relation(fields: [phrasal_verb_id], references: [id])
+  phrasal_verb_id String       @unique
+  tense           String
+  sentence        String
+  user            User         @relation(fields: [user_id], references: [id])
+  user_id         String
 }
 
 enum UserRole {
@@ -34,4 +139,10 @@ enum UserRole {
   GUEST
   USER
   PREMIUN
+  TEACHER
+}
+
+enum VerbsType {
+  REGULAR
+  IRREGULAR
 }
