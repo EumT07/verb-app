@@ -1,0 +1,3692 @@
+[
+    {
+        "id": "V6-ACC-4502",
+        "infinitive": "TO ACCEPT",
+        "present": "ACCEPT",
+        "past": "ACCEPTED",
+        "past_participle": "ACCEPTED",
+        "present_participle": "ACCEPTING",
+        "meaning": "ACEPTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-ACT-6473",
+        "infinitive": "TO ACT",
+        "present": "ACT",
+        "past": "ACTED",
+        "past_participle": "ACTED",
+        "present_participle": "ACTING",
+        "meaning": "ACTUAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-ADD-4735",
+        "infinitive": "TO ADD",
+        "present": "ADD",
+        "past": "ADDED",
+        "past_participle": "ADDED",
+        "present_participle": "ADDING",
+        "meaning": "SUMAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-ADM-9699",
+        "infinitive": "TO ADMIT",
+        "present": "ADMIT",
+        "past": "ADMITTED",
+        "past_participle": "ADMITTED",
+        "present_participle": "ADMITTING",
+        "meaning": "ADMITIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-ADV-3470",
+        "infinitive": "TO ADVISE",
+        "present": "ADVISE",
+        "past": "ADVISED",
+        "past_participle": "ADVISED",
+        "present_participle": "ADVISING",
+        "meaning": "ACONSEJAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-AFF-4842",
+        "infinitive": "TO AFFORD",
+        "present": "AFFORD",
+        "past": "AFFORDED",
+        "past_participle": "AFFORDED",
+        "present_participle": "AFFORDING",
+        "meaning": "Permitirse el lujo de",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-AGR-2065",
+        "infinitive": "TO AGREE",
+        "present": "AGREE",
+        "past": "AGREED",
+        "past_participle": "AGREED",
+        "present_participle": "AGREEING",
+        "meaning": "CONVENIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-AIM-3259",
+        "infinitive": "TO AIM",
+        "present": "AIM",
+        "past": "AIMED",
+        "past_participle": "AIMED",
+        "present_participle": "AIMING",
+        "meaning": "APUNTAR / Planificar logar",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-ALL-7778",
+        "infinitive": "TO ALLOW",
+        "present": "ALLOW",
+        "past": "ALLOWED",
+        "past_participle": "ALLOWED",
+        "present_participle": "ALLOWING",
+        "meaning": "PERMITIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-AMU-4321",
+        "infinitive": "TO AMUSE",
+        "present": "AMUSE",
+        "past": "AMUSED",
+        "past_participle": "AMUSED",
+        "present_participle": "AMUSING",
+        "meaning": "divertir/entretener",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-ANS-2931",
+        "infinitive": "TO ANSWER",
+        "present": "ANSWER",
+        "past": "ANSWERED",
+        "past_participle": "ANSWERED",
+        "present_participle": "ANSWERING",
+        "meaning": "RESPONDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V10-ANT-9438",
+        "infinitive": "TO ANTICIPATE",
+        "present": "ANTICIPATE",
+        "past": "ANTICIPATED",
+        "past_participle": "ANTICIPATED",
+        "present_participle": "ANTICIPATING",
+        "meaning": "ANTICIPAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-APO-6050",
+        "infinitive": "TO APOLOGIZE",
+        "present": "APOLOGIZE",
+        "past": "APOLOGIZED",
+        "past_participle": "APOLOGIZED",
+        "present_participle": "APOLOGIZING",
+        "meaning": "DISCULPARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-APP-2863",
+        "infinitive": "TO APPEAR",
+        "present": "APPEAR",
+        "past": "APPEARED",
+        "past_participle": "APPEARED",
+        "present_participle": "APPEARING",
+        "meaning": "PARECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V10-APP-1852",
+        "infinitive": "TO APPRECIATE",
+        "present": "APPRECIATE",
+        "past": "APPRECIATED",
+        "past_participle": "APPRECIATED",
+        "present_participle": "APPRECIATING",
+        "meaning": "APRECIAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-APP-9521",
+        "infinitive": "TO APPROVE",
+        "present": "APPROVE",
+        "past": "APPROVED",
+        "past_participle": "APPROVED",
+        "present_participle": "APPROVING",
+        "meaning": "APROBAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-ARR-6997",
+        "infinitive": "TO ARRANGE",
+        "present": "ARRANGE",
+        "past": "ARRANGED",
+        "past_participle": "ARRANGED",
+        "present_participle": "ARRANGING",
+        "meaning": "ORDENAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-ARR-8664",
+        "infinitive": "TO ARRIVE",
+        "present": "ARRIVE",
+        "past": "ARRIVED",
+        "past_participle": "ARRIVED",
+        "present_participle": "ARRIVING",
+        "meaning": "LLEGAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-ASK-3327",
+        "infinitive": "TO ASK",
+        "present": "ASK",
+        "past": "ASKED",
+        "past_participle": "ASKED",
+        "present_participle": "ASKING",
+        "meaning": "PREGUNTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-ATT-9750",
+        "infinitive": "TO ATTEMPT",
+        "present": "ATTEMPT",
+        "past": "ATTEMPTED",
+        "past_participle": "ATTEMPTED",
+        "present_participle": "ATTEMPTING",
+        "meaning": "INTENTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-ATT-7133",
+        "infinitive": "TO ATTEND",
+        "present": "ATTEND",
+        "past": "ATTENDED",
+        "past_participle": "ATTENDED",
+        "present_participle": "ATTENDING",
+        "meaning": "ASISTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-AVO-9904",
+        "infinitive": "TO AVOID",
+        "present": "AVOID",
+        "past": "AVOIDED",
+        "past_participle": "AVOIDED",
+        "present_participle": "AVOIDING",
+        "meaning": "EVITAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-BAT-9849",
+        "infinitive": "TO BATHE",
+        "present": "BATHE",
+        "past": "BATHED",
+        "past_participle": "BATHED",
+        "present_participle": "BATHING",
+        "meaning": "BA\u00d1ARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-BEG-5796",
+        "infinitive": "TO BEG",
+        "present": "BEG",
+        "past": "BEGGED",
+        "past_participle": "BEGGED",
+        "present_participle": "BEGGING",
+        "meaning": "ROGAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-BEH-8848",
+        "infinitive": "TO BEHAVE",
+        "present": "BEHAVE",
+        "past": "BEHAVED",
+        "past_participle": "BEHAVED",
+        "present_participle": "BEHAVING",
+        "meaning": "COMPORTARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-BEL-5974",
+        "infinitive": "TO BELIEVE",
+        "present": "BELIEVE",
+        "past": "BELIEVED",
+        "past_participle": "BELIEVED",
+        "present_participle": "BELIEVING",
+        "meaning": "CREER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-BEL-8806",
+        "infinitive": "TO BELONG",
+        "present": "BELONG",
+        "past": "BELONGED",
+        "past_participle": "BELONGED",
+        "present_participle": "BELONGING",
+        "meaning": "PERTENECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-BOI-4790",
+        "infinitive": "TO BOIL",
+        "present": "BOIL",
+        "past": "BOILED",
+        "past_participle": "BOILED",
+        "present_participle": "BOILING",
+        "meaning": "HERVIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-BOR-7415",
+        "infinitive": "TO BORROW",
+        "present": "BORROW",
+        "past": "BORROWED",
+        "past_participle": "BORROWED",
+        "present_participle": "BORROWING",
+        "meaning": "PEDIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-BOT-2367",
+        "infinitive": "TO BOTHER",
+        "present": "BOTHER",
+        "past": "BOTHERED",
+        "past_participle": "BOTHERED",
+        "present_participle": "BOTHERING",
+        "meaning": "MOLESTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-BRU-8745",
+        "infinitive": "TO BRUSH",
+        "present": "BRUSH",
+        "past": "BRUSHED",
+        "past_participle": "BRUSHED",
+        "present_participle": "BRUSHING",
+        "meaning": "CEPILLAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-CAL-8883",
+        "infinitive": "TO CALL",
+        "present": "CALL",
+        "past": "CALLED",
+        "past_participle": "CALLED",
+        "present_participle": "CALLING",
+        "meaning": "LLAMAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CAR-4994",
+        "infinitive": "TO CARRY",
+        "present": "CARRY",
+        "past": "CARRIED",
+        "past_participle": "CARRIED",
+        "present_participle": "CARRYING",
+        "meaning": "LLEVAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-CAS-5431",
+        "infinitive": "TO CASH",
+        "present": "CASH",
+        "past": "CASHED",
+        "past_participle": "CASHED",
+        "present_participle": "CASHING",
+        "meaning": "CAMBIAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CEA-4293",
+        "infinitive": "TO CEASE",
+        "present": "CEASE",
+        "past": "CEASED",
+        "past_participle": "CEASED",
+        "present_participle": "CEASING",
+        "meaning": "CESAR/SUSPENDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-CEL-9031",
+        "infinitive": "TO CELEBRATE",
+        "present": "CELEBRATE",
+        "past": "CELEBRATED",
+        "past_participle": "CELEBRATED",
+        "present_participle": "CELEBRATING",
+        "meaning": "CELEBRAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-CHA-6986",
+        "infinitive": "TO CHANGE",
+        "present": "CHANGE",
+        "past": "CHANGED",
+        "past_participle": "CHANGED",
+        "present_participle": "CHANGING",
+        "meaning": "CAMBIAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CHE-6281",
+        "infinitive": "TO CHEAT",
+        "present": "CHEAT",
+        "past": "CHEATED",
+        "past_participle": "CHEATED",
+        "present_participle": "CHEATING",
+        "meaning": "HACER TRAMPA",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CHE-3364",
+        "infinitive": "TO CHECK",
+        "present": "CHECK",
+        "past": "CHECKED",
+        "past_participle": "CHECKED",
+        "present_participle": "CHECKING",
+        "meaning": "VERIFICAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CLA-1348",
+        "infinitive": "TO CLAIM",
+        "present": "CLAIM",
+        "past": "CLAIMED",
+        "past_participle": "CLAIMED",
+        "present_participle": "CLAIMING",
+        "meaning": "EXIGIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CLE-4400",
+        "infinitive": "TO CLEAN",
+        "present": "CLEAN",
+        "past": "CLEANED",
+        "past_participle": "CLEANED",
+        "present_participle": "CLEANING",
+        "meaning": "LIMPIAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CLI-5972",
+        "infinitive": "TO CLIMB",
+        "present": "CLIMB",
+        "past": "CLIMBED",
+        "past_participle": "CLIMBED",
+        "present_participle": "CLIMBING",
+        "meaning": "ESCALAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CLO-4517",
+        "infinitive": "TO CLOSE",
+        "present": "CLOSE",
+        "past": "CLOSED",
+        "past_participle": "CLOSED",
+        "present_participle": "CLOSING",
+        "meaning": "CERRAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-COM-9907",
+        "infinitive": "TO COMB",
+        "present": "COMB",
+        "past": "COMBED",
+        "past_participle": "COMBED",
+        "present_participle": "COMBING",
+        "meaning": "PEINAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-COM-2632",
+        "infinitive": "TO COMPARE",
+        "present": "COMPARE",
+        "past": "COMPARED",
+        "past_participle": "COMPARED",
+        "present_participle": "COMPARING",
+        "meaning": "COMPARAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-COM-6056",
+        "infinitive": "TO COMPEL",
+        "present": "COMPEL",
+        "past": "COMPELLED",
+        "past_participle": "COMPELLED",
+        "present_participle": "COMPELLING",
+        "meaning": "OBLIGAR A",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-COM-4193",
+        "infinitive": "TO COMPLAIN",
+        "present": "COMPLAIN",
+        "past": "COMPLAINED",
+        "past_participle": "COMPLAINED",
+        "present_participle": "COMPLAINING",
+        "meaning": "QUEJARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-COM-3624",
+        "infinitive": "TO COMPLETE",
+        "present": "COMPLETE",
+        "past": "COMPLETED",
+        "past_participle": "COMPLETED",
+        "present_participle": "COMPLETING",
+        "meaning": "COMPLETAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V12-CON-1116",
+        "infinitive": "TO CONGRATULATE",
+        "present": "CONGRATULATE",
+        "past": "CONGRATULATED",
+        "past_participle": "CONGRATULATED",
+        "present_participle": "CONGRATULATING",
+        "meaning": "FELICITAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-CON-3515",
+        "infinitive": "TO CONSENT",
+        "present": "CONSENT",
+        "past": "CONSENTED",
+        "past_participle": "CONSENTED",
+        "present_participle": "CONSENTING",
+        "meaning": "CONSENTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-CON-5680",
+        "infinitive": "TO CONSIDER",
+        "present": "CONSIDER",
+        "past": "CONSIDERED",
+        "past_participle": "CONSIDERED",
+        "present_participle": "CONSIDERING",
+        "meaning": "CONSIDERAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-CON-3026",
+        "infinitive": "TO CONTINUE",
+        "present": "CONTINUE",
+        "past": "CONTINUED",
+        "past_participle": "CONTINUED",
+        "present_participle": "CONTINUING",
+        "meaning": "CONTINUAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-CON-9575",
+        "infinitive": "TO CONVINCE",
+        "present": "CONVINCE",
+        "past": "CONVINCED",
+        "past_participle": "CONVINCED",
+        "present_participle": "CONVINCING",
+        "meaning": "CONVENCER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-COO-7219",
+        "infinitive": "TO COOK",
+        "present": "COOK",
+        "past": "COOKED",
+        "past_participle": "COOKED",
+        "present_participle": "COOKING",
+        "meaning": "COCINAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-COR-2324",
+        "infinitive": "TO CORRECT",
+        "present": "CORRECT",
+        "past": "CORRECTED",
+        "past_participle": "CORRECTED",
+        "present_participle": "CORRECTING",
+        "meaning": "CORREGIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-COV-8452",
+        "infinitive": "TO COVER",
+        "present": "COVER",
+        "past": "COVERED",
+        "past_participle": "COVERED",
+        "present_participle": "COVERING",
+        "meaning": "CUBRIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-CRO-6055",
+        "infinitive": "TO CROSS",
+        "present": "CROSS",
+        "past": "CROSSED",
+        "past_participle": "CROSSED",
+        "present_participle": "CROSSING",
+        "meaning": "CRUZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-CRY-7262",
+        "infinitive": "TO CRY",
+        "present": "CRY",
+        "past": "CRIED",
+        "past_participle": "CRIED",
+        "present_participle": "CRYING",
+        "meaning": "LLORAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-CUR-7740",
+        "infinitive": "TO CURE",
+        "present": "CURE",
+        "past": "CURED",
+        "past_participle": "CURED",
+        "present_participle": "CURING",
+        "meaning": "CURAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-DAN-7176",
+        "infinitive": "TO DANCE",
+        "present": "DANCE",
+        "past": "DANCED",
+        "past_participle": "DANCED",
+        "present_participle": "DANCING",
+        "meaning": "BAILAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-DAR-1964",
+        "infinitive": "TO DARE",
+        "present": "DARE",
+        "past": "DARED",
+        "past_participle": "DARED",
+        "present_participle": "DARING",
+        "meaning": "ATREVERSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-DAT-7024",
+        "infinitive": "TO DATE",
+        "present": "DATE",
+        "past": "DATED",
+        "past_participle": "DATED",
+        "present_participle": "DATING",
+        "meaning": "FECHAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-DEC-3090",
+        "infinitive": "TO DECIDE",
+        "present": "DECIDE",
+        "past": "DECIDED",
+        "past_participle": "DECIDED",
+        "present_participle": "DECIDING",
+        "meaning": "DECIDIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-DEC-2910",
+        "infinitive": "TO DECLINE",
+        "present": "DECLINE",
+        "past": "DECLINED",
+        "past_participle": "DECLINED",
+        "present_participle": "DECLINING",
+        "meaning": "RECHAZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-DEF-4451",
+        "infinitive": "TO DEFEND",
+        "present": "DEFEND",
+        "past": "DEFENDED",
+        "past_participle": "DEFENDED",
+        "present_participle": "DEFENDING",
+        "meaning": "DEFENDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-DEF-5886",
+        "infinitive": "TO DEFER",
+        "present": "DEFER",
+        "past": "DEFERRED",
+        "past_participle": "DEFERRED",
+        "present_participle": "DEFERRING",
+        "meaning": "DIFERIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-DEL-8575",
+        "infinitive": "TO DELAY",
+        "present": "DELAY",
+        "past": "DELAYED",
+        "past_participle": "DELAYED",
+        "present_participle": "DELAYING",
+        "meaning": "RETRASARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-DEM-3586",
+        "infinitive": "TO DEMAND",
+        "present": "DEMAND",
+        "past": "DEMANDED",
+        "past_participle": "DEMANDED",
+        "present_participle": "DEMANDING",
+        "meaning": "EXIGIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-DEN-5271",
+        "infinitive": "TO DENY",
+        "present": "DENY",
+        "past": "DENIED",
+        "past_participle": "DENIED",
+        "present_participle": "DENYING",
+        "meaning": "NEGAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-DES-6881",
+        "infinitive": "TO DESCRIBE",
+        "present": "DESCRIBE",
+        "past": "DESCRIBED",
+        "past_participle": "DESCRIBED",
+        "present_participle": "DESCRIBING",
+        "meaning": "DESCRIBIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-DES-6441",
+        "infinitive": "TO DESERVE",
+        "present": "DESERVE",
+        "past": "DESERVED",
+        "past_participle": "DESERVED",
+        "present_participle": "DESERVING",
+        "meaning": "MERECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-DES-8793",
+        "infinitive": "TO DESIRE",
+        "present": "DESIRE",
+        "past": "DESIRED",
+        "past_participle": "DESIRED",
+        "present_participle": "DESIRING",
+        "meaning": "DESEAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-DES-9729",
+        "infinitive": "TO DESTROY",
+        "present": "DESTROY",
+        "past": "DESTROYED",
+        "past_participle": "DESTROYED",
+        "present_participle": "DESTROYING",
+        "meaning": "DESTRUIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-DET-8060",
+        "infinitive": "TO DETEST",
+        "present": "DETEST",
+        "past": "DETESTED",
+        "past_participle": "DETESTED",
+        "present_participle": "DETESTING",
+        "meaning": "ABORRECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-DIE-3266",
+        "infinitive": "TO DIE",
+        "present": "DIE",
+        "past": "DIED",
+        "past_participle": "DIED",
+        "present_participle": "DYING",
+        "meaning": "MORIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V10-DIS-3961",
+        "infinitive": "TO DISAPPROVE",
+        "present": "DISAPPROVE",
+        "past": "DISAPPROVED",
+        "past_participle": "DISAPPROVED",
+        "present_participle": "DISAPPROVING",
+        "meaning": "DESAPROBAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-DIS-3845",
+        "infinitive": "TO DISCOVER",
+        "present": "DISCOVER",
+        "past": "DISCOVERED",
+        "past_participle": "DISCOVERED",
+        "present_participle": "DISCOVERING",
+        "meaning": "DESCUBRIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-DIS-4174",
+        "infinitive": "TO DISCUSS",
+        "present": "DISCUSS",
+        "past": "DISCUSSED",
+        "past_participle": "DISCUSSED",
+        "present_participle": "DISCUSSING",
+        "meaning": "DISCUTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-DIS-9210",
+        "infinitive": "TO DISLIKE",
+        "present": "DISLIKE",
+        "past": "DISLIKED",
+        "past_participle": "DISLIKED",
+        "present_participle": "DISLIKING",
+        "meaning": "DETESTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-DOU-1013",
+        "infinitive": "TO DOUBT",
+        "present": "DOUBT",
+        "past": "DOUBTED",
+        "past_participle": "DOUBTED",
+        "present_participle": "DOUBTING",
+        "meaning": "DUDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-DRE-3158",
+        "infinitive": "TO DRESS",
+        "present": "DRESS",
+        "past": "DRESSED",
+        "past_participle": "DRESSED",
+        "present_participle": "DRESSING",
+        "meaning": "VESTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-ELE-5634",
+        "infinitive": "TO ELECT",
+        "present": "ELECT",
+        "past": "ELECTED",
+        "past_participle": "ELECTED",
+        "present_participle": "ELECTING",
+        "meaning": "ELEGIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-EMP-7697",
+        "infinitive": "TO EMPLOY",
+        "present": "EMPLOY",
+        "past": "EMPLOYED",
+        "past_participle": "EMPLOYED",
+        "present_participle": "EMPLOYING",
+        "meaning": "EMPLEAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-ENC-1900",
+        "infinitive": "TO ENCOURAGE",
+        "present": "ENCOURAGE",
+        "past": "ENCOURAGED",
+        "past_participle": "ENCOURAGED",
+        "present_participle": "ENCOURAGING",
+        "meaning": "ALENTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-END-8615",
+        "infinitive": "TO END",
+        "present": "END",
+        "past": "ENDED",
+        "past_participle": "ENDED",
+        "present_participle": "ENDING",
+        "meaning": "TERMINAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-END-1850",
+        "infinitive": "TO ENDURE",
+        "present": "ENDURE",
+        "past": "ENDURED",
+        "past_participle": "ENDURED",
+        "present_participle": "ENDURING",
+        "meaning": "RESISTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-ENJ-1690",
+        "infinitive": "TO ENJOY",
+        "present": "ENJOY",
+        "past": "ENJOYED",
+        "past_participle": "ENJOYED",
+        "present_participle": "ENJOYING",
+        "meaning": "DISFRUTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-ENT-2186",
+        "infinitive": "TO ENTER",
+        "present": "ENTER",
+        "past": "ENTERED",
+        "past_participle": "ENTERED",
+        "present_participle": "ENTERING",
+        "meaning": "ENTRAR EN",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-ERA-2793",
+        "infinitive": "TO ERASE",
+        "present": "ERASE",
+        "past": "ERASED",
+        "past_participle": "ERASED",
+        "present_participle": "ERASING",
+        "meaning": "BORRAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-ESC-2252",
+        "infinitive": "TO ESCAPE",
+        "present": "ESCAPE",
+        "past": "ESCAPED",
+        "past_participle": "ESCAPED",
+        "present_participle": "ESCAPING",
+        "meaning": "ESCAPAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-EXC-2940",
+        "infinitive": "TO EXCLAIM",
+        "present": "EXCLAIM",
+        "past": "EXCLAIMED",
+        "past_participle": "EXCLAIMED",
+        "present_participle": "EXCLAIMING",
+        "meaning": "EXCLAMAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-EXC-7140",
+        "infinitive": "TO EXCUSE",
+        "present": "EXCUSE",
+        "past": "EXCUSED",
+        "past_participle": "EXCUSED",
+        "present_participle": "EXCUSING",
+        "meaning": "DISCULPAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-EXP-5419",
+        "infinitive": "TO EXPECT",
+        "present": "EXPECT",
+        "past": "EXPECTED",
+        "past_participle": "EXPECTED",
+        "present_participle": "EXPECTING",
+        "meaning": "ESPERAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-EXP-7075",
+        "infinitive": "TO EXPLAIN",
+        "present": "EXPLAIN",
+        "past": "EXPLAINED",
+        "past_participle": "EXPLAINED",
+        "present_participle": "EXPLAINING",
+        "meaning": "EXPLICAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-EXP-2188",
+        "infinitive": "TO EXPRESS",
+        "present": "EXPRESS",
+        "past": "EXPRESSED",
+        "past_participle": "EXPRESSED",
+        "present_participle": "EXPRESSING",
+        "meaning": "EXPRESAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-FAI-9572",
+        "infinitive": "TO FAIL",
+        "present": "FAIL",
+        "past": "FAILED",
+        "past_participle": "FAILED",
+        "present_participle": "FAILING",
+        "meaning": "FALLAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-FIN-5598",
+        "infinitive": "TO FINISH",
+        "present": "FINISH",
+        "past": "FINISHED",
+        "past_participle": "FINISHED",
+        "present_participle": "FINISHING",
+        "meaning": "TERMINAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-FIT-1069",
+        "infinitive": "TO FIT",
+        "present": "FIT",
+        "past": "FITTED",
+        "past_participle": "FITTED",
+        "present_participle": "FITTING",
+        "meaning": "CABER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-FOL-1497",
+        "infinitive": "TO FOLLOW",
+        "present": "FOLLOW",
+        "past": "FOLLOWED",
+        "past_participle": "FOLLOWED",
+        "present_participle": "FOLLOWING",
+        "meaning": "SEGUIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-FOR-7914",
+        "infinitive": "TO FORCE",
+        "present": "FORCE",
+        "past": "FORCED",
+        "past_participle": "FORCED",
+        "present_participle": "FORCING",
+        "meaning": "OBLIGAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-FOR-5837",
+        "infinitive": "TO FORM",
+        "present": "FORM",
+        "past": "FORMED",
+        "past_participle": "FORMED",
+        "present_participle": "FORMING",
+        "meaning": "FORMAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-FRY-4387",
+        "infinitive": "TO FRY",
+        "present": "FRY",
+        "past": "FRIED",
+        "past_participle": "FRIED",
+        "present_participle": "FRYING",
+        "meaning": "FRE\u00cdR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-GAT-5605",
+        "infinitive": "TO GATHER",
+        "present": "GATHER",
+        "past": "GATHERED",
+        "past_participle": "GATHERED",
+        "present_participle": "GATHERING",
+        "meaning": "REUNIRSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-GOV-3582",
+        "infinitive": "TO GOVERN",
+        "present": "GOVERN",
+        "past": "GOVERNED",
+        "past_participle": "GOVERNED",
+        "present_participle": "GOVERNING",
+        "meaning": "GOBERNAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-GRE-9765",
+        "infinitive": "TO GREET",
+        "present": "GREET",
+        "past": "GREETED",
+        "past_participle": "GREETED",
+        "present_participle": "GREETING",
+        "meaning": "SALUDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-GUA-3282",
+        "infinitive": "TO GUARANTEE",
+        "present": "GUARANTEE",
+        "past": "GUARANTEED",
+        "past_participle": "GUARANTEED",
+        "present_participle": "GUARANTEEING",
+        "meaning": "GARANTIZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-HAP-6408",
+        "infinitive": "TO HAPPEN",
+        "present": "HAPPEN",
+        "past": "HAPPENED",
+        "past_participle": "HAPPENED",
+        "present_participle": "HAPPENING",
+        "meaning": "SUCEDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-HAT-3326",
+        "infinitive": "TO HATE",
+        "present": "HATE",
+        "past": "HATED",
+        "past_participle": "HATED",
+        "present_participle": "HATING",
+        "meaning": "ODIAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-HEA-9078",
+        "infinitive": "TO HEAD",
+        "present": "HEAD",
+        "past": "HEADED",
+        "past_participle": "HEADED",
+        "present_participle": "HEADING",
+        "meaning": "DIRIGIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-HEL-3592",
+        "infinitive": "TO HELP",
+        "present": "HELP",
+        "past": "HELPED",
+        "past_participle": "HELPED",
+        "present_participle": "HELPING",
+        "meaning": "AYUDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-HES-8095",
+        "infinitive": "TO HESITATE",
+        "present": "HESITATE",
+        "past": "HESITATED",
+        "past_participle": "HESITATED",
+        "present_participle": "HESITATING",
+        "meaning": "VACILAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-HIR-7358",
+        "infinitive": "TO HIRE",
+        "present": "HIRE",
+        "past": "HIRED",
+        "past_participle": "HIRED",
+        "present_participle": "HIRING",
+        "meaning": "CONTRATAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-HOP-3125",
+        "infinitive": "TO HOPE",
+        "present": "HOPE",
+        "past": "HOPED",
+        "past_participle": "HOPED",
+        "present_participle": "HOPING",
+        "meaning": "ESPERAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-HUR-7031",
+        "infinitive": "TO HURRY",
+        "present": "HURRY",
+        "past": "HURRIED",
+        "past_participle": "HURRIED",
+        "present_participle": "HURRYING",
+        "meaning": "APRESURAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-IGN-2439",
+        "infinitive": "TO IGNORE",
+        "present": "IGNORE",
+        "past": "IGNORED",
+        "past_participle": "IGNORED",
+        "present_participle": "IGNORING",
+        "meaning": "IGNORAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-IMA-7925",
+        "infinitive": "TO IMAGINE",
+        "present": "IMAGINE",
+        "past": "IMAGINED",
+        "past_participle": "IMAGINED",
+        "present_participle": "IMAGINING",
+        "meaning": "IMAGINAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-IMP-8349",
+        "infinitive": "TO IMPLORE",
+        "present": "IMPLORE",
+        "past": "IMPLORED",
+        "past_participle": "IMPLORED",
+        "present_participle": "IMPLORING",
+        "meaning": "IMPLORAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-INC-8848",
+        "infinitive": "TO INCITE",
+        "present": "INCITE",
+        "past": "INCITED",
+        "past_participle": "INCITED",
+        "present_participle": "INCITING",
+        "meaning": "INCITAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-INS-7241",
+        "infinitive": "TO INSIST",
+        "present": "INSIST",
+        "past": "INSISTED",
+        "past_participle": "INSISTED",
+        "present_participle": "INSISTING",
+        "meaning": "INSISTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-INS-8276",
+        "infinitive": "TO INSTRUCT",
+        "present": "INSTRUCT",
+        "past": "INSTRUCTED",
+        "past_participle": "INSTRUCTED",
+        "present_participle": "INSTRUCTING",
+        "meaning": "INSTRUIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-INT-8400",
+        "infinitive": "TO INTEND",
+        "present": "INTEND",
+        "past": "INTENDED",
+        "past_participle": "INTENDED",
+        "present_participle": "INTENDING",
+        "meaning": "PRETENDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-INT-5531",
+        "infinitive": "TO INTERRUPT",
+        "present": "INTERRUPT",
+        "past": "INTERRUPTED",
+        "past_participle": "INTERRUPTED",
+        "present_participle": "INTERRUPTING",
+        "meaning": "INTERRUMPIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-INT-8077",
+        "infinitive": "TO INTRODUCE",
+        "present": "INTRODUCE",
+        "past": "INTRODUCED",
+        "past_participle": "INTRODUCED",
+        "present_participle": "INTRODUCING",
+        "meaning": "PRESENTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-INV-5600",
+        "infinitive": "TO INVENT",
+        "present": "INVENT",
+        "past": "INVENTED",
+        "past_participle": "INVENTED",
+        "present_participle": "INVENTING",
+        "meaning": "INVENTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-INV-2095",
+        "infinitive": "TO INVITE",
+        "present": "INVITE",
+        "past": "INVITED",
+        "past_participle": "INVITED",
+        "present_participle": "INVITING",
+        "meaning": "INVITAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-INV-3780",
+        "infinitive": "TO INVOLVE",
+        "present": "INVOLVE",
+        "past": "INVOLVED",
+        "past_participle": "INVOLVED",
+        "present_participle": "INVOLVING",
+        "meaning": "INVOLUCRAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-JOG-5899",
+        "infinitive": "TO JOG",
+        "present": "JOG",
+        "past": "JOGGED",
+        "past_participle": "JOGGED",
+        "present_participle": "JOGGING",
+        "meaning": "TROTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-JUM-7669",
+        "infinitive": "TO JUMP",
+        "present": "JUMP",
+        "past": "JUMPED",
+        "past_participle": "JUMPED",
+        "present_participle": "JUMPING",
+        "meaning": "SALTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-KIL-3878",
+        "infinitive": "TO KILL",
+        "present": "KILL",
+        "past": "KILLED",
+        "past_participle": "KILLED",
+        "present_participle": "KILLING",
+        "meaning": "MATAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-KIS-8569",
+        "infinitive": "TO KISS",
+        "present": "KISS",
+        "past": "KISSED",
+        "past_participle": "KISSED",
+        "present_participle": "KISSING",
+        "meaning": "BESAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-KNO-4374",
+        "infinitive": "TO KNOCK",
+        "present": "KNOCK",
+        "past": "KNOCKED",
+        "past_participle": "KNOCKED",
+        "present_participle": "KNOCKING",
+        "meaning": "TOCAR ( puerta)",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-LAS-6414",
+        "infinitive": "TO LAST",
+        "present": "LAST",
+        "past": "LASTED",
+        "past_participle": "LASTED",
+        "present_participle": "LASTING",
+        "meaning": "DURAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-LAU-6231",
+        "infinitive": "TO LAUGH",
+        "present": "LAUGH",
+        "past": "LAUGHED",
+        "past_participle": "LAUGHED",
+        "present_participle": "LAUGHING",
+        "meaning": "RE\u00cdR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-LEA-1267",
+        "infinitive": "TO LEAD",
+        "present": "LEAD",
+        "past": "LEADED",
+        "past_participle": "LEADED",
+        "present_participle": "LEADING",
+        "meaning": "GUIAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-LIE-8142",
+        "infinitive": "TO LIE",
+        "present": "LIE",
+        "past": "LIED",
+        "past_participle": "LIED",
+        "present_participle": "LYING",
+        "meaning": "MENTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-LIF-4573",
+        "infinitive": "TO LIFT",
+        "present": "LIFT",
+        "past": "LIFTED",
+        "past_participle": "LIFTED",
+        "present_participle": "LIFTING",
+        "meaning": "LEVANTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-LIK-2590",
+        "infinitive": "TO LIKE",
+        "present": "LIKE",
+        "past": "LIKED",
+        "past_participle": "LIKED",
+        "present_participle": "LIKING",
+        "meaning": "GUSTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-LIS-1454",
+        "infinitive": "TO LISTEN",
+        "present": "LISTEN",
+        "past": "LISTENED",
+        "past_participle": "LISTENED",
+        "present_participle": "LISTENING",
+        "meaning": "ESCUCHAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-LIV-5275",
+        "infinitive": "TO LIVE",
+        "present": "LIVE",
+        "past": "LIVED",
+        "past_participle": "LIVED",
+        "present_participle": "LIVING",
+        "meaning": "VIVIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-LOO-9283",
+        "infinitive": "TO LOOK",
+        "present": "LOOK",
+        "past": "LOOKED",
+        "past_participle": "LOOKED",
+        "present_participle": "LOOKING",
+        "meaning": "MIRAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-LOO-8185",
+        "infinitive": "TO LOOSE",
+        "present": "LOOSE",
+        "past": "LOOSED",
+        "past_participle": "LOOSED",
+        "present_participle": "LOOSING",
+        "meaning": "SOLTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-LOV-4527",
+        "infinitive": "TO LOVE",
+        "present": "LOVE",
+        "past": "LOVED",
+        "past_participle": "LOVED",
+        "present_participle": "LOVING",
+        "meaning": "AMAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-MAI-4860",
+        "infinitive": "TO MAIL",
+        "present": "MAIL",
+        "past": "MAILED",
+        "past_participle": "MAILED",
+        "present_participle": "MAILING",
+        "meaning": "ECHAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-MAR-8772",
+        "infinitive": "TO MARRY",
+        "present": "MARRY",
+        "past": "MARRIED",
+        "past_participle": "MARRIED",
+        "present_participle": "MARRYING",
+        "meaning": "CASARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-MAT-7398",
+        "infinitive": "TO MATCH",
+        "present": "MATCH",
+        "past": "MATCHED",
+        "past_participle": "MATCHED",
+        "present_participle": "MATCHING",
+        "meaning": "COMPETIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-MAT-9901",
+        "infinitive": "TO MATTER",
+        "present": "MATTER",
+        "past": "MATTERED",
+        "past_participle": "MATTERED",
+        "present_participle": "MATTERING",
+        "meaning": "IMPORTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-MEA-7824",
+        "infinitive": "TO MEASURE",
+        "present": "MEASURE",
+        "past": "MEASURED",
+        "past_participle": "MEASURED",
+        "present_participle": "MEASURING",
+        "meaning": "MEDIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-MEN-8529",
+        "infinitive": "TO MENTION",
+        "present": "MENTION",
+        "past": "MENTIONED",
+        "past_participle": "MENTIONED",
+        "present_participle": "MENTIONING",
+        "meaning": "MENCIONAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-MIN-1635",
+        "infinitive": "TO MIND",
+        "present": "MIND",
+        "past": "MINDED",
+        "past_participle": "MINDED",
+        "present_participle": "MINDING",
+        "meaning": "IMPORTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-MIS-6051",
+        "infinitive": "TO MISS",
+        "present": "MISS",
+        "past": "MISSED",
+        "past_participle": "MISSED",
+        "present_participle": "MISSING",
+        "meaning": "EXTRA\u00d1AR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-MOV-2335",
+        "infinitive": "TO MOVE",
+        "present": "MOVE",
+        "past": "MOVED",
+        "past_participle": "MOVED",
+        "present_participle": "MOVING",
+        "meaning": "MOVERSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-NEE-8431",
+        "infinitive": "TO NEED",
+        "present": "NEED",
+        "past": "NEEDED",
+        "past_participle": "NEEDED",
+        "present_participle": "NEEDING",
+        "meaning": "NECESITAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-NEG-6841",
+        "infinitive": "TO NEGLECT",
+        "present": "NEGLECT",
+        "past": "NEGLECTED",
+        "past_participle": "NEGLECTED",
+        "present_participle": "NEGLECTING",
+        "meaning": "DESCUIDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-OBE-9875",
+        "infinitive": "TO OBEY",
+        "present": "OBEY",
+        "past": "OBEYED",
+        "past_participle": "OBEYED",
+        "present_participle": "OBEYING",
+        "meaning": "OBEDECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-OBS-2821",
+        "infinitive": "TO OBSERVE",
+        "present": "OBSERVE",
+        "past": "OBSERVED",
+        "past_participle": "OBSERVED",
+        "present_participle": "OBSERVING",
+        "meaning": "OBSERVAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-OFF-6885",
+        "infinitive": "TO OFFER",
+        "present": "OFFER",
+        "past": "OFFERED",
+        "past_participle": "OFFERED",
+        "present_participle": "OFFERING",
+        "meaning": "OFRECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-OMI-4620",
+        "infinitive": "TO OMIT",
+        "present": "OMIT",
+        "past": "OMITTED",
+        "past_participle": "OMITTED",
+        "present_participle": "OMITTING",
+        "meaning": "OMITIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-OPE-6614",
+        "infinitive": "TO OPEN",
+        "present": "OPEN",
+        "past": "OPENED",
+        "past_participle": "OPENED",
+        "present_participle": "OPENING",
+        "meaning": "ABRIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-ORD-3072",
+        "infinitive": "TO ORDER",
+        "present": "ORDER",
+        "past": "ORDERED",
+        "past_participle": "ORDERED",
+        "present_participle": "ORDERING",
+        "meaning": "ORDENAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-ORG-7588",
+        "infinitive": "TO ORGANIZE",
+        "present": "ORGANIZE",
+        "past": "ORGANIZED",
+        "past_participle": "ORGANIZED",
+        "present_participle": "ORGANIZING",
+        "meaning": "ORGANIZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-OUT-3034",
+        "infinitive": "TO OUTLINE",
+        "present": "OUTLINE",
+        "past": "OUTLINED",
+        "past_participle": "OUTLINED",
+        "present_participle": "OUTLINING",
+        "meaning": "DELINEAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-OWN-3823",
+        "infinitive": "TO OWN",
+        "present": "OWN",
+        "past": "OWNED",
+        "past_participle": "OWNED",
+        "present_participle": "OWNING",
+        "meaning": "POSEER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-PAI-1970",
+        "infinitive": "TO PAINT",
+        "present": "PAINT",
+        "past": "PAINTED",
+        "past_participle": "PAINTED",
+        "present_participle": "PAINTING",
+        "meaning": "PINTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-PAR-6249",
+        "infinitive": "TO PARDON",
+        "present": "PARDON",
+        "past": "PARDONED",
+        "past_participle": "PARDONED",
+        "present_participle": "PARDONING",
+        "meaning": "PERDONAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-PAR-9043",
+        "infinitive": "TO PARK",
+        "present": "PARK",
+        "past": "PARKED",
+        "past_participle": "PARKED",
+        "present_participle": "PARKING",
+        "meaning": "ESTACIONAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-PAS-6437",
+        "infinitive": "TO PASS",
+        "present": "PASS",
+        "past": "PASSED",
+        "past_participle": "PASSED",
+        "present_participle": "PASSING",
+        "meaning": "PASAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-PER-2580",
+        "infinitive": "TO PERMIT",
+        "present": "PERMIT",
+        "past": "PERMITTED",
+        "past_participle": "PERMITTED",
+        "present_participle": "PERMITTING",
+        "meaning": "PERMITIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-PHO-2574",
+        "infinitive": "TO PHONE",
+        "present": "PHONE",
+        "past": "PHONED",
+        "past_participle": "PHONED",
+        "present_participle": "PHONING",
+        "meaning": "LLAMAR ( TELF)",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-PLA-3247",
+        "infinitive": "TO PLACE",
+        "present": "PLACE",
+        "past": "PLACED",
+        "past_participle": "PLACED",
+        "present_participle": "PLACING",
+        "meaning": "COLOCAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-PLA-8324",
+        "infinitive": "TO PLAN",
+        "present": "PLAN",
+        "past": "PLANNED",
+        "past_participle": "PLANNED",
+        "present_participle": "PLANNING",
+        "meaning": "PLANEAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-PLA-2164",
+        "infinitive": "TO PLANT",
+        "present": "PLANT",
+        "past": "PLANTED",
+        "past_participle": "PLANTED",
+        "present_participle": "PLANTING",
+        "meaning": "PLANTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-PLA-6731",
+        "infinitive": "TO PLAY",
+        "present": "PLAY",
+        "past": "PLAYED",
+        "past_participle": "PLAYED",
+        "present_participle": "PLAYING",
+        "meaning": "JUGAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-PLE-1012",
+        "infinitive": "TO PLEASE",
+        "present": "PLEASE",
+        "past": "PLEASED",
+        "past_participle": "PLEASED",
+        "present_participle": "PLEASING",
+        "meaning": "AGRADAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-POI-3754",
+        "infinitive": "TO POINT",
+        "present": "POINT",
+        "past": "POINTED",
+        "past_participle": "POINTED",
+        "present_participle": "POINTING",
+        "meaning": "SE\u00d1ALAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-POS-6171",
+        "infinitive": "TO POST",
+        "present": "POST",
+        "past": "POSTED",
+        "past_participle": "POSTED",
+        "present_participle": "POSTING",
+        "meaning": "FIJAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-POS-6324",
+        "infinitive": "TO POSTPONE",
+        "present": "POSTPONE",
+        "past": "POSTPONED",
+        "past_participle": "POSTPONED",
+        "present_participle": "POSTPONING",
+        "meaning": "POSPONER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-PRA-8015",
+        "infinitive": "TO PRACTICE",
+        "present": "PRACTICE",
+        "past": "PRACTICED",
+        "past_participle": "PRACTICED",
+        "present_participle": "PRACTICING",
+        "meaning": "PRACTICAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-PRA-1049",
+        "infinitive": "TO PRAY",
+        "present": "PRAY",
+        "past": "PRAYED",
+        "past_participle": "PRAYED",
+        "present_participle": "PRAYING",
+        "meaning": "REZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-PRE-3100",
+        "infinitive": "TO PREFER",
+        "present": "PREFER",
+        "past": "PREFERRED",
+        "past_participle": "PREFERRED",
+        "present_participle": "PREFERRING",
+        "meaning": "PREFERIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-PRE-3341",
+        "infinitive": "TO PREPARE",
+        "present": "PREPARE",
+        "past": "PREPARED",
+        "past_participle": "PREPARED",
+        "present_participle": "PREPARING",
+        "meaning": "PREPARAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-PRE-6969",
+        "infinitive": "TO PRETEND",
+        "present": "PRETEND",
+        "past": "PRETENDED",
+        "past_participle": "PRETENDED",
+        "present_participle": "PRETENDING",
+        "meaning": "PRETENDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-PRE-8471",
+        "infinitive": "TO PREVENT",
+        "present": "PREVENT",
+        "past": "PREVENTED",
+        "past_participle": "PREVENTED",
+        "present_participle": "PREVENTING",
+        "meaning": "PREVENIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-PRO-5497",
+        "infinitive": "TO PROMISE",
+        "present": "PROMISE",
+        "past": "PROMISED",
+        "past_participle": "PROMISED",
+        "present_participle": "PROMISING",
+        "meaning": "PROMETER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-PRO-8718",
+        "infinitive": "TO PROPOSE",
+        "present": "PROPOSE",
+        "past": "PROPOSED",
+        "past_participle": "PROPOSED",
+        "present_participle": "PROPOSING",
+        "meaning": "PROPONER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-PUB-7633",
+        "infinitive": "TO PUBLISH",
+        "present": "PUBLISH",
+        "past": "PUBLISHED",
+        "past_participle": "PUBLISHED",
+        "present_participle": "PUBLISHING",
+        "meaning": "PUBLICAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-PUL-3871",
+        "infinitive": "TO PULL",
+        "present": "PULL",
+        "past": "PULLED",
+        "past_participle": "PULLED",
+        "present_participle": "PULLING",
+        "meaning": "HALAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-PUN-5791",
+        "infinitive": "TO PUNISH",
+        "present": "PUNISH",
+        "past": "PUNISHED",
+        "past_participle": "PUNISHED",
+        "present_participle": "PUNISHING",
+        "meaning": "CASTIGAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-PUS-2800",
+        "infinitive": "TO PUSH",
+        "present": "PUSH",
+        "past": "PUSHED",
+        "past_participle": "PUSHED",
+        "present_participle": "PUSHING",
+        "meaning": "EMPUJAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-QUA-7073",
+        "infinitive": "TO QUARREL",
+        "present": "QUARREL",
+        "past": "QUARRELED",
+        "past_participle": "QUARRELED",
+        "present_participle": "QUARRELING",
+        "meaning": "RE\u00d1IR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-RAI-8785",
+        "infinitive": "TO RAIN",
+        "present": "RAIN",
+        "past": "RAINED",
+        "past_participle": "RAINED",
+        "present_participle": "RAINING",
+        "meaning": "LLOVER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-REA-7631",
+        "infinitive": "TO REACH",
+        "present": "REACH",
+        "past": "REACHED",
+        "past_participle": "REACHED",
+        "present_participle": "REACHING",
+        "meaning": "LLEGAR A",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REC-6296",
+        "infinitive": "TO RECALL",
+        "present": "RECALL",
+        "past": "RECALLED",
+        "past_participle": "RECALLED",
+        "present_participle": "RECALLING",
+        "meaning": "RECORDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-REC-2521",
+        "infinitive": "TO RECEIVE",
+        "present": "RECEIVE",
+        "past": "RECEIVED",
+        "past_participle": "RECEIVED",
+        "present_participle": "RECEIVING",
+        "meaning": "RECIBIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-REC-4277",
+        "infinitive": "TO RECOLLECT",
+        "present": "RECOLLECT",
+        "past": "RECOLLECTED",
+        "past_participle": "RECOLLECTED",
+        "present_participle": "RECOLLECTING",
+        "meaning": "RECOGER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-REC-7801",
+        "infinitive": "TO RECOMMEND",
+        "present": "RECOMMEND",
+        "past": "RECOMMENDED",
+        "past_participle": "RECOMMENDED",
+        "present_participle": "RECOMMENDING",
+        "meaning": "RECOMENDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REC-1638",
+        "infinitive": "TO RECORD",
+        "present": "RECORD",
+        "past": "RECORDED",
+        "past_participle": "RECORDED",
+        "present_participle": "RECORDING",
+        "meaning": "GRABAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REF-4690",
+        "infinitive": "TO REFUSE",
+        "present": "REFUSE",
+        "past": "REFUSED",
+        "past_participle": "REFUSED",
+        "present_participle": "REFUSING",
+        "meaning": "RECHAZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REG-2302",
+        "infinitive": "TO REGRET",
+        "present": "REGRET",
+        "past": "REGRETTED",
+        "past_participle": "REGRETTED",
+        "present_participle": "REGRETTING",
+        "meaning": "LAMENTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REJ-3381",
+        "infinitive": "TO REJECT",
+        "present": "REJECT",
+        "past": "REJECTED",
+        "past_participle": "REJECTED",
+        "present_participle": "REJECTING",
+        "meaning": "RECHAZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REM-5344",
+        "infinitive": "TO REMAIN",
+        "present": "REMAIN",
+        "past": "REMAINED",
+        "past_participle": "REMAINED",
+        "present_participle": "REMAINING",
+        "meaning": "PERMANECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-REM-5482",
+        "infinitive": "TO REMEMBER",
+        "present": "REMEMBER",
+        "past": "REMEMBERED",
+        "past_participle": "REMEMBERED",
+        "present_participle": "REMEMBERING",
+        "meaning": "RECORDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REM-6130",
+        "infinitive": "TO REMIND",
+        "present": "REMIND",
+        "past": "REMINDED",
+        "past_participle": "REMINDED",
+        "present_participle": "REMINDING",
+        "meaning": "RECORDAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REM-6417",
+        "infinitive": "TO REMOVE",
+        "present": "REMOVE",
+        "past": "REMOVED",
+        "past_participle": "REMOVED",
+        "present_participle": "REMOVING",
+        "meaning": "REMOVER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-REP-5595",
+        "infinitive": "TO REPEAT",
+        "present": "REPEAT",
+        "past": "REPEATED",
+        "past_participle": "REPEATED",
+        "present_participle": "REPEATING",
+        "meaning": "REPETIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-RES-2707",
+        "infinitive": "TO RESENT",
+        "present": "RESENT",
+        "past": "RESENTED",
+        "past_participle": "RESENTED",
+        "present_participle": "RESENTING",
+        "meaning": "NOTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-RES-2943",
+        "infinitive": "TO RESIST",
+        "present": "RESIST",
+        "past": "RESISTED",
+        "past_participle": "RESISTED",
+        "present_participle": "RESISTING",
+        "meaning": "RESISTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-RES-3624",
+        "infinitive": "TO RESOLVE",
+        "present": "RESOLVE",
+        "past": "RESOLVED",
+        "past_participle": "RESOLVED",
+        "present_participle": "RESOLVING",
+        "meaning": "DECIDIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-RES-7187",
+        "infinitive": "TO RESPOND",
+        "present": "RESPOND",
+        "past": "RESPONDED",
+        "past_participle": "RESPONDED",
+        "present_participle": "RESPONDING",
+        "meaning": "RESPONDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-RES-2508",
+        "infinitive": "TO REST",
+        "present": "REST",
+        "past": "RESTED",
+        "past_participle": "RESTED",
+        "present_participle": "RESTING",
+        "meaning": "DESCANSAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-RES-2778",
+        "infinitive": "TO RESUME",
+        "present": "RESUME",
+        "past": "RESUMED",
+        "past_participle": "RESUMED",
+        "present_participle": "RESUMING",
+        "meaning": "REASUMIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-RET-7638",
+        "infinitive": "TO RETURN",
+        "present": "RETURN",
+        "past": "RETURNED",
+        "past_participle": "RETURNED",
+        "present_participle": "RETURNING",
+        "meaning": "REGRESAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-RIS-7047",
+        "infinitive": "TO RISK",
+        "present": "RISK",
+        "past": "RISKED",
+        "past_participle": "RISKED",
+        "present_participle": "RISKING",
+        "meaning": "ARRIESGARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-RUL-3372",
+        "infinitive": "TO RULE",
+        "present": "RULE",
+        "past": "RULED",
+        "past_participle": "RULED",
+        "present_participle": "RULING",
+        "meaning": "REGIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-SAI-8186",
+        "infinitive": "TO SAIL",
+        "present": "SAIL",
+        "past": "SAILED",
+        "past_participle": "SAILED",
+        "present_participle": "SAILING",
+        "meaning": "NAVEGAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-SAT-4025",
+        "infinitive": "TO SATISFY",
+        "present": "SATISFY",
+        "past": "SATISFIED",
+        "past_participle": "SATISFIED",
+        "present_participle": "SATISFYING",
+        "meaning": "SATISFACER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-SAV-2081",
+        "infinitive": "TO SAVE",
+        "present": "SAVE",
+        "past": "SAVED",
+        "past_participle": "SAVED",
+        "present_participle": "SAVING",
+        "meaning": "SALVAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SCO-9550",
+        "infinitive": "TO SCOLD",
+        "present": "SCOLD",
+        "past": "SCOLDED",
+        "past_participle": "SCOLDED",
+        "present_participle": "SCOLDING",
+        "meaning": "REGA\u00d1AR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-SEE-8545",
+        "infinitive": "TO SEEM",
+        "present": "SEEM",
+        "past": "SEEMED",
+        "past_participle": "SEEMED",
+        "present_participle": "SEEMING",
+        "meaning": "PARECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-SEL-7682",
+        "infinitive": "TO SELECT",
+        "present": "SELECT",
+        "past": "SELECTED",
+        "past_participle": "SELECTED",
+        "present_participle": "SELECTING",
+        "meaning": "SELECCIONAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SER-2436",
+        "infinitive": "TO SERVE",
+        "present": "SERVE",
+        "past": "SERVED",
+        "past_participle": "SERVED",
+        "present_participle": "SERVING",
+        "meaning": "SERVIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SHA-4084",
+        "infinitive": "TO SHARE",
+        "present": "SHARE",
+        "past": "SHARED",
+        "past_participle": "SHARED",
+        "present_participle": "SHARING",
+        "meaning": "REPARTIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SHA-2093",
+        "infinitive": "TO SHAVE",
+        "present": "SHAVE",
+        "past": "SHAVED",
+        "past_participle": "SHAVED",
+        "present_participle": "SHAVING",
+        "meaning": "AFEITARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-SHO-1615",
+        "infinitive": "TO SHOW",
+        "present": "SHOW",
+        "past": "SHOWED",
+        "past_participle": "SHOWED",
+        "present_participle": "SHOWING",
+        "meaning": "MOSTRAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-SIG-1064",
+        "infinitive": "TO SIGN",
+        "present": "SIGN",
+        "past": "SIGNED",
+        "past_participle": "SIGNED",
+        "present_participle": "SIGNING",
+        "meaning": "FIRMAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SMI-3955",
+        "infinitive": "TO SMILE",
+        "present": "SMILE",
+        "past": "SMILED",
+        "past_participle": "SMILED",
+        "present_participle": "SMILING",
+        "meaning": "SONRE\u00cdR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SMO-4839",
+        "infinitive": "TO SMOKE",
+        "present": "SMOKE",
+        "past": "SMOKED",
+        "past_participle": "SMOKED",
+        "present_participle": "SMOKING",
+        "meaning": "FUMAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-SNO-3087",
+        "infinitive": "TO SNOW",
+        "present": "SNOW",
+        "past": "SNOWED",
+        "past_participle": "SNOWED",
+        "present_participle": "SNOWING",
+        "meaning": "NEVAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SOL-7540",
+        "infinitive": "TO SOLVE",
+        "present": "SOLVE",
+        "past": "SOLVED",
+        "past_participle": "SOLVED",
+        "present_participle": "SOLVING",
+        "meaning": "RESOLVER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-SPE-2934",
+        "infinitive": "TO SPELL",
+        "present": "SPELL",
+        "past": "SPELLED",
+        "past_participle": "SPELLED",
+        "present_participle": "SPELLING",
+        "meaning": "DELETREAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-STA-5115",
+        "infinitive": "TO START",
+        "present": "START",
+        "past": "STARTED",
+        "past_participle": "STARTED",
+        "present_participle": "STARTING",
+        "meaning": "COMENZAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-STA-9003",
+        "infinitive": "TO STAY",
+        "present": "STAY",
+        "past": "STAYED",
+        "past_participle": "STAYED",
+        "present_participle": "STAYING",
+        "meaning": "PERMANECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-STO-5953",
+        "infinitive": "TO STOP",
+        "present": "STOP",
+        "past": "STOPPED",
+        "past_participle": "STOPPED",
+        "present_participle": "STOPPING",
+        "meaning": "DETENER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-STR-8921",
+        "infinitive": "TO STRUGGLE",
+        "present": "STRUGGLE",
+        "past": "STRUGGLED",
+        "past_participle": "STRUGGLED",
+        "present_participle": "STRUGGLING",
+        "meaning": "ESFORZARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-STU-5044",
+        "infinitive": "TO STUDY",
+        "present": "STUDY",
+        "past": "STUDIED",
+        "past_participle": "STUDIED",
+        "present_participle": "STUDYING",
+        "meaning": "ESTUDIAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-SUG-4456",
+        "infinitive": "TO SUGGEST",
+        "present": "SUGGEST",
+        "past": "SUGGESTED",
+        "past_participle": "SUGGESTED",
+        "present_participle": "SUGGESTING",
+        "meaning": "SUGERIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-SUP-4575",
+        "infinitive": "TO SUPPOSE",
+        "present": "SUPPOSE",
+        "past": "SUPPOSED",
+        "past_participle": "SUPPOSED",
+        "present_participle": "SUPPOSING",
+        "meaning": "SUPONER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-SUR-5825",
+        "infinitive": "TO SURPRISE",
+        "present": "SURPRISE",
+        "past": "SURPRISED",
+        "past_participle": "SURPRISED",
+        "present_participle": "SURPRISING",
+        "meaning": "SORPRENDER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-TAL-6796",
+        "infinitive": "TO TALK",
+        "present": "TALK",
+        "past": "TALKED",
+        "past_participle": "TALKED",
+        "present_participle": "TALKING",
+        "meaning": "CONVERSAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-TAS-3073",
+        "infinitive": "TO TASTE",
+        "present": "TASTE",
+        "past": "TASTED",
+        "past_participle": "TASTED",
+        "present_participle": "TASTING",
+        "meaning": "PROBAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-TEL-5125",
+        "infinitive": "TO TELEPHONE",
+        "present": "TELEPHONE",
+        "past": "TELEPHONED",
+        "past_participle": "TELEPHONED",
+        "present_participle": "TELEPHONING",
+        "meaning": "TELEFONEAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-TEN-7330",
+        "infinitive": "TO TEND",
+        "present": "TEND",
+        "past": "TENDED",
+        "past_participle": "TENDED",
+        "present_participle": "TENDING",
+        "meaning": "SERVIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-THA-8988",
+        "infinitive": "TO THANK",
+        "present": "THANK",
+        "past": "THANKED",
+        "past_participle": "THANKED",
+        "present_participle": "THANKING",
+        "meaning": "AGRADECER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V8-TOL-4573",
+        "infinitive": "TO TOLERATE",
+        "present": "TOLERATE",
+        "past": "TOLERATED",
+        "past_participle": "TOLERATED",
+        "present_participle": "TOLERATING",
+        "meaning": "TOLERAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-TOU-8483",
+        "infinitive": "TO TOUCH",
+        "present": "TOUCH",
+        "past": "TOUCHED",
+        "past_participle": "TOUCHED",
+        "present_participle": "TOUCHING",
+        "meaning": "TOCAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-TRA-5646",
+        "infinitive": "TO TRANSLATE",
+        "present": "TRANSLATE",
+        "past": "TRANSLATED",
+        "past_participle": "TRANSLATED",
+        "present_participle": "TRANSLATING",
+        "meaning": "TRADUCIR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-TRA-7780",
+        "infinitive": "TO TRAVEL",
+        "present": "TRAVEL",
+        "past": "TRAVELLED",
+        "past_participle": "TRAVELLED",
+        "present_participle": "TRAVELLING",
+        "meaning": "VIAJAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-TRE-9561",
+        "infinitive": "TO TREAT",
+        "present": "TREAT",
+        "past": "TREATED",
+        "past_participle": "TREATED",
+        "present_participle": "TREATING",
+        "meaning": "TRATAR PERS",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-TRE-9057",
+        "infinitive": "TO TREMBLE",
+        "present": "TREMBLE",
+        "past": "TREMBLED",
+        "past_participle": "TREMBLED",
+        "present_participle": "TREMBLING",
+        "meaning": "TEMBLAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-TRY-3596",
+        "infinitive": "TO TRY",
+        "present": "TRY",
+        "past": "TRIED",
+        "past_participle": "TRIED",
+        "present_participle": "TRYING",
+        "meaning": "TRATAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-TUR-1988",
+        "infinitive": "TO TURN",
+        "present": "TURN",
+        "past": "TURNED",
+        "past_participle": "TURNED",
+        "present_participle": "TURNING",
+        "meaning": "GIRAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V9-UND-2827",
+        "infinitive": "TO UNDERLINE",
+        "present": "UNDERLINE",
+        "past": "UNDERLINED",
+        "past_participle": "UNDERLINED",
+        "present_participle": "UNDERLINING",
+        "meaning": "SUBRAYAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V3-USE-2116",
+        "infinitive": "TO USE",
+        "present": "USE",
+        "past": "USED",
+        "past_participle": "USED",
+        "present_participle": "USING",
+        "meaning": "USAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-VIS-7866",
+        "infinitive": "TO VISIT",
+        "present": "VISIT",
+        "past": "VISITED",
+        "past_participle": "VISITED",
+        "present_participle": "VISITING",
+        "meaning": "VISITAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-VOT-8356",
+        "infinitive": "TO VOTE",
+        "present": "VOTE",
+        "past": "VOTED",
+        "past_participle": "VOTED",
+        "present_participle": "VOTING",
+        "meaning": "VOTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-WAI-2238",
+        "infinitive": "TO WAIT",
+        "present": "WAIT",
+        "past": "WAITED",
+        "past_participle": "WAITED",
+        "present_participle": "WAITING",
+        "meaning": "ESPERAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-WAL-3715",
+        "infinitive": "TO WALK",
+        "present": "WALK",
+        "past": "WALKED",
+        "past_participle": "WALKED",
+        "present_participle": "WALKING",
+        "meaning": "CAMINAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-WAN-2607",
+        "infinitive": "TO WANT",
+        "present": "WANT",
+        "past": "WANTED",
+        "past_participle": "WANTED",
+        "present_participle": "WANTING",
+        "meaning": "QUERER",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-WAS-2816",
+        "infinitive": "TO WASH",
+        "present": "WASH",
+        "past": "WASHED",
+        "past_participle": "WASHED",
+        "present_participle": "WASHING",
+        "meaning": "LAVAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-WAS-7783",
+        "infinitive": "TO WASTE",
+        "present": "WASTE",
+        "past": "WASTED",
+        "past_participle": "WASTED",
+        "present_participle": "WASTING",
+        "meaning": "GASTAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-WAT-7748",
+        "infinitive": "TO WATCH",
+        "present": "WATCH",
+        "past": "WATCHED",
+        "past_participle": "WATCHED",
+        "present_participle": "WATCHING",
+        "meaning": "OBSERVAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-WEI-7629",
+        "infinitive": "TO WEIGH",
+        "present": "WEIGH",
+        "past": "WEIGHED",
+        "past_participle": "WEIGHED",
+        "present_participle": "WEIGHING",
+        "meaning": "PESAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V7-WEL-1306",
+        "infinitive": "TO WELCOME",
+        "present": "WELCOME",
+        "past": "WELCOMED",
+        "past_participle": "WELCOMED",
+        "present_participle": "WELCOMING",
+        "meaning": "DAR BIENVENIDA",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-WIS-3696",
+        "infinitive": "TO WISH",
+        "present": "WISH",
+        "past": "WISHED",
+        "past_participle": "WISHED",
+        "present_participle": "WISHING",
+        "meaning": "DESEAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-WON-9402",
+        "infinitive": "TO WONDER",
+        "present": "WONDER",
+        "past": "WONDERED",
+        "past_participle": "WONDERED",
+        "present_participle": "WONDERING",
+        "meaning": "ASOMBRARSE",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V4-WOR-5518",
+        "infinitive": "TO WORK",
+        "present": "WORK",
+        "past": "WORKED",
+        "past_participle": "WORKED",
+        "present_participle": "WORKING",
+        "meaning": "TRABAJAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V5-WOR-7519",
+        "infinitive": "TO WORRY",
+        "present": "WORRY",
+        "past": "WORRIED",
+        "past_participle": "WORRIED",
+        "present_participle": "WORRYING",
+        "meaning": "PREOCUPAR",
+        "type": "REGULAR"
+    },
+    {
+        "id": "V6-ARI-6079",
+        "infinitive": "TO ARISE",
+        "present": "ARISE",
+        "past": "AROSE",
+        "past_participle": "ARISEN",
+        "present_participle": "ARISING",
+        "meaning": "SURGIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V9-BE-4411",
+        "infinitive": "TO BE",
+        "present": "AM-IS-ARE",
+        "past": "WAS-WERE",
+        "past_participle": "BEEN",
+        "present_participle": "BEING",
+        "meaning": "SER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-BEA-7432",
+        "infinitive": "TO BEAR",
+        "present": "BEAR",
+        "past": "BORE",
+        "past_participle": "BORN",
+        "present_participle": "BEARING",
+        "meaning": "LLEVAR / SOPORTAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V7-BEC-6328",
+        "infinitive": "TO BECOME",
+        "present": "BECOME",
+        "past": "BECAME",
+        "past_participle": "BECOME",
+        "present_participle": "BECOMING",
+        "meaning": "Convertir",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V7-BEF-8964",
+        "infinitive": "TO BEFALL",
+        "present": "BEFALL",
+        "past": "BEFELL",
+        "past_participle": "BEFALLEN",
+        "present_participle": "BEFALLING",
+        "meaning": "ACONTECER, SUCEDER, OCURRIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-BEG-8540",
+        "infinitive": "TO BEGIN",
+        "present": "BEGIN",
+        "past": "BEGAN",
+        "past_participle": "BEGUN",
+        "present_participle": "BEGINNING",
+        "meaning": "COMENZAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-BEN-5892",
+        "infinitive": "TO BEND",
+        "present": "BEND",
+        "past": "BENT",
+        "past_participle": "BENT",
+        "present_participle": "BENDING",
+        "meaning": "DOBLAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-BIN-3154",
+        "infinitive": "TO BIND",
+        "present": "BIND",
+        "past": "BOUND",
+        "past_participle": "BOUND",
+        "present_participle": "BINDING",
+        "meaning": "ATAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-BIT-5493",
+        "infinitive": "TO BITE",
+        "present": "BITE",
+        "past": "BIT",
+        "past_participle": "BITTEN",
+        "present_participle": "BITING",
+        "meaning": "MORDER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-BLE-1621",
+        "infinitive": "TO BLEED",
+        "present": "BLEED",
+        "past": "BLED",
+        "past_participle": "BLED",
+        "present_participle": "BLEEDING",
+        "meaning": "SANGRAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-BLO-2183",
+        "infinitive": "TO BLOW",
+        "present": "BLOW",
+        "past": "BLEW",
+        "past_participle": "BLOWN",
+        "present_participle": "BLOWING",
+        "meaning": "SOPLAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-BRE-7361",
+        "infinitive": "TO BREAK",
+        "present": "BREAK",
+        "past": "BROKE",
+        "past_participle": "BROKEN",
+        "present_participle": "BREAKING",
+        "meaning": "ROMPER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-BRI-9215",
+        "infinitive": "TO BRING",
+        "present": "BRING",
+        "past": "BROUGHT",
+        "past_participle": "BROUGHT",
+        "present_participle": "BRINGING",
+        "meaning": "TRAER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-BUI-2082",
+        "infinitive": "TO BUILD",
+        "present": "BUILD",
+        "past": "BUILT",
+        "past_participle": "BUILT",
+        "present_participle": "BUILDING",
+        "meaning": "CONSTRUIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-BUR-1943",
+        "infinitive": "TO BURN",
+        "present": "BURN",
+        "past": "BURNT",
+        "past_participle": "BURNT",
+        "present_participle": "BURNING",
+        "meaning": "QUEMAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-BUY-7854",
+        "infinitive": "TO BUY",
+        "present": "BUY",
+        "past": "BOUGHT",
+        "past_participle": "BOUGHT",
+        "present_participle": "BUYING",
+        "meaning": "COMPRAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-CAT-6670",
+        "infinitive": "TO CATCH",
+        "present": "CATCH",
+        "past": "CAUGHT",
+        "past_participle": "CAUGHT",
+        "present_participle": "CATCHING",
+        "meaning": "AGARRAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V7-CHO-4593",
+        "infinitive": "TO CHOOSE",
+        "present": "CHOOSE",
+        "past": "CHOSE",
+        "past_participle": "CHOSE",
+        "present_participle": "CHOOSING",
+        "meaning": "ESCOGER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-COM-9321",
+        "infinitive": "TO COME",
+        "present": "COME",
+        "past": "CAME",
+        "past_participle": "COME",
+        "present_participle": "COMING",
+        "meaning": "VENIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-COS-8982",
+        "infinitive": "TO COST",
+        "present": "COST",
+        "past": "COST",
+        "past_participle": "COST",
+        "present_participle": "COSTING",
+        "meaning": "COSTAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-CUT-4237",
+        "infinitive": "TO CUT",
+        "present": "CUT",
+        "past": "CUT",
+        "past_participle": "CUT",
+        "present_participle": "CUTTING",
+        "meaning": "CORTAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-DEA-3862",
+        "infinitive": "TO DEAL",
+        "present": "DEAL",
+        "past": "DEALT",
+        "past_participle": "DEALT",
+        "present_participle": "DEALING",
+        "meaning": "TRATAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-DO-3170",
+        "infinitive": "TO DO",
+        "present": "DO - DOES",
+        "past": "DID",
+        "past_participle": "DONE",
+        "present_participle": "DOING",
+        "meaning": "HACER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-DRA-6476",
+        "infinitive": "TO DRAW",
+        "present": "DRAW",
+        "past": "DREW",
+        "past_participle": "DRAWN",
+        "present_participle": "DRAWING",
+        "meaning": "DIBUJAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-DRE-6850",
+        "infinitive": "TO DREAM",
+        "present": "DREAM",
+        "past": "DREAMT",
+        "past_participle": "DREAMT",
+        "present_participle": "DREAMING",
+        "meaning": "SO\u00d1AR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-DRI-7500",
+        "infinitive": "TO DRINK",
+        "present": "DRINK",
+        "past": "DRANK",
+        "past_participle": "DRUNK",
+        "present_participle": "DRINKING",
+        "meaning": "BEBER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-DRI-3984",
+        "infinitive": "TO DRIVE",
+        "present": "DRIVE",
+        "past": "DROVE",
+        "past_participle": "DRIVEN",
+        "present_participle": "DRIVING",
+        "meaning": "CONDUCIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-EAT-4925",
+        "infinitive": "TO EAT",
+        "present": "EAT",
+        "past": "ATE",
+        "past_participle": "EATEN",
+        "present_participle": "EATING",
+        "meaning": "COMER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-FAL-2169",
+        "infinitive": "TO FALL",
+        "present": "FALL",
+        "past": "FELL",
+        "past_participle": "FALLEN",
+        "present_participle": "FALLING",
+        "meaning": "CAER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-FEE-1275",
+        "infinitive": "TO FEED",
+        "present": "FEED",
+        "past": "FED",
+        "past_participle": "FED",
+        "present_participle": "FEEDING",
+        "meaning": "ALIMENTAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-FEE-9368",
+        "infinitive": "TO FEEL",
+        "present": "FEEL",
+        "past": "FELT",
+        "past_participle": "FELT",
+        "present_participle": "FEELING",
+        "meaning": "SENTIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-FIG-5860",
+        "infinitive": "TO FIGHT",
+        "present": "FIGHT",
+        "past": "FOUGHT",
+        "past_participle": "FOUGHT",
+        "present_participle": "FIGHTING",
+        "meaning": "PELEAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-FIN-5169",
+        "infinitive": "TO FIND",
+        "present": "FIND",
+        "past": "FOUND",
+        "past_participle": "FOUND",
+        "present_participle": "FINDING",
+        "meaning": "ENCONTRAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-FLY-6478",
+        "infinitive": "TO FLY",
+        "present": "FLY",
+        "past": "FLEW",
+        "past_participle": "FLOWN",
+        "present_participle": "FLYING",
+        "meaning": "VOLAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-FOR-8536",
+        "infinitive": "TO FORBID",
+        "present": "FORBID",
+        "past": "FORBADE",
+        "past_participle": "FORBIDDEN",
+        "present_participle": "FORBIDDING",
+        "meaning": "PROHIBIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V6-FOR-2041",
+        "infinitive": "TO FORGET",
+        "present": "FORGET",
+        "past": "FORGOT",
+        "past_participle": "FORGOTTEN",
+        "present_participle": "FORGETTING",
+        "meaning": "OLVIDAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V7-FOR-5933",
+        "infinitive": "TO FORGIVE",
+        "present": "FORGIVE",
+        "past": "FORGAVE",
+        "past_participle": "FORGIVEN",
+        "present_participle": "FORGIVING",
+        "meaning": "PERDONAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-GET-1136",
+        "infinitive": "TO GET",
+        "present": "GET",
+        "past": "GOT",
+        "past_participle": "GOTTEN",
+        "present_participle": "GETTING",
+        "meaning": "OBTENER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-GIV-1547",
+        "infinitive": "TO GIVE",
+        "present": "GIVE",
+        "past": "GAVE",
+        "past_participle": "GIVEN",
+        "present_participle": "GIVING",
+        "meaning": "DAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-GO -3532",
+        "infinitive": "TO GO",
+        "present": "GO - GOES",
+        "past": "WENT",
+        "past_participle": "GONE",
+        "present_participle": "GOING",
+        "meaning": "IR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-GRO-3491",
+        "infinitive": "TO GROW",
+        "present": "GROW",
+        "past": "GREW",
+        "past_participle": "GROWN",
+        "present_participle": "GROWING",
+        "meaning": "CRECER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V10-HAV-2898",
+        "infinitive": "TO HAVE",
+        "present": "HAVE - HAS",
+        "past": "HAD",
+        "past_participle": "HAD",
+        "present_participle": "HAVING",
+        "meaning": "TENER-TOMAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-HEA-2587",
+        "infinitive": "TO HEAR",
+        "present": "HEAR",
+        "past": "HEARD",
+        "past_participle": "HEARD",
+        "present_participle": "HEARING",
+        "meaning": "O\u00cdR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-HID-3624",
+        "infinitive": "TO HIDE",
+        "present": "HIDE",
+        "past": "HID",
+        "past_participle": "HIDDEN",
+        "present_participle": "HIDING",
+        "meaning": "ESCONDER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-HIT-4896",
+        "infinitive": "TO HIT",
+        "present": "HIT",
+        "past": "HIT",
+        "past_participle": "HIT",
+        "present_participle": "HITTING",
+        "meaning": "GOLPEAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-HOL-4515",
+        "infinitive": "TO HOLD",
+        "present": "HOLD",
+        "past": "HELD",
+        "past_participle": "HELD",
+        "present_participle": "HOLDING",
+        "meaning": "SOSTENER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-HUR-7374",
+        "infinitive": "TO HURT",
+        "present": "HURT",
+        "past": "HURT",
+        "past_participle": "HURT",
+        "present_participle": "HURTING",
+        "meaning": "LASTIMAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-KEE-8028",
+        "infinitive": "TO KEEP",
+        "present": "KEEP",
+        "past": "KEPT",
+        "past_participle": "KEPT",
+        "present_participle": "KEEPING",
+        "meaning": "GUARDAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-KNE-4769",
+        "infinitive": "TO KNEEL",
+        "present": "KNEEL",
+        "past": "KNELT",
+        "past_participle": "KNELT",
+        "present_participle": "KNEELING",
+        "meaning": "ARRODILLAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-KNO-5597",
+        "infinitive": "TO KNOW",
+        "present": "KNOW",
+        "past": "KNEW",
+        "past_participle": "KNOWN",
+        "present_participle": "KNOWING",
+        "meaning": "CONOCER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-LEA-6454",
+        "infinitive": "TO LEAD",
+        "present": "LEAD",
+        "past": "LED",
+        "past_participle": "LED",
+        "present_participle": "LEADING",
+        "meaning": "GUIAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-LEA-7931",
+        "infinitive": "TO LEARN",
+        "present": "LEARN",
+        "past": "LEARNT",
+        "past_participle": "LEARNT",
+        "present_participle": "LEARNING",
+        "meaning": "APRENDER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-LEA-4164",
+        "infinitive": "TO LEAVE",
+        "present": "LEAVE",
+        "past": "LEFT",
+        "past_participle": "LEFT",
+        "present_participle": "LEAVING",
+        "meaning": "SALIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-LEN-2461",
+        "infinitive": "TO LEND",
+        "present": "LEND",
+        "past": "LENT",
+        "past_participle": "LENT",
+        "present_participle": "LENDING",
+        "meaning": "PRESTAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-LET-9915",
+        "infinitive": "TO LET",
+        "present": "LET",
+        "past": "LET",
+        "past_participle": "LET",
+        "present_participle": "LETTING",
+        "meaning": "PERMITIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-LIG-3726",
+        "infinitive": "TO LIGHT",
+        "present": "LIGHT",
+        "past": "LIT",
+        "past_participle": "LIT",
+        "present_participle": "LIGHTING",
+        "meaning": "ALUMBRAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-LOS-7276",
+        "infinitive": "TO LOSE",
+        "present": "LOSE",
+        "past": "LOST",
+        "past_participle": "LOST",
+        "present_participle": "LOSING",
+        "meaning": "PERDER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-MAK-7926",
+        "infinitive": "TO MAKE",
+        "present": "MAKE",
+        "past": "MADE",
+        "past_participle": "MADE",
+        "present_participle": "MAKING",
+        "meaning": "HACER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-MEA-2738",
+        "infinitive": "TO MEAN",
+        "present": "MEAN",
+        "past": "MEANT",
+        "past_participle": "MEANT",
+        "present_participle": "MEANING",
+        "meaning": "SIGNIFICAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-MEE-9256",
+        "infinitive": "TO MEET",
+        "present": "MEET",
+        "past": "MET",
+        "past_participle": "MET",
+        "present_participle": "MEETING",
+        "meaning": "REUNIRSE",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V7-MIS-2237",
+        "infinitive": "TO MISTAKE",
+        "present": "MISTAKE",
+        "past": "MISTOOK",
+        "past_participle": "MISTAKEN",
+        "present_participle": "MISTAKING",
+        "meaning": "EQUIVOCARSE",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-PAY-5631",
+        "infinitive": "TO PAY",
+        "present": "PAY",
+        "past": "PAID",
+        "past_participle": "PAID",
+        "present_participle": "PAYING",
+        "meaning": "PAGAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-PUT-4197",
+        "infinitive": "TO PUT",
+        "present": "PUT",
+        "past": "PUT",
+        "past_participle": "PUT",
+        "present_participle": "PUTTING",
+        "meaning": "COLOCAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-REA-7757",
+        "infinitive": "TO READ",
+        "present": "READ",
+        "past": "READ",
+        "past_participle": "READ",
+        "present_participle": "READING",
+        "meaning": "LEER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-RID-1077",
+        "infinitive": "TO RIDE",
+        "present": "RIDE",
+        "past": "RODE",
+        "past_participle": "RIDDEN",
+        "present_participle": "RIDING",
+        "meaning": "CABALGAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-RIN-1918",
+        "infinitive": "TO RING",
+        "present": "RING",
+        "past": "RANG",
+        "past_participle": "RUNG",
+        "present_participle": "RINGING",
+        "meaning": "REPICAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-RIS-4854",
+        "infinitive": "TO RISE",
+        "present": "RISE",
+        "past": "ROSE",
+        "past_participle": "RISEN",
+        "present_participle": "RISING",
+        "meaning": "LEVANTARSE",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-RUN-7378",
+        "infinitive": "TO RUN",
+        "present": "RUN",
+        "past": "RAN",
+        "past_participle": "RUN",
+        "present_participle": "RUNNING",
+        "meaning": "CORRER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-SAY-1253",
+        "infinitive": "TO SAY",
+        "present": "SAY",
+        "past": "SAID",
+        "past_participle": "SAID",
+        "present_participle": "SAYING",
+        "meaning": "DECIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-SEE-9095",
+        "infinitive": "TO SEE",
+        "present": "SEE",
+        "past": "SAW",
+        "past_participle": "SEEN",
+        "present_participle": "SEEING",
+        "meaning": "VER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-SEE-9084",
+        "infinitive": "TO SEEK",
+        "present": "SEEK",
+        "past": "SOUGHT",
+        "past_participle": "SOUGHT",
+        "present_participle": "SEEKING",
+        "meaning": "INVESTIGAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-SEL-7557",
+        "infinitive": "TO SELL",
+        "present": "SELL",
+        "past": "SOLD",
+        "past_participle": "SOLD",
+        "present_participle": "SELLING",
+        "meaning": "VENDER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-SEN-9447",
+        "infinitive": "TO SEND",
+        "present": "SEND",
+        "past": "SENT",
+        "past_participle": "SENT",
+        "present_participle": "SENDING",
+        "meaning": "ENVIAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-SET-8429",
+        "infinitive": "TO SET",
+        "present": "SET",
+        "past": "SET",
+        "past_participle": "SET",
+        "present_participle": "SETTING",
+        "meaning": "COLOCAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-SEW-7598",
+        "infinitive": "TO SEW",
+        "present": "SEW",
+        "past": "SEWED",
+        "past_participle": "SEWN",
+        "present_participle": "SEWING",
+        "meaning": "COSER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SHA-2473",
+        "infinitive": "TO SHAKE",
+        "present": "SHAKE",
+        "past": "SHOOK",
+        "past_participle": "SHAKEN",
+        "present_participle": "SHAKING",
+        "meaning": "SACUDIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SHI-8931",
+        "infinitive": "TO SHINE",
+        "present": "SHINE",
+        "past": "SHONE",
+        "past_participle": "SHONE",
+        "present_participle": "SHINING",
+        "meaning": "BRILLAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SHO-6368",
+        "infinitive": "TO SHOOT",
+        "present": "SHOOT",
+        "past": "SHOT",
+        "past_participle": "SHOT",
+        "present_participle": "SHOOTING",
+        "meaning": "DISPARAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-SHO-8870",
+        "infinitive": "TO SHOW",
+        "present": "SHOW",
+        "past": "SHOWED",
+        "past_participle": "SHOWN",
+        "present_participle": "SHOWING",
+        "meaning": "MOSTRAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-SHU-3018",
+        "infinitive": "TO SHUT",
+        "present": "SHUT",
+        "past": "SHUT",
+        "past_participle": "SHUT",
+        "present_participle": "SHUTTING",
+        "meaning": "CERRAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-SIN-9662",
+        "infinitive": "TO SING",
+        "present": "SING",
+        "past": "SANG",
+        "past_participle": "SUNG",
+        "present_participle": "SINGING",
+        "meaning": "CANTAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-SIT-1977",
+        "infinitive": "TO SIT",
+        "present": "SIT",
+        "past": "SAT",
+        "past_participle": "SAT",
+        "present_participle": "SITTING",
+        "meaning": "SENTARSE",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SLE-5610",
+        "infinitive": "TO SLEEP",
+        "present": "SLEEP",
+        "past": "SLEPT",
+        "past_participle": "SLEPT",
+        "present_participle": "SLEEPING",
+        "meaning": "DORMIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SME-5576",
+        "infinitive": "TO SMELL",
+        "present": "SMELL",
+        "past": "SMELT",
+        "past_participle": "SMELT",
+        "present_participle": "SMELLING",
+        "meaning": "OLER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SPE-8840",
+        "infinitive": "TO SPEAK",
+        "present": "SPEAK",
+        "past": "SPOKE",
+        "past_participle": "SPOKEN",
+        "present_participle": "SPEAKING",
+        "meaning": "HABLAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SPE-3397",
+        "infinitive": "TO SPEND",
+        "present": "SPEND",
+        "past": "SPENT",
+        "past_participle": "SPENT",
+        "present_participle": "SPENDING",
+        "meaning": "GASTAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SPI-9386",
+        "infinitive": "TO SPILL",
+        "present": "SPILL",
+        "past": "SPILT",
+        "past_participle": "SPILT",
+        "present_participle": "SPILLING",
+        "meaning": "DERRAMAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-STA-2678",
+        "infinitive": "TO STAND",
+        "present": "STAND",
+        "past": "STOOD",
+        "past_participle": "STOOD",
+        "present_participle": "STANDING",
+        "meaning": "PARARSE",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-STE-4721",
+        "infinitive": "TO STEAL",
+        "present": "STEAL",
+        "past": "STOLE",
+        "past_participle": "STOLEN",
+        "present_participle": "STEALING",
+        "meaning": "ROBAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-STI-3221",
+        "infinitive": "TO STICK",
+        "present": "STICK",
+        "past": "STUCK",
+        "past_participle": "STUCK",
+        "present_participle": "STICKING",
+        "meaning": "ENGOMAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SWE-4690",
+        "infinitive": "TO SWEAR",
+        "present": "SWEAR",
+        "past": "SWORE",
+        "past_participle": "SWORN",
+        "present_participle": "SWEARING",
+        "meaning": "JURAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-SWE-5301",
+        "infinitive": "TO SWEEP",
+        "present": "SWEEP",
+        "past": "SWEPT",
+        "past_participle": "SWEPT",
+        "present_participle": "SWEEPING",
+        "meaning": "BARRER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-SWI-9636",
+        "infinitive": "TO SWIM",
+        "present": "SWIM",
+        "past": "SWAM",
+        "past_participle": "SWUM",
+        "present_participle": "SWIMMING",
+        "meaning": "NADAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-TAK-6251",
+        "infinitive": "TO TAKE",
+        "present": "TAKE",
+        "past": "TOOK",
+        "past_participle": "TAKEN",
+        "present_participle": "TAKING",
+        "meaning": "TOMAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-TEA-8753",
+        "infinitive": "TO TEACH",
+        "present": "TEACH",
+        "past": "TAUGHT",
+        "past_participle": "TAUGHT",
+        "present_participle": "TEACHING",
+        "meaning": "ENSE\u00d1AR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-TEL-7832",
+        "infinitive": "TO TELL",
+        "present": "TELL",
+        "past": "TOLD",
+        "past_participle": "TOLD",
+        "present_participle": "TELLING",
+        "meaning": "DECIR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-THI-6061",
+        "infinitive": "TO THINK",
+        "present": "THINK",
+        "past": "THOUGHT",
+        "past_participle": "THOUGHT",
+        "present_participle": "THINKING",
+        "meaning": "PENSAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-THR-9601",
+        "infinitive": "TO THROW",
+        "present": "THROW",
+        "past": "THREW",
+        "past_participle": "THROWN",
+        "present_participle": "THROWING",
+        "meaning": "LANZAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V10-UND-7950",
+        "infinitive": "TO UNDERSTAND",
+        "present": "UNDERSTAND",
+        "past": "UNDERSTOOD",
+        "past_participle": "UNDERSTOOD",
+        "present_participle": "UNDERSTANDING",
+        "meaning": "ENTENDER",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-WEA-9690",
+        "infinitive": "TO WEAR",
+        "present": "WEAR",
+        "past": "WORE",
+        "past_participle": "WORN",
+        "present_participle": "WEARING",
+        "meaning": "USAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V4-WEE-4774",
+        "infinitive": "TO WEEP",
+        "present": "WEEP",
+        "past": "WEPT",
+        "past_participle": "WEPT",
+        "present_participle": "WEEPING",
+        "meaning": "LLORAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V3-WIN-6465",
+        "infinitive": "TO WIN",
+        "present": "WIN",
+        "past": "WON",
+        "past_participle": "WON",
+        "present_participle": "WINNING",
+        "meaning": "GANAR",
+        "type": "IRREGULAR"
+    },
+    {
+        "id": "V5-WRI-1887",
+        "infinitive": "TO WRITE",
+        "present": "WRITE",
+        "past": "WROTE",
+        "past_participle": "WRITTEN",
+        "present_participle": "WRITING",
+        "meaning": "ESCRIBIR",
+        "type": "IRREGULAR"
+    }
+]

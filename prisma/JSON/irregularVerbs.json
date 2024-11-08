@@ -1,0 +1,517 @@
+[
+    {
+        "id": "IRV-ARI-5771",
+        "verb_id": "V6-ARI-6079",
+        "ipa_irregular_verbs_id": "IPA-IRV-ARI-8733"
+    },
+    {
+        "id": "IRV-BE-5073",
+        "verb_id": "V9-BE-4411",
+        "ipa_irregular_verbs_id": "IPA-IRV-BE-8381"
+    },
+    {
+        "id": "IRV-BEA-3078",
+        "verb_id": "V5-BEA-7432",
+        "ipa_irregular_verbs_id": "IPA-IRV-BEA-2349"
+    },
+    {
+        "id": "IRV-BEC-8886",
+        "verb_id": "V7-BEC-6328",
+        "ipa_irregular_verbs_id": "IPA-IRV-BEC-2635"
+    },
+    {
+        "id": "IRV-BEF-1570",
+        "verb_id": "V7-BEF-8964",
+        "ipa_irregular_verbs_id": "IPA-IRV-BEF-8057"
+    },
+    {
+        "id": "IRV-BEG-1961",
+        "verb_id": "V6-BEG-8540",
+        "ipa_irregular_verbs_id": "IPA-IRV-BEG-9528"
+    },
+    {
+        "id": "IRV-BEN-4740",
+        "verb_id": "V5-BEN-5892",
+        "ipa_irregular_verbs_id": "IPA-IRV-BEN-3351"
+    },
+    {
+        "id": "IRV-BIN-6514",
+        "verb_id": "V4-BIN-3154",
+        "ipa_irregular_verbs_id": "IPA-IRV-BIN-3455"
+    },
+    {
+        "id": "IRV-BIT-5582",
+        "verb_id": "V4-BIT-5493",
+        "ipa_irregular_verbs_id": "IPA-IRV-BIT-5086"
+    },
+    {
+        "id": "IRV-BLE-7097",
+        "verb_id": "V6-BLE-1621",
+        "ipa_irregular_verbs_id": "IPA-IRV-BLE-9776"
+    },
+    {
+        "id": "IRV-BLO-828",
+        "verb_id": "V5-BLO-2183",
+        "ipa_irregular_verbs_id": "IPA-IRV-BLO-132"
+    },
+    {
+        "id": "IRV-BRE-1874",
+        "verb_id": "V6-BRE-7361",
+        "ipa_irregular_verbs_id": "IPA-IRV-BRE-2026"
+    },
+    {
+        "id": "IRV-BRI-7022",
+        "verb_id": "V5-BRI-9215",
+        "ipa_irregular_verbs_id": "IPA-IRV-BRI-9646"
+    },
+    {
+        "id": "IRV-BUI-4909",
+        "verb_id": "V6-BUI-2082",
+        "ipa_irregular_verbs_id": "IPA-IRV-BUI-7448"
+    },
+    {
+        "id": "IRV-BUR-9752",
+        "verb_id": "V5-BUR-1943",
+        "ipa_irregular_verbs_id": "IPA-IRV-BUR-4600"
+    },
+    {
+        "id": "IRV-BUY-6977",
+        "verb_id": "V3-BUY-7854",
+        "ipa_irregular_verbs_id": "IPA-IRV-BUY-7962"
+    },
+    {
+        "id": "IRV-CAT-2828",
+        "verb_id": "V6-CAT-6670",
+        "ipa_irregular_verbs_id": "IPA-IRV-CAT-1739"
+    },
+    {
+        "id": "IRV-CHO-3247",
+        "verb_id": "V7-CHO-4593",
+        "ipa_irregular_verbs_id": "IPA-IRV-CHO-6285"
+    },
+    {
+        "id": "IRV-COM-250",
+        "verb_id": "V5-COM-9321",
+        "ipa_irregular_verbs_id": "IPA-IRV-COM-4526"
+    },
+    {
+        "id": "IRV-COS-2746",
+        "verb_id": "V5-COS-8982",
+        "ipa_irregular_verbs_id": "IPA-IRV-COS-8352"
+    },
+    {
+        "id": "IRV-CUT-3376",
+        "verb_id": "V4-CUT-4237",
+        "ipa_irregular_verbs_id": "IPA-IRV-CUT-2613"
+    },
+    {
+        "id": "IRV-DEA-6027",
+        "verb_id": "V5-DEA-3862",
+        "ipa_irregular_verbs_id": "IPA-IRV-DEA-5853"
+    },
+    {
+        "id": "IRV-DO-825",
+        "verb_id": "V3-DO-3170",
+        "ipa_irregular_verbs_id": "IPA-IRV-DO-2511"
+    },
+    {
+        "id": "IRV-DRA-6331",
+        "verb_id": "V5-DRA-6476",
+        "ipa_irregular_verbs_id": "IPA-IRV-DRA-7804"
+    },
+    {
+        "id": "IRV-DRE-910",
+        "verb_id": "V6-DRE-6850",
+        "ipa_irregular_verbs_id": "IPA-IRV-DRE-610"
+    },
+    {
+        "id": "IRV-DRI-2549",
+        "verb_id": "V6-DRI-7500",
+        "ipa_irregular_verbs_id": "IPA-IRV-DRI-7355"
+    },
+    {
+        "id": "IRV-DRI-6915",
+        "verb_id": "V6-DRI-3984",
+        "ipa_irregular_verbs_id": "IPA-IRV-DRI-3830"
+    },
+    {
+        "id": "IRV-EAT-1146",
+        "verb_id": "V4-EAT-4925",
+        "ipa_irregular_verbs_id": "IPA-IRV-EAT-17"
+    },
+    {
+        "id": "IRV-FAL-8737",
+        "verb_id": "V5-FAL-2169",
+        "ipa_irregular_verbs_id": "IPA-IRV-FAL-2459"
+    },
+    {
+        "id": "IRV-FEE-8074",
+        "verb_id": "V5-FEE-1275",
+        "ipa_irregular_verbs_id": "IPA-IRV-FEE-3099"
+    },
+    {
+        "id": "IRV-FEE-7197",
+        "verb_id": "V4-FEE-9368",
+        "ipa_irregular_verbs_id": "IPA-IRV-FEE-5054"
+    },
+    {
+        "id": "IRV-FIG-672",
+        "verb_id": "V5-FIG-5860",
+        "ipa_irregular_verbs_id": "IPA-IRV-FIG-5601"
+    },
+    {
+        "id": "IRV-FIN-4879",
+        "verb_id": "V4-FIN-5169",
+        "ipa_irregular_verbs_id": "IPA-IRV-FIN-4678"
+    },
+    {
+        "id": "IRV-FLY-5249",
+        "verb_id": "V3-FLY-6478",
+        "ipa_irregular_verbs_id": "IPA-IRV-FLY-3364"
+    },
+    {
+        "id": "IRV-FOR-7402",
+        "verb_id": "V6-FOR-8536",
+        "ipa_irregular_verbs_id": "IPA-IRV-FOR-5977"
+    },
+    {
+        "id": "IRV-FOR-4063",
+        "verb_id": "V6-FOR-2041",
+        "ipa_irregular_verbs_id": "IPA-IRV-FOR-7900"
+    },
+    {
+        "id": "IRV-FOR-9404",
+        "verb_id": "V7-FOR-5933",
+        "ipa_irregular_verbs_id": "IPA-IRV-FOR-9057"
+    },
+    {
+        "id": "IRV-GET-4685",
+        "verb_id": "V4-GET-1136",
+        "ipa_irregular_verbs_id": "IPA-IRV-GET-4424"
+    },
+    {
+        "id": "IRV-GIV-8955",
+        "verb_id": "V4-GIV-1547",
+        "ipa_irregular_verbs_id": "IPA-IRV-GIV-6494"
+    },
+    {
+        "id": "IRV-GO -7960",
+        "verb_id": "V3-GO -3532",
+        "ipa_irregular_verbs_id": "IPA-IRV-GO -9845"
+    },
+    {
+        "id": "IRV-GRO-7010",
+        "verb_id": "V4-GRO-3491",
+        "ipa_irregular_verbs_id": "IPA-IRV-GRO-5460"
+    },
+    {
+        "id": "IRV-HAV-7282",
+        "verb_id": "V10-HAV-2898",
+        "ipa_irregular_verbs_id": "IPA-IRV-HAV-687"
+    },
+    {
+        "id": "IRV-HEA-7348",
+        "verb_id": "V4-HEA-2587",
+        "ipa_irregular_verbs_id": "IPA-IRV-HEA-2291"
+    },
+    {
+        "id": "IRV-HID-4024",
+        "verb_id": "V4-HID-3624",
+        "ipa_irregular_verbs_id": "IPA-IRV-HID-5265"
+    },
+    {
+        "id": "IRV-HIT-6217",
+        "verb_id": "V3-HIT-4896",
+        "ipa_irregular_verbs_id": "IPA-IRV-HIT-3657"
+    },
+    {
+        "id": "IRV-HOL-4509",
+        "verb_id": "V4-HOL-4515",
+        "ipa_irregular_verbs_id": "IPA-IRV-HOL-9422"
+    },
+    {
+        "id": "IRV-HUR-1931",
+        "verb_id": "V4-HUR-7374",
+        "ipa_irregular_verbs_id": "IPA-IRV-HUR-2344"
+    },
+    {
+        "id": "IRV-KEE-3736",
+        "verb_id": "V4-KEE-8028",
+        "ipa_irregular_verbs_id": "IPA-IRV-KEE-8533"
+    },
+    {
+        "id": "IRV-KNE-2038",
+        "verb_id": "V5-KNE-4769",
+        "ipa_irregular_verbs_id": "IPA-IRV-KNE-8218"
+    },
+    {
+        "id": "IRV-KNO-5252",
+        "verb_id": "V4-KNO-5597",
+        "ipa_irregular_verbs_id": "IPA-IRV-KNO-1119"
+    },
+    {
+        "id": "IRV-LEA-8198",
+        "verb_id": "V4-LEA-6454",
+        "ipa_irregular_verbs_id": "IPA-IRV-LEA-7866"
+    },
+    {
+        "id": "IRV-LEA-2428",
+        "verb_id": "V5-LEA-7931",
+        "ipa_irregular_verbs_id": "IPA-IRV-LEA-2016"
+    },
+    {
+        "id": "IRV-LEA-9721",
+        "verb_id": "V5-LEA-4164",
+        "ipa_irregular_verbs_id": "IPA-IRV-LEA-4839"
+    },
+    {
+        "id": "IRV-LEN-712",
+        "verb_id": "V4-LEN-2461",
+        "ipa_irregular_verbs_id": "IPA-IRV-LEN-5609"
+    },
+    {
+        "id": "IRV-LET-2712",
+        "verb_id": "V3-LET-9915",
+        "ipa_irregular_verbs_id": "IPA-IRV-LET-8340"
+    },
+    {
+        "id": "IRV-LIG-8463",
+        "verb_id": "V5-LIG-3726",
+        "ipa_irregular_verbs_id": "IPA-IRV-LIG-3350"
+    },
+    {
+        "id": "IRV-LOS-8730",
+        "verb_id": "V4-LOS-7276",
+        "ipa_irregular_verbs_id": "IPA-IRV-LOS-8696"
+    },
+    {
+        "id": "IRV-MAK-5699",
+        "verb_id": "V4-MAK-7926",
+        "ipa_irregular_verbs_id": "IPA-IRV-MAK-5232"
+    },
+    {
+        "id": "IRV-MEA-8593",
+        "verb_id": "V4-MEA-2738",
+        "ipa_irregular_verbs_id": "IPA-IRV-MEA-7026"
+    },
+    {
+        "id": "IRV-MEE-6877",
+        "verb_id": "V4-MEE-9256",
+        "ipa_irregular_verbs_id": "IPA-IRV-MEE-7607"
+    },
+    {
+        "id": "IRV-MIS-3886",
+        "verb_id": "V7-MIS-2237",
+        "ipa_irregular_verbs_id": "IPA-IRV-MIS-9370"
+    },
+    {
+        "id": "IRV-PAY-6540",
+        "verb_id": "V3-PAY-5631",
+        "ipa_irregular_verbs_id": "IPA-IRV-PAY-6730"
+    },
+    {
+        "id": "IRV-PUT-7817",
+        "verb_id": "V3-PUT-4197",
+        "ipa_irregular_verbs_id": "IPA-IRV-PUT-971"
+    },
+    {
+        "id": "IRV-REA-3609",
+        "verb_id": "V4-REA-7757",
+        "ipa_irregular_verbs_id": "IPA-IRV-REA-1502"
+    },
+    {
+        "id": "IRV-RID-5323",
+        "verb_id": "V4-RID-1077",
+        "ipa_irregular_verbs_id": "IPA-IRV-RID-4194"
+    },
+    {
+        "id": "IRV-RIN-6973",
+        "verb_id": "V4-RIN-1918",
+        "ipa_irregular_verbs_id": "IPA-IRV-RIN-968"
+    },
+    {
+        "id": "IRV-RIS-1352",
+        "verb_id": "V5-RIS-4854",
+        "ipa_irregular_verbs_id": "IPA-IRV-RIS-4641"
+    },
+    {
+        "id": "IRV-RUN-1553",
+        "verb_id": "V3-RUN-7378",
+        "ipa_irregular_verbs_id": "IPA-IRV-RUN-1860"
+    },
+    {
+        "id": "IRV-SAY-7584",
+        "verb_id": "V3-SAY-1253",
+        "ipa_irregular_verbs_id": "IPA-IRV-SAY-4974"
+    },
+    {
+        "id": "IRV-SEE-4495",
+        "verb_id": "V3-SEE-9095",
+        "ipa_irregular_verbs_id": "IPA-IRV-SEE-6614"
+    },
+    {
+        "id": "IRV-SEE-3928",
+        "verb_id": "V4-SEE-9084",
+        "ipa_irregular_verbs_id": "IPA-IRV-SEE-7667"
+    },
+    {
+        "id": "IRV-SEL-6671",
+        "verb_id": "V4-SEL-7557",
+        "ipa_irregular_verbs_id": "IPA-IRV-SEL-2746"
+    },
+    {
+        "id": "IRV-SEN-8683",
+        "verb_id": "V4-SEN-9447",
+        "ipa_irregular_verbs_id": "IPA-IRV-SEN-2529"
+    },
+    {
+        "id": "IRV-SET-5024",
+        "verb_id": "V3-SET-8429",
+        "ipa_irregular_verbs_id": "IPA-IRV-SET-5128"
+    },
+    {
+        "id": "IRV-SEW-1023",
+        "verb_id": "V3-SEW-7598",
+        "ipa_irregular_verbs_id": "IPA-IRV-SEW-342"
+    },
+    {
+        "id": "IRV-SHA-8462",
+        "verb_id": "V5-SHA-2473",
+        "ipa_irregular_verbs_id": "IPA-IRV-SHA-5499"
+    },
+    {
+        "id": "IRV-SHI-6376",
+        "verb_id": "V5-SHI-8931",
+        "ipa_irregular_verbs_id": "IPA-IRV-SHI-6651"
+    },
+    {
+        "id": "IRV-SHO-670",
+        "verb_id": "V5-SHO-6368",
+        "ipa_irregular_verbs_id": "IPA-IRV-SHO-1706"
+    },
+    {
+        "id": "IRV-SHO-3675",
+        "verb_id": "V4-SHO-8870",
+        "ipa_irregular_verbs_id": "IPA-IRV-SHO-1740"
+    },
+    {
+        "id": "IRV-SHU-252",
+        "verb_id": "V4-SHU-3018",
+        "ipa_irregular_verbs_id": "IPA-IRV-SHU-8954"
+    },
+    {
+        "id": "IRV-SIN-5578",
+        "verb_id": "V4-SIN-9662",
+        "ipa_irregular_verbs_id": "IPA-IRV-SIN-8053"
+    },
+    {
+        "id": "IRV-SIT-9840",
+        "verb_id": "V3-SIT-1977",
+        "ipa_irregular_verbs_id": "IPA-IRV-SIT-8795"
+    },
+    {
+        "id": "IRV-SLE-5631",
+        "verb_id": "V5-SLE-5610",
+        "ipa_irregular_verbs_id": "IPA-IRV-SLE-6192"
+    },
+    {
+        "id": "IRV-SME-9389",
+        "verb_id": "V5-SME-5576",
+        "ipa_irregular_verbs_id": "IPA-IRV-SME-7640"
+    },
+    {
+        "id": "IRV-SPE-6550",
+        "verb_id": "V5-SPE-8840",
+        "ipa_irregular_verbs_id": "IPA-IRV-SPE-8718"
+    },
+    {
+        "id": "IRV-SPE-6192",
+        "verb_id": "V5-SPE-3397",
+        "ipa_irregular_verbs_id": "IPA-IRV-SPE-3253"
+    },
+    {
+        "id": "IRV-SPI-5794",
+        "verb_id": "V5-SPI-9386",
+        "ipa_irregular_verbs_id": "IPA-IRV-SPI-3554"
+    },
+    {
+        "id": "IRV-STA-1372",
+        "verb_id": "V5-STA-2678",
+        "ipa_irregular_verbs_id": "IPA-IRV-STA-5791"
+    },
+    {
+        "id": "IRV-STE-6958",
+        "verb_id": "V5-STE-4721",
+        "ipa_irregular_verbs_id": "IPA-IRV-STE-7163"
+    },
+    {
+        "id": "IRV-STI-579",
+        "verb_id": "V5-STI-3221",
+        "ipa_irregular_verbs_id": "IPA-IRV-STI-1000"
+    },
+    {
+        "id": "IRV-SWE-3809",
+        "verb_id": "V5-SWE-4690",
+        "ipa_irregular_verbs_id": "IPA-IRV-SWE-1120"
+    },
+    {
+        "id": "IRV-SWE-8254",
+        "verb_id": "V5-SWE-5301",
+        "ipa_irregular_verbs_id": "IPA-IRV-SWE-3273"
+    },
+    {
+        "id": "IRV-SWI-1929",
+        "verb_id": "V4-SWI-9636",
+        "ipa_irregular_verbs_id": "IPA-IRV-SWI-380"
+    },
+    {
+        "id": "IRV-TAK-954",
+        "verb_id": "V4-TAK-6251",
+        "ipa_irregular_verbs_id": "IPA-IRV-TAK-9518"
+    },
+    {
+        "id": "IRV-TEA-4827",
+        "verb_id": "V5-TEA-8753",
+        "ipa_irregular_verbs_id": "IPA-IRV-TEA-9881"
+    },
+    {
+        "id": "IRV-TEL-3400",
+        "verb_id": "V4-TEL-7832",
+        "ipa_irregular_verbs_id": "IPA-IRV-TEL-4277"
+    },
+    {
+        "id": "IRV-THI-5993",
+        "verb_id": "V5-THI-6061",
+        "ipa_irregular_verbs_id": "IPA-IRV-THI-2685"
+    },
+    {
+        "id": "IRV-THR-707",
+        "verb_id": "V5-THR-9601",
+        "ipa_irregular_verbs_id": "IPA-IRV-THR-8659"
+    },
+    {
+        "id": "IRV-UND-4475",
+        "verb_id": "V10-UND-7950",
+        "ipa_irregular_verbs_id": "IPA-IRV-UND-8694"
+    },
+    {
+        "id": "IRV-WEA-8792",
+        "verb_id": "V4-WEA-9690",
+        "ipa_irregular_verbs_id": "IPA-IRV-WEA-3864"
+    },
+    {
+        "id": "IRV-WEE-3356",
+        "verb_id": "V4-WEE-4774",
+        "ipa_irregular_verbs_id": "IPA-IRV-WEE-8825"
+    },
+    {
+        "id": "IRV-WIN-5145",
+        "verb_id": "V3-WIN-6465",
+        "ipa_irregular_verbs_id": "IPA-IRV-WIN-9609"
+    },
+    {
+        "id": "IRV-WRI-1629",
+        "verb_id": "V5-WRI-1887",
+        "ipa_irregular_verbs_id": "IPA-IRV-WRI-6432"
+    }
+]

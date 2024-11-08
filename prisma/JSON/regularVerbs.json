@@ -1,0 +1,1598 @@
+[
+    {
+        "id": "RV-ACC-6483",
+        "verb_id": "V6-ACC-4502",
+        "ipa_regular_verbs_id": "IPA-RV-ACC-1160",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-ACT-6248",
+        "verb_id": "V3-ACT-6473",
+        "ipa_regular_verbs_id": "IPA-RV-ACT-2551",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-ADD-8836",
+        "verb_id": "V3-ADD-4735",
+        "ipa_regular_verbs_id": "IPA-RV-ADD-2763",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-ADM-478",
+        "verb_id": "V5-ADM-9699",
+        "ipa_regular_verbs_id": "IPA-RV-ADM-8485",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-ADV-7843",
+        "verb_id": "V6-ADV-3470",
+        "ipa_regular_verbs_id": "IPA-RV-ADV-1160",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-AFF-4807",
+        "verb_id": "V6-AFF-4842",
+        "ipa_regular_verbs_id": "IPA-RV-AFF-6739",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-AGR-660",
+        "verb_id": "V5-AGR-2065",
+        "ipa_regular_verbs_id": "IPA-RV-AGR-4086",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-AIM-563",
+        "verb_id": "V3-AIM-3259",
+        "ipa_regular_verbs_id": "IPA-RV-AIM-2892",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ALL-5285",
+        "verb_id": "V5-ALL-7778",
+        "ipa_regular_verbs_id": "IPA-RV-ALL-4031",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-AMU-7708",
+        "verb_id": "V5-AMU-4321",
+        "ipa_regular_verbs_id": "IPA-RV-AMU-5988",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ANS-12",
+        "verb_id": "V6-ANS-2931",
+        "ipa_regular_verbs_id": "IPA-RV-ANS-6303",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ANT-742",
+        "verb_id": "V10-ANT-9438",
+        "ipa_regular_verbs_id": "IPA-RV-ANT-4758",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-APO-1873",
+        "verb_id": "V9-APO-6050",
+        "ipa_regular_verbs_id": "IPA-RV-APO-2143",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-APP-1225",
+        "verb_id": "V6-APP-2863",
+        "ipa_regular_verbs_id": "IPA-RV-APP-1840",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV--AP-9527",
+        "verb_id": "V10-APP-1852",
+        "ipa_regular_verbs_id": "IPA-RV-APP-8342",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-APP-2087",
+        "verb_id": "V7-APP-9521",
+        "ipa_regular_verbs_id": "IPA-RV-APP-798",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ARR-1222",
+        "verb_id": "V7-ARR-6997",
+        "ipa_regular_verbs_id": "IPA-RV-ARR-4181",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ARR-6424",
+        "verb_id": "V6-ARR-8664",
+        "ipa_regular_verbs_id": "IPA-RV-ARR-1405",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ASK-9563",
+        "verb_id": "V3-ASK-3327",
+        "ipa_regular_verbs_id": "IPA-RV-ASK-6992",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-ATT-6665",
+        "verb_id": "V7-ATT-9750",
+        "ipa_regular_verbs_id": "IPA-RV-ATT-1118",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-ATT-2885",
+        "verb_id": "V6-ATT-7133",
+        "ipa_regular_verbs_id": "IPA-RV-ATT-8132",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-AVO-4545",
+        "verb_id": "V5-AVO-9904",
+        "ipa_regular_verbs_id": "IPA-RV-AVO-5381",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-BAT-4487",
+        "verb_id": "V5-BAT-9849",
+        "ipa_regular_verbs_id": "IPA-RV-BAT-2224",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BEG-4464",
+        "verb_id": "V3-BEG-5796",
+        "ipa_regular_verbs_id": "IPA-RV-BEG-5702",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BEH-36",
+        "verb_id": "V6-BEH-8848",
+        "ipa_regular_verbs_id": "IPA-RV-BEH-3050",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BEL-5780",
+        "verb_id": "V7-BEL-5974",
+        "ipa_regular_verbs_id": "IPA-RV-BEL-2515",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BEL-4204",
+        "verb_id": "V6-BEL-8806",
+        "ipa_regular_verbs_id": "IPA-RV-BEL-5748",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BOI-8157",
+        "verb_id": "V4-BOI-4790",
+        "ipa_regular_verbs_id": "IPA-RV-BOI-2052",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BOR-8467",
+        "verb_id": "V6-BOR-7415",
+        "ipa_regular_verbs_id": "IPA-RV-BOR-1950",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BOT-7959",
+        "verb_id": "V6-BOT-2367",
+        "ipa_regular_verbs_id": "IPA-RV-BOT-3816",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-BRU-4584",
+        "verb_id": "V5-BRU-8745",
+        "ipa_regular_verbs_id": "IPA-RV-BRU-5892",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-CAL-2426",
+        "verb_id": "V4-CAL-8883",
+        "ipa_regular_verbs_id": "IPA-RV-CAL-8825",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CAR-9364",
+        "verb_id": "V5-CAR-4994",
+        "ipa_regular_verbs_id": "IPA-RV-CAR-1463",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CAS-8610",
+        "verb_id": "V4-CAS-5431",
+        "ipa_regular_verbs_id": "IPA-RV-CAS-3630",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-CEA-6799",
+        "verb_id": "V5-CEA-4293",
+        "ipa_regular_verbs_id": "IPA-RV-CEA-1258",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-CEL-4668",
+        "verb_id": "V9-CEL-9031",
+        "ipa_regular_verbs_id": "IPA-RV-CEL-3784",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-CHA-6862",
+        "verb_id": "V6-CHA-6986",
+        "ipa_regular_verbs_id": "IPA-RV-CHA-2844",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CHE-3276",
+        "verb_id": "V5-CHE-6281",
+        "ipa_regular_verbs_id": "IPA-RV-CHE-8676",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-CHE-8210",
+        "verb_id": "V5-CHE-3364",
+        "ipa_regular_verbs_id": "IPA-RV-CHE-5327",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-CLA-5680",
+        "verb_id": "V5-CLA-1348",
+        "ipa_regular_verbs_id": "IPA-RV-CLA-8824",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CLE-3481",
+        "verb_id": "V5-CLE-4400",
+        "ipa_regular_verbs_id": "IPA-RV-CLE-6845",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CLI-9581",
+        "verb_id": "V5-CLI-5972",
+        "ipa_regular_verbs_id": "IPA-RV-CLI-218",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CLO-5795",
+        "verb_id": "V5-CLO-4517",
+        "ipa_regular_verbs_id": "IPA-RV-CLO-3915",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-COM-1766",
+        "verb_id": "V4-COM-9907",
+        "ipa_regular_verbs_id": "IPA-RV-COM-1527",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-COM-9177",
+        "verb_id": "V7-COM-2632",
+        "ipa_regular_verbs_id": "IPA-RV-COM-90",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-COM-8050",
+        "verb_id": "V6-COM-6056",
+        "ipa_regular_verbs_id": "IPA-RV-COM-1665",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-COM-8087",
+        "verb_id": "V8-COM-4193",
+        "ipa_regular_verbs_id": "IPA-RV-COM-5275",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-COM-43",
+        "verb_id": "V8-COM-3624",
+        "ipa_regular_verbs_id": "IPA-RV-COM-3945",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV--CO-1490",
+        "verb_id": "V12-CON-1116",
+        "ipa_regular_verbs_id": "IPA-RV-CON-3441",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-CON-2951",
+        "verb_id": "V7-CON-3515",
+        "ipa_regular_verbs_id": "IPA-RV-CON-2987",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-CON-5814",
+        "verb_id": "V8-CON-5680",
+        "ipa_regular_verbs_id": "IPA-RV-CON-7145",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CON-8759",
+        "verb_id": "V8-CON-3026",
+        "ipa_regular_verbs_id": "IPA-RV-CON-47",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CON-2228",
+        "verb_id": "V8-CON-9575",
+        "ipa_regular_verbs_id": "IPA-RV-CON-9782",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-COO-265",
+        "verb_id": "V4-COO-7219",
+        "ipa_regular_verbs_id": "IPA-RV-COO-2160",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-COR-4240",
+        "verb_id": "V7-COR-2324",
+        "ipa_regular_verbs_id": "IPA-RV-COR-6325",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-COV-7386",
+        "verb_id": "V5-COV-8452",
+        "ipa_regular_verbs_id": "IPA-RV-COV-7086",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CRO-4627",
+        "verb_id": "V5-CRO-6055",
+        "ipa_regular_verbs_id": "IPA-RV-CRO-2330",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-CRY-2728",
+        "verb_id": "V3-CRY-7262",
+        "ipa_regular_verbs_id": "IPA-RV-CRY-7056",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-CUR-6475",
+        "verb_id": "V4-CUR-7740",
+        "ipa_regular_verbs_id": "IPA-RV-CUR-9138",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DAN-2099",
+        "verb_id": "V5-DAN-7176",
+        "ipa_regular_verbs_id": "IPA-RV-DAN-8099",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-DAR-7457",
+        "verb_id": "V4-DAR-1964",
+        "ipa_regular_verbs_id": "IPA-RV-DAR-5311",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DAT-6749",
+        "verb_id": "V4-DAT-7024",
+        "ipa_regular_verbs_id": "IPA-RV-DAT-283",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-DEC-2494",
+        "verb_id": "V6-DEC-3090",
+        "ipa_regular_verbs_id": "IPA-RV-DEC-202",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-DEC-2586",
+        "verb_id": "V7-DEC-2910",
+        "ipa_regular_verbs_id": "IPA-RV-DEC-6936",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DEF-4627",
+        "verb_id": "V6-DEF-4451",
+        "ipa_regular_verbs_id": "IPA-RV-DEF-7995",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-DEF-8552",
+        "verb_id": "V5-DEF-5886",
+        "ipa_regular_verbs_id": "IPA-RV-DEF-9913",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DEL-5168",
+        "verb_id": "V5-DEL-8575",
+        "ipa_regular_verbs_id": "IPA-RV-DEL-6402",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DEM-4098",
+        "verb_id": "V6-DEM-3586",
+        "ipa_regular_verbs_id": "IPA-RV-DEM-2815",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-DEN-7651",
+        "verb_id": "V4-DEN-5271",
+        "ipa_regular_verbs_id": "IPA-RV-DEN-2328",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DES-4601",
+        "verb_id": "V8-DES-6881",
+        "ipa_regular_verbs_id": "IPA-RV-DES-2419",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DES-8289",
+        "verb_id": "V7-DES-6441",
+        "ipa_regular_verbs_id": "IPA-RV-DES-5395",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DES-182",
+        "verb_id": "V6-DES-8793",
+        "ipa_regular_verbs_id": "IPA-RV-DES-9087",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DES-2021",
+        "verb_id": "V7-DES-9729",
+        "ipa_regular_verbs_id": "IPA-RV-DES-9829",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-DET-2317",
+        "verb_id": "V6-DET-8060",
+        "ipa_regular_verbs_id": "IPA-RV-DET-7603",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-DIE-2055",
+        "verb_id": "V3-DIE-3266",
+        "ipa_regular_verbs_id": "IPA-RV-DIE-8280",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DIS-3793",
+        "verb_id": "V10-DIS-3961",
+        "ipa_regular_verbs_id": "IPA-RV--DI-163",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DIS-588",
+        "verb_id": "V8-DIS-3845",
+        "ipa_regular_verbs_id": "IPA-RV-DIS-8944",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-DIS-8403",
+        "verb_id": "V7-DIS-4174",
+        "ipa_regular_verbs_id": "IPA-RV-DIS-8024",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-DIS-8797",
+        "verb_id": "V7-DIS-9210",
+        "ipa_regular_verbs_id": "IPA-RV-DIS-1556",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-DOU-2051",
+        "verb_id": "V5-DOU-1013",
+        "ipa_regular_verbs_id": "IPA-RV-DOU-4222",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-DRE-5552",
+        "verb_id": "V5-DRE-3158",
+        "ipa_regular_verbs_id": "IPA-RV-DRE-6993",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-ELE-8721",
+        "verb_id": "V5-ELE-5634",
+        "ipa_regular_verbs_id": "IPA-RV-ELE-480",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-EMP-3692",
+        "verb_id": "V6-EMP-7697",
+        "ipa_regular_verbs_id": "IPA-RV-EMP-5717",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ENC-4773",
+        "verb_id": "V9-ENC-1900",
+        "ipa_regular_verbs_id": "IPA-RV-ENC-561",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-END-4316",
+        "verb_id": "V3-END-8615",
+        "ipa_regular_verbs_id": "IPA-RV-END-1172",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-END-5543",
+        "verb_id": "V6-END-1850",
+        "ipa_regular_verbs_id": "IPA-RV-END-5568",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ENJ-1307",
+        "verb_id": "V5-ENJ-1690",
+        "ipa_regular_verbs_id": "IPA-RV-ENJ-8138",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ENT-4241",
+        "verb_id": "V5-ENT-2186",
+        "ipa_regular_verbs_id": "IPA-RV-ENT-6261",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ERA-4843",
+        "verb_id": "V5-ERA-2793",
+        "ipa_regular_verbs_id": "IPA-RV-ERA-9610",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-ESC-1910",
+        "verb_id": "V6-ESC-2252",
+        "ipa_regular_verbs_id": "IPA-RV-ESC-6421",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-EXC-6630",
+        "verb_id": "V7-EXC-2940",
+        "ipa_regular_verbs_id": "IPA-RV-EXC-6791",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-EXC-9908",
+        "verb_id": "V6-EXC-7140",
+        "ipa_regular_verbs_id": "IPA-RV-EXC-9178",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-EXP-1266",
+        "verb_id": "V6-EXP-5419",
+        "ipa_regular_verbs_id": "IPA-RV-EXP-7665",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-EXP-1321",
+        "verb_id": "V7-EXP-7075",
+        "ipa_regular_verbs_id": "IPA-RV-EXP-4235",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-EXP-4475",
+        "verb_id": "V7-EXP-2188",
+        "ipa_regular_verbs_id": "IPA-RV-EXP-115",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-FAI-6387",
+        "verb_id": "V4-FAI-9572",
+        "ipa_regular_verbs_id": "IPA-RV-FAI-7323",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-FIN-8143",
+        "verb_id": "V6-FIN-5598",
+        "ipa_regular_verbs_id": "IPA-RV-FIN-4822",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-FIT-3311",
+        "verb_id": "V3-FIT-1069",
+        "ipa_regular_verbs_id": "IPA-RV-FIT-367",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-FOL-3044",
+        "verb_id": "V6-FOL-1497",
+        "ipa_regular_verbs_id": "IPA-RV-FOL-3615",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-FOR-2111",
+        "verb_id": "V5-FOR-7914",
+        "ipa_regular_verbs_id": "IPA-RV-FOR-8380",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-FOR-2176",
+        "verb_id": "V4-FOR-5837",
+        "ipa_regular_verbs_id": "IPA-RV-FOR-332",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-FRY-1280",
+        "verb_id": "V3-FRY-4387",
+        "ipa_regular_verbs_id": "IPA-RV-FRY-4304",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-GAT-7051",
+        "verb_id": "V6-GAT-5605",
+        "ipa_regular_verbs_id": "IPA-RV-GAT-8431",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-GOV-710",
+        "verb_id": "V6-GOV-3582",
+        "ipa_regular_verbs_id": "IPA-RV-GOV-5085",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-GRE-5673",
+        "verb_id": "V5-GRE-9765",
+        "ipa_regular_verbs_id": "IPA-RV-GRE-433",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-GUA-2498",
+        "verb_id": "V9-GUA-3282",
+        "ipa_regular_verbs_id": "IPA-RV-GUA-2753",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-HAP-1969",
+        "verb_id": "V6-HAP-6408",
+        "ipa_regular_verbs_id": "IPA-RV-HAP-1637",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-HAT-8071",
+        "verb_id": "V4-HAT-3326",
+        "ipa_regular_verbs_id": "IPA-RV-HAT-6",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-HEA-6084",
+        "verb_id": "V4-HEA-9078",
+        "ipa_regular_verbs_id": "IPA-RV-HEA-1975",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-HEL-3260",
+        "verb_id": "V4-HEL-3592",
+        "ipa_regular_verbs_id": "IPA-RV-HEL-8261",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-HES-3167",
+        "verb_id": "V8-HES-8095",
+        "ipa_regular_verbs_id": "IPA-RV-HES-3364",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-HIR-4529",
+        "verb_id": "V4-HIR-7358",
+        "ipa_regular_verbs_id": "IPA-RV-HIR-7915",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-HOP-996",
+        "verb_id": "V4-HOP-3125",
+        "ipa_regular_verbs_id": "IPA-RV-HOP-396",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-HUR-9991",
+        "verb_id": "V5-HUR-7031",
+        "ipa_regular_verbs_id": "IPA-RV-HUR-667",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-IGN-2271",
+        "verb_id": "V6-IGN-2439",
+        "ipa_regular_verbs_id": "IPA-RV-IGN-8916",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-IMA-1892",
+        "verb_id": "V7-IMA-7925",
+        "ipa_regular_verbs_id": "IPA-RV-IMA-8802",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-IMP-2084",
+        "verb_id": "V7-IMP-8349",
+        "ipa_regular_verbs_id": "IPA-RV-IMP-9595",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-INC-2172",
+        "verb_id": "V6-INC-8848",
+        "ipa_regular_verbs_id": "IPA-RV-INC-8711",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-INS-1646",
+        "verb_id": "V6-INS-7241",
+        "ipa_regular_verbs_id": "IPA-RV-INS-9943",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-INS-5271",
+        "verb_id": "V8-INS-8276",
+        "ipa_regular_verbs_id": "IPA-RV-INS-2709",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-INT-5882",
+        "verb_id": "V6-INT-8400",
+        "ipa_regular_verbs_id": "IPA-RV-INT-738",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-INT-7176",
+        "verb_id": "V9-INT-5531",
+        "ipa_regular_verbs_id": "IPA-RV-INT-4277",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-INT-6084",
+        "verb_id": "V9-INT-8077",
+        "ipa_regular_verbs_id": "IPA-RV-INT-1483",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-INV-3491",
+        "verb_id": "V6-INV-5600",
+        "ipa_regular_verbs_id": "IPA-RV-INV-6533",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-INV-142",
+        "verb_id": "V6-INV-2095",
+        "ipa_regular_verbs_id": "IPA-RV-INV-2213",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-INV-6971",
+        "verb_id": "V7-INV-3780",
+        "ipa_regular_verbs_id": "IPA-RV-INV-612",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-JOG-3756",
+        "verb_id": "V3-JOG-5899",
+        "ipa_regular_verbs_id": "IPA-RV-JOG-4384",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-JUM-3770",
+        "verb_id": "V4-JUM-7669",
+        "ipa_regular_verbs_id": "IPA-RV-JUM-715",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-KIL-3573",
+        "verb_id": "V4-KIL-3878",
+        "ipa_regular_verbs_id": "IPA-RV-KIL-1846",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-KIS-7621",
+        "verb_id": "V4-KIS-8569",
+        "ipa_regular_verbs_id": "IPA-RV-KIS-7744",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-KNO-3376",
+        "verb_id": "V5-KNO-4374",
+        "ipa_regular_verbs_id": "IPA-RV-KNO-9558",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-LAS-384",
+        "verb_id": "V4-LAS-6414",
+        "ipa_regular_verbs_id": "IPA-RV-LAS-4928",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-LAU-2988",
+        "verb_id": "V5-LAU-6231",
+        "ipa_regular_verbs_id": "IPA-RV-LAU-8640",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-LEA-7598",
+        "verb_id": "V4-LEA-1267",
+        "ipa_regular_verbs_id": "IPA-RV-LEA-8406",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-LIE-4448",
+        "verb_id": "V3-LIE-8142",
+        "ipa_regular_verbs_id": "IPA-RV-LIE-8045",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-LIF-5824",
+        "verb_id": "V4-LIF-4573",
+        "ipa_regular_verbs_id": "IPA-RV-LIF-8935",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-LIK-7785",
+        "verb_id": "V4-LIK-2590",
+        "ipa_regular_verbs_id": "IPA-RV-LIK-6531",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-LIS-8919",
+        "verb_id": "V6-LIS-1454",
+        "ipa_regular_verbs_id": "IPA-RV-LIS-6284",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-LIV-9802",
+        "verb_id": "V4-LIV-5275",
+        "ipa_regular_verbs_id": "IPA-RV-LIV-4650",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-LOO-3202",
+        "verb_id": "V4-LOO-9283",
+        "ipa_regular_verbs_id": "IPA-RV-LOO-2219",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-LOO-2615",
+        "verb_id": "V5-LOO-8185",
+        "ipa_regular_verbs_id": "IPA-RV-LOO-4586",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-LOV-4624",
+        "verb_id": "V4-LOV-4527",
+        "ipa_regular_verbs_id": "IPA-RV-LOV-6321",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-MAI-8243",
+        "verb_id": "V4-MAI-4860",
+        "ipa_regular_verbs_id": "IPA-RV-MAI-1023",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-MAR-4028",
+        "verb_id": "V5-MAR-8772",
+        "ipa_regular_verbs_id": "IPA-RV-MAR-722",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-MAT-9409",
+        "verb_id": "V5-MAT-7398",
+        "ipa_regular_verbs_id": "IPA-RV-MAT-5011",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-MAT-9432",
+        "verb_id": "V6-MAT-9901",
+        "ipa_regular_verbs_id": "IPA-RV-MAT-795",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-MEA-2141",
+        "verb_id": "V7-MEA-7824",
+        "ipa_regular_verbs_id": "IPA-RV-MEA-7197",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-MEN-5095",
+        "verb_id": "V7-MEN-8529",
+        "ipa_regular_verbs_id": "IPA-RV-MEN-4054",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-MIN-7574",
+        "verb_id": "V4-MIN-1635",
+        "ipa_regular_verbs_id": "IPA-RV-MIN-6376",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-MIS-9971",
+        "verb_id": "V4-MIS-6051",
+        "ipa_regular_verbs_id": "IPA-RV-MIS-1743",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-MOV-5710",
+        "verb_id": "V4-MOV-2335",
+        "ipa_regular_verbs_id": "IPA-RV-MOV-4653",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-NEE-9177",
+        "verb_id": "V4-NEE-8431",
+        "ipa_regular_verbs_id": "IPA-RV-NEE-901",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-NEG-4372",
+        "verb_id": "V7-NEG-6841",
+        "ipa_regular_verbs_id": "IPA-RV-NEG-8717",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-OBE-6449",
+        "verb_id": "V4-OBE-9875",
+        "ipa_regular_verbs_id": "IPA-RV-OBE-7195",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-OBS-4873",
+        "verb_id": "V7-OBS-2821",
+        "ipa_regular_verbs_id": "IPA-RV-OBS-1260",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-OFF-775",
+        "verb_id": "V5-OFF-6885",
+        "ipa_regular_verbs_id": "IPA-RV-OFF-7874",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-OMI-3639",
+        "verb_id": "V4-OMI-4620",
+        "ipa_regular_verbs_id": "IPA-RV-OMI-6594",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-OPE-8252",
+        "verb_id": "V4-OPE-6614",
+        "ipa_regular_verbs_id": "IPA-RV-OPE-5846",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ORD-9522",
+        "verb_id": "V5-ORD-3072",
+        "ipa_regular_verbs_id": "IPA-RV-ORD-890",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-ORG-2975",
+        "verb_id": "V8-ORG-7588",
+        "ipa_regular_verbs_id": "IPA-RV-ORG-3863",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-OUT-4584",
+        "verb_id": "V7-OUT-3034",
+        "ipa_regular_verbs_id": "IPA-RV-OUT-5561",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-OWN-1230",
+        "verb_id": "V3-OWN-3823",
+        "ipa_regular_verbs_id": "IPA-RV-OWN-3733",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PAI-8194",
+        "verb_id": "V5-PAI-1970",
+        "ipa_regular_verbs_id": "IPA-RV-PAI-8702",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-PAR-2474",
+        "verb_id": "V6-PAR-6249",
+        "ipa_regular_verbs_id": "IPA-RV-PAR-416",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PAR-2528",
+        "verb_id": "V4-PAR-9043",
+        "ipa_regular_verbs_id": "IPA-RV-PAR-7995",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-PAS-1185",
+        "verb_id": "V4-PAS-6437",
+        "ipa_regular_verbs_id": "IPA-RV-PAS-3336",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-PER-1375",
+        "verb_id": "V6-PER-2580",
+        "ipa_regular_verbs_id": "IPA-RV-PER-4323",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-PHO-4354",
+        "verb_id": "V5-PHO-2574",
+        "ipa_regular_verbs_id": "IPA-RV-PHO-7612",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PLA-5712",
+        "verb_id": "V5-PLA-3247",
+        "ipa_regular_verbs_id": "IPA-RV-PLA-7644",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-PLA-2793",
+        "verb_id": "V4-PLA-8324",
+        "ipa_regular_verbs_id": "IPA-RV-PLA-480",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PLA-6686",
+        "verb_id": "V5-PLA-2164",
+        "ipa_regular_verbs_id": "IPA-RV-PLA-8617",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-PLA-601",
+        "verb_id": "V4-PLA-6731",
+        "ipa_regular_verbs_id": "IPA-RV-PLA-6074",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PLE-2201",
+        "verb_id": "V6-PLE-1012",
+        "ipa_regular_verbs_id": "IPA-RV-PLE-8546",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-POI-3006",
+        "verb_id": "V5-POI-3754",
+        "ipa_regular_verbs_id": "IPA-RV-POI-3758",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-POS-1809",
+        "verb_id": "V4-POS-6171",
+        "ipa_regular_verbs_id": "IPA-RV-POS-9738",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-POS-9217",
+        "verb_id": "V8-POS-6324",
+        "ipa_regular_verbs_id": "IPA-RV-POS-6543",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PRA-9407",
+        "verb_id": "V8-PRA-8015",
+        "ipa_regular_verbs_id": "IPA-RV-PRA-1215",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-PRA-5766",
+        "verb_id": "V4-PRA-1049",
+        "ipa_regular_verbs_id": "IPA-RV-PRA-8291",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PRE-1816",
+        "verb_id": "V6-PRE-3100",
+        "ipa_regular_verbs_id": "IPA-RV-PRE-699",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PRE-5858",
+        "verb_id": "V7-PRE-3341",
+        "ipa_regular_verbs_id": "IPA-RV-PRE-7881",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PRE-8458",
+        "verb_id": "V7-PRE-6969",
+        "ipa_regular_verbs_id": "IPA-RV-PRE-2649",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-PRE-6708",
+        "verb_id": "V7-PRE-8471",
+        "ipa_regular_verbs_id": "IPA-RV-PRE-5287",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-PRO-7867",
+        "verb_id": "V7-PRO-5497",
+        "ipa_regular_verbs_id": "IPA-RV-PRO-8458",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-PRO-8016",
+        "verb_id": "V7-PRO-8718",
+        "ipa_regular_verbs_id": "IPA-RV-PRO-9933",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PUB-1340",
+        "verb_id": "V7-PUB-7633",
+        "ipa_regular_verbs_id": "IPA-RV-PUB-2287",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-PUL-295",
+        "verb_id": "V4-PUL-3871",
+        "ipa_regular_verbs_id": "IPA-RV-PUL-1803",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-PUN-5557",
+        "verb_id": "V6-PUN-5791",
+        "ipa_regular_verbs_id": "IPA-RV-PUN-1388",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-PUS-9915",
+        "verb_id": "V4-PUS-2800",
+        "ipa_regular_verbs_id": "IPA-RV-PUS-9298",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-QUA-3059",
+        "verb_id": "V7-QUA-7073",
+        "ipa_regular_verbs_id": "IPA-RV-QUA-2786",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-RAI-226",
+        "verb_id": "V4-RAI-8785",
+        "ipa_regular_verbs_id": "IPA-RV-RAI-4034",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-REA-7378",
+        "verb_id": "V5-REA-7631",
+        "ipa_regular_verbs_id": "IPA-RV-REA-3199",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-REC-9093",
+        "verb_id": "V6-REC-6296",
+        "ipa_regular_verbs_id": "IPA-RV-REC-1286",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-REC-6318",
+        "verb_id": "V7-REC-2521",
+        "ipa_regular_verbs_id": "IPA-RV-REC-3312",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-REC-5082",
+        "verb_id": "V9-REC-4277",
+        "ipa_regular_verbs_id": "IPA-RV-REC-1654",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-REC-3015",
+        "verb_id": "V9-REC-7801",
+        "ipa_regular_verbs_id": "IPA-RV-REC-2096",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-REC-5733",
+        "verb_id": "V6-REC-1638",
+        "ipa_regular_verbs_id": "IPA-RV-REC-7693",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-REF-2265",
+        "verb_id": "V6-REF-4690",
+        "ipa_regular_verbs_id": "IPA-RV-REF-7082",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-REG-8456",
+        "verb_id": "V6-REG-2302",
+        "ipa_regular_verbs_id": "IPA-RV-REG-3927",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-REJ-2646",
+        "verb_id": "V6-REJ-3381",
+        "ipa_regular_verbs_id": "IPA-RV-REJ-3631",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-REM-5098",
+        "verb_id": "V6-REM-5344",
+        "ipa_regular_verbs_id": "IPA-RV-REM-4435",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-REM-1301",
+        "verb_id": "V8-REM-5482",
+        "ipa_regular_verbs_id": "IPA-RV-REM-8128",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-REM-5961",
+        "verb_id": "V6-REM-6130",
+        "ipa_regular_verbs_id": "IPA-RV-REM-9534",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-REM-937",
+        "verb_id": "V6-REM-6417",
+        "ipa_regular_verbs_id": "IPA-RV-REM-3541",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-REP-2033",
+        "verb_id": "V6-REP-5595",
+        "ipa_regular_verbs_id": "IPA-RV-REP-6364",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-RES-9071",
+        "verb_id": "V6-RES-2707",
+        "ipa_regular_verbs_id": "IPA-RV-RES-2973",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-RES-7366",
+        "verb_id": "V6-RES-2943",
+        "ipa_regular_verbs_id": "IPA-RV-RES-5908",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-RES-5522",
+        "verb_id": "V7-RES-3624",
+        "ipa_regular_verbs_id": "IPA-RV-RES-5754",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-RES-8618",
+        "verb_id": "V7-RES-7187",
+        "ipa_regular_verbs_id": "IPA-RV-RES-5389",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-RES-4747",
+        "verb_id": "V4-RES-2508",
+        "ipa_regular_verbs_id": "IPA-RV-RES-1640",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-RES-6513",
+        "verb_id": "V6-RES-2778",
+        "ipa_regular_verbs_id": "IPA-RV-RES-8004",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-RET-1405",
+        "verb_id": "V6-RET-7638",
+        "ipa_regular_verbs_id": "IPA-RV-RET-5917",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-RIS-1170",
+        "verb_id": "V4-RIS-7047",
+        "ipa_regular_verbs_id": "IPA-RV-RIS-224",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-RUL-5335",
+        "verb_id": "V4-RUL-3372",
+        "ipa_regular_verbs_id": "IPA-RV-RUL-8459",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SAI-5427",
+        "verb_id": "V4-SAI-8186",
+        "ipa_regular_verbs_id": "IPA-RV-SAI-5491",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SAT-8913",
+        "verb_id": "V7-SAT-4025",
+        "ipa_regular_verbs_id": "IPA-RV-SAT-2996",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SAV-1394",
+        "verb_id": "V4-SAV-2081",
+        "ipa_regular_verbs_id": "IPA-RV-SAV-5278",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SCO-4507",
+        "verb_id": "V5-SCO-9550",
+        "ipa_regular_verbs_id": "IPA-RV-SCO-2717",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-SEE-8946",
+        "verb_id": "V4-SEE-8545",
+        "ipa_regular_verbs_id": "IPA-RV-SEE-6906",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SEL-9620",
+        "verb_id": "V6-SEL-7682",
+        "ipa_regular_verbs_id": "IPA-RV-SEL-2492",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-SER-3545",
+        "verb_id": "V5-SER-2436",
+        "ipa_regular_verbs_id": "IPA-RV-SER-5212",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SHA-7411",
+        "verb_id": "V5-SHA-4084",
+        "ipa_regular_verbs_id": "IPA-RV-SHA-1712",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SHA-8849",
+        "verb_id": "V5-SHA-2093",
+        "ipa_regular_verbs_id": "IPA-RV-SHA-1165",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SHO-8450",
+        "verb_id": "V4-SHO-1615",
+        "ipa_regular_verbs_id": "IPA-RV-SHO-7961",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SIG-3590",
+        "verb_id": "V4-SIG-1064",
+        "ipa_regular_verbs_id": "IPA-RV-SIG-7611",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SMI-881",
+        "verb_id": "V5-SMI-3955",
+        "ipa_regular_verbs_id": "IPA-RV-SMI-8232",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SMO-2062",
+        "verb_id": "V5-SMO-4839",
+        "ipa_regular_verbs_id": "IPA-RV-SMO-603",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-SNO-5913",
+        "verb_id": "V4-SNO-3087",
+        "ipa_regular_verbs_id": "IPA-RV-SNO-2597",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SOL-670",
+        "verb_id": "V5-SOL-7540",
+        "ipa_regular_verbs_id": "IPA-RV-SOL-9139",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SPE-1316",
+        "verb_id": "V5-SPE-2934",
+        "ipa_regular_verbs_id": "IPA-RV-SPE-1371",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-STA-7285",
+        "verb_id": "V5-STA-5115",
+        "ipa_regular_verbs_id": "IPA-RV-STA-8286",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-STA-2471",
+        "verb_id": "V4-STA-9003",
+        "ipa_regular_verbs_id": "IPA-RV-STA-8232",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-STO-1746",
+        "verb_id": "V4-STO-5953",
+        "ipa_regular_verbs_id": "IPA-RV-STO-4134",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-STR-1855",
+        "verb_id": "V8-STR-8921",
+        "ipa_regular_verbs_id": "IPA-RV-STR-8987",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-STU-3425",
+        "verb_id": "V5-STU-5044",
+        "ipa_regular_verbs_id": "IPA-RV-STU-5111",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SUG-4875",
+        "verb_id": "V7-SUG-4456",
+        "ipa_regular_verbs_id": "IPA-RV-SUG-5279",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-SUP-6659",
+        "verb_id": "V7-SUP-4575",
+        "ipa_regular_verbs_id": "IPA-RV-SUP-1265",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-SUR-5906",
+        "verb_id": "V8-SUR-5825",
+        "ipa_regular_verbs_id": "IPA-RV-SUR-5998",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-TAL-9133",
+        "verb_id": "V4-TAL-6796",
+        "ipa_regular_verbs_id": "IPA-RV-TAL-5202",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-TAS-4080",
+        "verb_id": "V5-TAS-3073",
+        "ipa_regular_verbs_id": "IPA-RV-TAS-6541",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-TEL-4975",
+        "verb_id": "V9-TEL-5125",
+        "ipa_regular_verbs_id": "IPA-RV-TEL-7517",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-TEN-620",
+        "verb_id": "V4-TEN-7330",
+        "ipa_regular_verbs_id": "IPA-RV-TEN-7397",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-THA-3964",
+        "verb_id": "V5-THA-8988",
+        "ipa_regular_verbs_id": "IPA-RV-THA-2813",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-TOL-3348",
+        "verb_id": "V8-TOL-4573",
+        "ipa_regular_verbs_id": "IPA-RV-TOL-5179",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-TOU-1684",
+        "verb_id": "V5-TOU-8483",
+        "ipa_regular_verbs_id": "IPA-RV-TOU-5415",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-TRA-7328",
+        "verb_id": "V9-TRA-5646",
+        "ipa_regular_verbs_id": "IPA-RV-TRA-1644",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-TRA-271",
+        "verb_id": "V6-TRA-7780",
+        "ipa_regular_verbs_id": "IPA-RV-TRA-3328",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-TRE-4149",
+        "verb_id": "V5-TRE-9561",
+        "ipa_regular_verbs_id": "IPA-RV-TRE-1418",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-TRE-3043",
+        "verb_id": "V7-TRE-9057",
+        "ipa_regular_verbs_id": "IPA-RV-TRE-9983",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-TRY-7310",
+        "verb_id": "V3-TRY-3596",
+        "ipa_regular_verbs_id": "IPA-RV-TRY-8875",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-TUR-1594",
+        "verb_id": "V4-TUR-1988",
+        "ipa_regular_verbs_id": "IPA-RV-TUR-1250",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-UND-1728",
+        "verb_id": "V9-UND-2827",
+        "ipa_regular_verbs_id": "IPA-RV-UND-7850",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-USE-869",
+        "verb_id": "V3-USE-2116",
+        "ipa_regular_verbs_id": "IPA-RV-USE-1130",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-VIS-2545",
+        "verb_id": "V5-VIS-7866",
+        "ipa_regular_verbs_id": "IPA-RV-VIS-9713",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-VOT-2836",
+        "verb_id": "V4-VOT-8356",
+        "ipa_regular_verbs_id": "IPA-RV-VOT-3920",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-WAI-5180",
+        "verb_id": "V4-WAI-2238",
+        "ipa_regular_verbs_id": "IPA-RV-WAI-3334",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-WAL-5422",
+        "verb_id": "V4-WAL-3715",
+        "ipa_regular_verbs_id": "IPA-RV-WAL-8209",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-WAN-3141",
+        "verb_id": "V4-WAN-2607",
+        "ipa_regular_verbs_id": "IPA-RV-WAN-7548",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-WAS-1060",
+        "verb_id": "V4-WAS-2816",
+        "ipa_regular_verbs_id": "IPA-RV-WAS-5132",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-WAS-5251",
+        "verb_id": "V5-WAS-7783",
+        "ipa_regular_verbs_id": "IPA-RV-WAS-9125",
+        "past_sound": "/\u026ad/"
+    },
+    {
+        "id": "RV-WAT-2577",
+        "verb_id": "V5-WAT-7748",
+        "ipa_regular_verbs_id": "IPA-RV-WAT-199",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-WEI-8833",
+        "verb_id": "V5-WEI-7629",
+        "ipa_regular_verbs_id": "IPA-RV-WEI-8814",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-WEL-2985",
+        "verb_id": "V7-WEL-1306",
+        "ipa_regular_verbs_id": "IPA-RV-WEL-1663",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-WIS-3604",
+        "verb_id": "V4-WIS-3696",
+        "ipa_regular_verbs_id": "IPA-RV-WIS-6794",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-WON-1243",
+        "verb_id": "V6-WON-9402",
+        "ipa_regular_verbs_id": "IPA-RV-WON-2747",
+        "past_sound": "/d/"
+    },
+    {
+        "id": "RV-WOR-4150",
+        "verb_id": "V4-WOR-5518",
+        "ipa_regular_verbs_id": "IPA-RV-WOR-7363",
+        "past_sound": "/t/"
+    },
+    {
+        "id": "RV-WOR-7150",
+        "verb_id": "V5-WOR-7519",
+        "ipa_regular_verbs_id": "IPA-RV-WOR-6932",
+        "past_sound": "/d/"
+    }
+]
