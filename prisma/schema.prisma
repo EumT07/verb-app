@@ -40,7 +40,7 @@ model Verbs {
   past_participle      String
   present_participle   String
   meaning              String?
-  type                 VerbsType
+  type                 String
   RegularVerbs         RegularVerbs?
   IrregularVerbs       IrregularVerbs?
   Phrasal_verbs        PhrasalVerbs?
@@ -140,9 +140,4 @@ enum UserRole {
   USER
   PREMIUN
   TEACHER
-}
-
-enum VerbsType {
-  REGULAR
-  IRREGULAR
 }
