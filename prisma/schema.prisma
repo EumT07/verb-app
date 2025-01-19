@@ -39,8 +39,9 @@ model Verbs {
   past                 String
   past_participle      String
   present_participle   String
-  meaning              String?
+  meaning_spn          String?
   type                 String
+  definition           String
   RegularVerbs         RegularVerbs?
   IrregularVerbs       IrregularVerbs?
   Phrasal_verbs        PhrasalVerbs?

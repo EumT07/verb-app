@@ -21,7 +21,8 @@ export class VerbsService {
                     id: true,
                     infinitive: true,
                     type: true,
-                    meaning: true,
+                    meaning_spn: true,
+                    definition: true,
                     IPA_regular_verbs:{
                         select: {
                             ipa_present_uk: true,
@@ -65,8 +66,14 @@ export class VerbsService {
                     past: true,
                     past_participle: true,
                     present_participle: true,
-                    meaning: true,
+                    meaning_spn: true,
+                    definition: true,
                     type: true,
+                    RegularVerbs: {
+                      select: {
+                        past_sound: true
+                      }  
+                    },
                     IPA_regular_verbs:{
                         select: {
                             ipa_present_uk: true,
@@ -199,12 +206,14 @@ export class VerbsService {
                 take: limit,
                 select:{
                     id: true,
+                    past_sound: true,
                     verbs:{
                         select: {
                             id: true,
                             infinitive: true,
                             type: true,
-                            meaning: true,
+                            meaning_spn: true,
+                            definition: true,
                             IPA_regular_verbs:{
                                 select: {
                                     ipa_present_uk: true,
@@ -214,7 +223,9 @@ export class VerbsService {
                         }
                     },
                 },orderBy: {
-                    id: "asc"
+                    verbs: {
+                        infinitive: "asc"
+                    }
                 }
             });
 
@@ -254,7 +265,8 @@ export class VerbsService {
                             infinitive: true,
                             present:true,
                             type: true,
-                            meaning: true,
+                            meaning_spn: true,
+                            definition: true,
                             IPA_irregular_verbs:{
                                 select: {
                                     ipa_present_uk: true,
@@ -264,7 +276,9 @@ export class VerbsService {
                         }
                     },
                 },orderBy: {
-                    id: "asc"
+                    verbs: {
+                        infinitive: "asc"
+                    }
                 }
             });
 
