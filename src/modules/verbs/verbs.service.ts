@@ -115,6 +115,56 @@ export class VerbsService {
         }
     }
 
+
+    async verbsByName(word:string,paginationDto: PaginationDto){
+        try {
+            const {page, limit} = paginationDto;
+            const verbs = await this.prismaService.verbs.findMany({
+                select: {
+                    id: true,
+                    infinitive: true,
+                    IPA_regular_verbs:{
+                        select: {
+                            ipa_present_uk: true,
+                            ipa_present_us: true
+                        }
+                    },
+                    IPA_irregular_verbs:{
+                        select: {
+                            ipa_present_uk: true,
+                            ipa_present_us: true
+                        }
+                    }
+                },
+                where: {
+                    OR: [
+                        { present : { startsWith: word.toUpperCase() }},
+                        { past : { startsWith: word.toUpperCase() }},
+                        { past_participle : { startsWith: word.toUpperCase() }},
+                        { present_participle : { startsWith: word.toUpperCase() }},
+                    ]
+                },
+                orderBy: {
+                    infinitive: "asc"
+                }
+            });
+            const totalPages = verbs.length;
+            const lastPage = Math.ceil( totalPages / limit)
+            
+            return {
+                status: 201,
+                metaData: {
+                    totalRegisters: totalPages,
+                    page: page,
+                    lastPage: lastPage
+                },
+                verbs
+            };
+        } catch (error) {
+            throw new InternalServerErrorException(error.message);
+        }
+    }
+
     // async typeVerbs(typeVerb: string, paginationDto: PaginationDto){
     //     try {
             
@@ -299,5 +349,9 @@ export class VerbsService {
         } catch (error) {
             throw new InternalServerErrorException(error.message)
         }
+    }
+
+    findVerb(array,positon,word){
+        return array.map((el)=> Object.values(el)).map((el)=> el[positon]).filter((el)=> el.toLowerCase().startsWith(word));
     }
 }

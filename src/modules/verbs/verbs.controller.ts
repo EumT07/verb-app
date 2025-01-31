@@ -31,11 +31,11 @@ export class VerbsController {
         return this.verbService.verbById(id);
     }
 
-    // @Get('type/:typeVerb')
-    // getVerbsByType(
-    //     @Param("typeVerb") typeVerb: string,
-    //     @Query() paginationDto: PaginationDto
-    // ){
-    //     return this.verbService.typeVerbs(typeVerb, paginationDto);
-    // }
+    @Get('search/:verb')
+    getVerbsByType(
+        @Param("verb") word: string,
+        @Query() paginationDto: PaginationDto
+    ){
+        return this.verbService.verbsByName(word, paginationDto);
+    }
 }
