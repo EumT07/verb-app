@@ -115,56 +115,6 @@ export class VerbsService {
         }
     }
 
-
-    async verbsByName(word:string,paginationDto: PaginationDto){
-        try {
-            const {page, limit} = paginationDto;
-            const verbs = await this.prismaService.verbs.findMany({
-                select: {
-                    id: true,
-                    infinitive: true,
-                    IPA_regular_verbs:{
-                        select: {
-                            ipa_present_uk: true,
-                            ipa_present_us: true
-                        }
-                    },
-                    IPA_irregular_verbs:{
-                        select: {
-                            ipa_present_uk: true,
-                            ipa_present_us: true
-                        }
-                    }
-                },
-                where: {
-                    OR: [
-                        { present : { startsWith: word.toUpperCase() }},
-                        { past : { startsWith: word.toUpperCase() }},
-                        { past_participle : { startsWith: word.toUpperCase() }},
-                        { present_participle : { startsWith: word.toUpperCase() }},
-                    ]
-                },
-                orderBy: {
-                    infinitive: "asc"
-                }
-            });
-            const totalPages = verbs.length;
-            const lastPage = Math.ceil( totalPages / limit)
-            
-            return {
-                status: 201,
-                metaData: {
-                    totalRegisters: totalPages,
-                    page: page,
-                    lastPage: lastPage
-                },
-                verbs
-            };
-        } catch (error) {
-            throw new InternalServerErrorException(error.message);
-        }
-    }
-
     // async typeVerbs(typeVerb: string, paginationDto: PaginationDto){
     //     try {
             
@@ -348,6 +298,159 @@ export class VerbsService {
             }
         } catch (error) {
             throw new InternalServerErrorException(error.message)
+        }
+    }
+
+    async allVerbsBySearch(word:string,paginationDto: PaginationDto){
+        try {
+            const {page, limit} = paginationDto;
+            const verbs = await this.prismaService.verbs.findMany({
+                select: {
+                    id: true,
+                    infinitive: true,
+                    IPA_regular_verbs:{
+                        select: {
+                            ipa_present_uk: true,
+                            ipa_present_us: true
+                        }
+                    },
+                    IPA_irregular_verbs:{
+                        select: {
+                            ipa_present_uk: true,
+                            ipa_present_us: true
+                        }
+                    }
+                },
+                where: {
+                    OR: [
+                        { present : { startsWith: word.toUpperCase() }},
+                        { past : { startsWith: word.toUpperCase() }},
+                        { past_participle : { startsWith: word.toUpperCase() }},
+                        { present_participle : { startsWith: word.toUpperCase() }},
+                    ]
+                },
+                orderBy: {
+                    infinitive: "asc"
+                }
+            });
+            const totalPages = verbs.length;
+            const lastPage = Math.ceil( totalPages / limit)
+            
+            return {
+                status: 201,
+                metaData: {
+                    totalRegisters: totalPages,
+                    page: page,
+                    lastPage: lastPage
+                },
+                verbs
+            };
+        } catch (error) {
+            throw new InternalServerErrorException(error.message);
+        }
+    }
+
+    async regularVerbsBySearch(word:string,paginationDto: PaginationDto){
+        try {
+            const {page, limit} = paginationDto;
+            const verbs = await this.prismaService.regularVerbs.findMany({
+                skip: (page - 1) * limit,
+                take: limit,
+                select:{
+                    verbs:{
+                        select: {
+                            id: true,
+                            infinitive: true,
+                            IPA_regular_verbs:{
+                                select: {
+                                    ipa_present_uk: true,
+                                    ipa_present_us: true
+                                }
+                            } 
+                        }
+                    },
+                },where:{
+                    verbs: {
+                        OR: [
+                            { present : { startsWith: word.toUpperCase() }},
+                            { past : { startsWith: word.toUpperCase() }},
+                            { past_participle : { startsWith: word.toUpperCase() }},
+                            { present_participle : { startsWith: word.toUpperCase() }},
+                        ]
+                    }
+                }
+                ,orderBy: {
+                    verbs: {
+                        infinitive: "asc"
+                    }
+                },
+            });
+            const totalPages = verbs.length;
+            const lastPage = Math.ceil( totalPages / limit)
+            
+            return {
+                status: 201,
+                metaData: {
+                    totalRegisters: totalPages,
+                    page: page,
+                    lastPage: lastPage
+                },
+                verbs
+            };
+        } catch (error) {
+            throw new InternalServerErrorException(error.message);
+        }
+    }
+
+    async irregularVerbsBySearch(word:string,paginationDto: PaginationDto){
+        try {
+            const {page, limit} = paginationDto;
+            const verbs = await this.prismaService.irregularVerbs.findMany({
+                skip: (page - 1) * limit,
+                take: limit,
+                select:{
+                    verbs:{
+                        select: {
+                            id: true,
+                            infinitive: true,
+                            IPA_irregular_verbs:{
+                                select: {
+                                    ipa_present_uk: true,
+                                    ipa_present_us: true
+                                }
+                            } 
+                        }
+                    },
+                },where:{
+                    verbs: {
+                        OR: [
+                            { present : { startsWith: word.toUpperCase() }},
+                            { past : { startsWith: word.toUpperCase() }},
+                            { past_participle : { startsWith: word.toUpperCase() }},
+                            { present_participle : { startsWith: word.toUpperCase() }},
+                        ]
+                    }
+                }
+                ,orderBy: {
+                    verbs: {
+                        infinitive: "asc"
+                    }
+                },
+            });
+            const totalPages = verbs.length;
+            const lastPage = Math.ceil( totalPages / limit)
+            
+            return {
+                status: 201,
+                metaData: {
+                    totalRegisters: totalPages,
+                    page: page,
+                    lastPage: lastPage
+                },
+                verbs
+            };
+        } catch (error) {
+            throw new InternalServerErrorException(error.message);
         }
     }
 

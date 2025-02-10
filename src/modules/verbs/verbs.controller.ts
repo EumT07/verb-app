@@ -36,6 +36,21 @@ export class VerbsController {
         @Param("verb") word: string,
         @Query() paginationDto: PaginationDto
     ){
-        return this.verbService.verbsByName(word, paginationDto);
+        return this.verbService.allVerbsBySearch(word, paginationDto);
+    }
+
+    @Get('search/regular/:verb')
+    getRebularVerbsBySearch(
+        @Param("verb") word: string,
+        @Query() paginationDto: PaginationDto
+    ){
+        return this.verbService.regularVerbsBySearch(word, paginationDto)
+    }
+    @Get('search/irregular/:verb')
+    getIrrebularVerbsBySearch(
+        @Param("verb") word: string,
+        @Query() paginationDto: PaginationDto
+    ){
+        return this.verbService.irregularVerbsBySearch(word, paginationDto)
     }
 }
