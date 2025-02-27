@@ -29,7 +29,7 @@ export class UpdateUserDto {
     lastName: string;
 
     @ApiProperty({
-        description: 'user gender',
+        description: 'User gender',
         example: 'Female / Male / ',
     })
     @IsString()

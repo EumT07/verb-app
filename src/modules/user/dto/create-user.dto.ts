@@ -5,8 +5,8 @@ import { ApiProperty } from '@nestjs/swagger';
 export class CreateUserDto {
 
     @ApiProperty({
-        description: 'Username',
-        example: 'jhon45',
+        description: 'You can create an username, which allows you to identify yourself within the app, try to create a username, which you can remember, avoid creating excessively long or complicated, or offensive names, also avoid placing personal or sensitive information in the username.',
+        example: 'jhon45 - spider87 - thor23',
     })
     @IsString()
     @IsNotEmpty()
@@ -17,7 +17,7 @@ export class CreateUserDto {
     readonly role: UserRole.USER;
     
     @ApiProperty({
-        description: 'User email',
+        description: 'You can create an email, which allows you to identify yourself within the application, the email can be for personal use, or a secondary email, but remember that you must have full control of your email, because the app will be able to communicate with you, in case of loss of your credentials, you can change your email according to our terms.',
         example: 'jhoncena@gmail.com',
     })
     @IsString()
