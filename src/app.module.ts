@@ -9,8 +9,6 @@ import { UserModule } from './modules/user/user.module';
 import { EmailModule } from './providers/email/email.module';
 import { VerbsModule } from './modules/verbs/verbs.module';
 
-
-
 @Module({
   imports: [
     ConfigModule.forRoot({ isGlobal: true, load: [configuration] }),

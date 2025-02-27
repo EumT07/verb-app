@@ -1,6 +1,6 @@
 import { Injectable, InternalServerErrorException, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
-import { PaginationDto } from 'src/shared/common/pagination.dto';
+import { PaginationDto } from 'src/shared/common/index';
 
 
 @Injectable()
@@ -454,7 +454,7 @@ export class VerbsService {
         }
     }
 
-    findVerb(array,positon,word){
-        return array.map((el)=> Object.values(el)).map((el)=> el[positon]).filter((el)=> el.toLowerCase().startsWith(word));
-    }
+    // findVerb(array,positon,word){
+    //     return array.map((el)=> Object.values(el)).map((el)=> el[positon]).filter((el)=> el.toLowerCase().startsWith(word));
+    // }
 }

@@ -4,7 +4,9 @@ import { UserService } from '../user/user.service';
 import { loginPostApi, recoveryPassPostApi, registerUserPostApi, resetPassPostApi } from 'src/docs/auth-api/index';
 import { CreateUserDto } from '../user/dto';
 import { EmailDto, LoginDto, ResetPasswordDto } from './dto';
+import { ApiTags } from "@nestjs/swagger"
 
+@ApiTags("Authentication")
 @Controller('auth')
 export class AuthController {
 
