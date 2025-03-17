@@ -2939,7 +2939,7 @@
     {
         "id": "V9-BE-4411",
         "infinitive": "TO BE",
-        "present": "AM-IS-ARE",
+        "present": "BE-AM-IS-ARE",
         "past": "WAS-WERE",
         "past_participle": "BEEN",
         "present_participle": "BEING",
