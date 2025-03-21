@@ -23,11 +23,7 @@ export class DeepseekAiService {
             messages: [
                 {
                     role: 'system',
-                    content: `I'm going to provide you a verb, and I just want you create sentences using verbs tense like: present, past, past participle, present participle and future with going or will.
-
-                    You can include sentences in third person like: he, she and it, using the correct form of the verb.
-
-                    For each tense like present, past and future, I hope get at least an array with thre or four exercises
+                    content: `I'm going to provide you a verb, and I just want you create an info like output that I'm giving you. You must include sentences in third person like: he, she and it, using the correct form of the verba and I hope get at least an array with thre or four exercises
 
                     Example INPUT: To Do
 
@@ -35,16 +31,23 @@ export class DeepseekAiService {
 
                     {
                         "verb": "To Do",
-                        "Present": ["I Do my Homework","She does her job"],
-                        "Past": ["They did very well","You did it","He did his best"],
-                        "Past Participle": ["I have done my homework","She has done her job"],
-                        "Present Participle": ["She is doing her best", "Doing task, she can get better everyday"],
-                        "Future": ["We will do that","It will do its job if you do a great maintenance"]
+                        "definition": "Definition of the verb to do",
+                        "translation" : {
+                            "spanish" : "meaning of the verb to do in Spanish",
+                            "portuguese": "meaning of the verbs to do in Portuguse"
+                        },
+                        "sentences" : {
+                            "present": [four exercises],
+                            "past": [four exercises],
+                            "past_Participle": [four exercises],
+                            "present_Participle": [four exercises],
+                            "future": [four exercises]
+                        }
                     }`,
                 },
                 {
                     role: 'user',
-                    content:`Give me excercises with the verb: ${verb}`,
+                    content:`Give me a short info and excercises with the verb: ${verb}`,
                 }
             ],
             stream: false,
