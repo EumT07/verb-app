@@ -10,17 +10,23 @@ const main = async () => {
         let irregularVerbs_file = fs.readFileSync("./prisma/JSON/irregularVerbs.json", "utf-8");
         let ipaRegularVerbs_file = fs.readFileSync("./prisma/JSON/ipaRegularVerbs.json", "utf-8");
         let ipaIrregularVerbs_file = fs.readFileSync("./prisma/JSON/ipaIrregularVerbs.json", "utf-8");
+        let meaning_file = fs.readFileSync("./prisma/JSON/meaning.json", "utf-8");
 
         const verbsJSON = JSON.parse(verbs_file);
         const regularVerbsJSON = JSON.parse(regularVerbs_file);
         const irregularVerbsJSON = JSON.parse(irregularVerbs_file);
         const ipaRegularVerbsJSON = JSON.parse(ipaRegularVerbs_file);
         const ipaIrregularVerbsJSON = JSON.parse(ipaIrregularVerbs_file);
+        const meaningJSON = JSON.parse(meaning_file);
 
         // Create verbs table
         await prisma.verbs.createMany({
             data: verbsJSON
         });
+        // Create meaning file
+        await prisma.meaning.createMany({
+            data: meaningJSON
+        })
         // Create IPA Regular Verbs Table
         await prisma.iPA_regular_verbs.createMany({
             data: ipaRegularVerbsJSON

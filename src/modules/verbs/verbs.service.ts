@@ -20,9 +20,6 @@ export class VerbsService {
                 select: {
                     id: true,
                     infinitive: true,
-                    type: true,
-                    meaning_spn: true,
-                    definition: true,
                     IPA_regular_verbs:{
                         select: {
                             ipa_present_uk: true,
@@ -66,13 +63,21 @@ export class VerbsService {
                     past: true,
                     past_participle: true,
                     present_participle: true,
-                    meaning_spn: true,
                     definition: true,
                     type: true,
+                    Meaning: {
+                        select:{
+                            spanish: true,
+                            portuguese: true,
+                            italian: true,
+                            french: true,
+                            german: true
+                        }
+                    },
                     RegularVerbs: {
-                      select: {
-                        past_sound: true
-                      }  
+                        select: {
+                            past_sound: true
+                        }  
                     },
                     IPA_regular_verbs:{
                         select: {
@@ -211,9 +216,6 @@ export class VerbsService {
                         select: {
                             id: true,
                             infinitive: true,
-                            type: true,
-                            meaning_spn: true,
-                            definition: true,
                             IPA_regular_verbs:{
                                 select: {
                                     ipa_present_uk: true,
@@ -263,10 +265,6 @@ export class VerbsService {
                         select: {
                             id: true,
                             infinitive: true,
-                            present:true,
-                            type: true,
-                            meaning_spn: true,
-                            definition: true,
                             IPA_irregular_verbs:{
                                 select: {
                                     ipa_present_uk: true,

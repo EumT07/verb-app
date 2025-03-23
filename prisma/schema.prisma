@@ -39,11 +39,11 @@ model Verbs {
   past                 String
   past_participle      String
   present_participle   String
-  meaning_spn          String?
   type                 String
   definition           String
   RegularVerbs         RegularVerbs?
   IrregularVerbs       IrregularVerbs?
+  Meaning              Meaning?
   Phrasal_verbs        PhrasalVerbs?
   IPA_regular_verbs    IPA_regular_verbs?
   IPA_irregular_verbs  IPA_irregular_verbs?
@@ -95,6 +95,17 @@ model IrregularVerbs {
   verb_id                String              @unique
   ipa_irregular          IPA_irregular_verbs @relation(fields: [ipa_irregular_verbs_id], references: [id])
   ipa_irregular_verbs_id String              @unique
+}
+
+model Meaning {
+  id            String @id @unique
+  verbs         Verbs   @relation(fields: [verb_id], references: [id])
+  verb_id       String  @unique
+  spanish       String
+  portuguese    String
+  italian       String
+  french        String
+  german        String
 }
 
 model PhrasalVerbs {

@@ -6,7 +6,6 @@
         "past": "ACCEPTED",
         "past_participle": "ACCEPTED",
         "present_participle": "ACCEPTING",
-        "meaning_spn": "ACEPTAR",
         "definition": "To accept means to receive something willingly or to agree to something. It can also mean to believe something is true or to acknowledge something as valid.",
         "type": "REGULAR"
     },
@@ -17,7 +16,6 @@
         "past": "ACTED",
         "past_participle": "ACTED",
         "present_participle": "ACTING",
-        "meaning_spn": "ACTUAR",
         "definition": "To act means to do something or to behave in a particular way",
         "type": "REGULAR"
     },
@@ -28,7 +26,6 @@
         "past": "ADDED",
         "past_participle": "ADDED",
         "present_participle": "ADDING",
-        "meaning_spn": "SUMAR",
         "definition": "To add means to join or unite something with something else to increase the number, amount, or importance.",
         "type": "REGULAR"
     },
@@ -39,7 +36,6 @@
         "past": "ADMITTED",
         "past_participle": "ADMITTED",
         "present_participle": "ADMITTING",
-        "meaning_spn": "ADMITIR",
         "definition": "To admit means to acknowledge or confess the truth of something, often reluctantly.",
         "type": "REGULAR"
     },
@@ -50,7 +46,6 @@
         "past": "ADVISED",
         "past_participle": "ADVISED",
         "present_participle": "ADVISING",
-        "meaning_spn": "ACONSEJAR",
         "definition": "To advise means to give someone a suggestion or recommendation about what they should do.",
         "type": "REGULAR"
     },
@@ -61,7 +56,6 @@
         "past": "AFFORDED",
         "past_participle": "AFFORDED",
         "present_participle": "AFFORDING",
-        "meaning_spn": "Permitirse el lujo de",
         "definition": "To afford means to have enough money or resources to buy or do something.",
         "type": "REGULAR"
     },
@@ -72,7 +66,6 @@
         "past": "AGREED",
         "past_participle": "AGREED",
         "present_participle": "AGREEING",
-        "meaning_spn": "CONVENIR",
         "definition": "To agree means to have the same opinion or to consent to something.",
         "type": "REGULAR"
     },
@@ -83,7 +76,6 @@
         "past": "AIMED",
         "past_participle": "AIMED",
         "present_participle": "AIMING",
-        "meaning_spn": "APUNTAR - Planificar - LOGRAR",
         "definition": "To aim means to point or direct something towards a target or goal, or to intend to achieve something.",
         "type": "REGULAR"
     },
@@ -94,7 +86,6 @@
         "past": "ALLOWED",
         "past_participle": "ALLOWED",
         "present_participle": "ALLOWING",
-        "meaning_spn": "PERMITIR",
         "definition": "To allow means to permit or give permission for something",
         "type": "REGULAR"
     },
@@ -105,7 +96,6 @@
         "past": "AMUSED",
         "past_participle": "AMUSED",
         "present_participle": "AMUSING",
-        "meaning_spn": "divertir/entretener",
         "definition": "To amuse means to entertain or occupy someone in a pleasant way, often by making them laugh or smile.",
         "type": "REGULAR"
     },
@@ -116,7 +106,6 @@
         "past": "ANSWERED",
         "past_participle": "ANSWERED",
         "present_participle": "ANSWERING",
-        "meaning_spn": "RESPONDER",
         "definition": "To answer means to respond to a question, statement, or request, typically in speech or writing.",
         "type": "REGULAR"
     },
@@ -127,7 +116,6 @@
         "past": "ANTICIPATED",
         "past_participle": "ANTICIPATED",
         "present_participle": "ANTICIPATING",
-        "meaning_spn": "ANTICIPAR",
         "definition": "To anticipate means to expect or predict something that will happen in the future. It can also mean to take action in preparation for something expected.",
         "type": "REGULAR"
     },
@@ -138,7 +126,6 @@
         "past": "APOLOGIZED",
         "past_participle": "APOLOGIZED",
         "present_participle": "APOLOGIZING",
-        "meaning_spn": "DISCULPARSE",
         "definition": "To apologize means to express regret for something wrong that you have done.",
         "type": "REGULAR"
     },
@@ -149,7 +136,6 @@
         "past": "APPEARED",
         "past_participle": "APPEARED",
         "present_participle": "APPEARING",
-        "meaning_spn": "PARECER",
         "definition": "To appear means to come into sight or to seem to be a certain way.",
         "type": "REGULAR"
     },
@@ -160,7 +146,6 @@
         "past": "APPRECIATED",
         "past_participle": "APPRECIATED",
         "present_participle": "APPRECIATING",
-        "meaning_spn": "APRECIAR",
         "definition": "To appreciate means to recognize the value or importance of something or someone. It can also mean to be grateful for something.",
         "type": "REGULAR"
     },
@@ -171,7 +156,6 @@
         "past": "APPROVED",
         "past_participle": "APPROVED",
         "present_participle": "APPROVING",
-        "meaning_spn": "APROBAR",
         "definition": "To approve means to officially accept something or to show that you think something is good or acceptable.",
         "type": "REGULAR"
     },
@@ -182,7 +166,6 @@
         "past": "ARRANGED",
         "past_participle": "ARRANGED",
         "present_participle": "ARRANGING",
-        "meaning_spn": "ORDENAR",
         "definition": "To arrange means to put things in a particular order or position, or to make plans for something.",
         "type": "REGULAR"
     },
@@ -193,7 +176,6 @@
         "past": "ARRIVED",
         "past_participle": "ARRIVED",
         "present_participle": "ARRIVING",
-        "meaning_spn": "LLEGAR",
         "definition": "To arrive means to reach a place, especially at the end of a journey.",
         "type": "REGULAR"
     },
@@ -204,7 +186,6 @@
         "past": "ASKED",
         "past_participle": "ASKED",
         "present_participle": "ASKING",
-        "meaning_spn": "PREGUNTAR",
         "definition": "To ask means to say something to someone as a question, or to request something from someone.",
         "type": "REGULAR"
     },
@@ -215,7 +196,6 @@
         "past": "ATTEMPTED",
         "past_participle": "ATTEMPTED",
         "present_participle": "ATTEMPTING",
-        "meaning_spn": "INTENTAR",
         "definition": "To attempt means to try to do something, especially something difficult.",
         "type": "REGULAR"
     },
@@ -226,7 +206,6 @@
         "past": "ATTENDED",
         "past_participle": "ATTENDED",
         "present_participle": "ATTENDING",
-        "meaning_spn": "ASISTIR",
         "definition": "To attend means to be present at an event or to pay attention to something.",
         "type": "REGULAR"
     },
@@ -237,7 +216,6 @@
         "past": "AVOIDED",
         "past_participle": "AVOIDED",
         "present_participle": "AVOIDING",
-        "meaning_spn": "EVITAR",
         "definition": "To avoid means to keep away from something or someone, or to prevent something from happening.",
         "type": "REGULAR"
     },
@@ -248,7 +226,6 @@
         "past": "BATHED",
         "past_participle": "BATHED",
         "present_participle": "BATHING",
-        "meaning_spn": "BA\u00d1ARSE",
         "definition": "To bathe means to wash oneself or another person in water, often in a bathtub or a natural body of water.",
         "type": "REGULAR"
     },
@@ -259,7 +236,6 @@
         "past": "BEGGED",
         "past_participle": "BEGGED",
         "present_participle": "BEGGING",
-        "meaning_spn": "ROGAR",
         "definition": "To beg means to ask for something earnestly and humbly, often with a sense of desperation or need.",
         "type": "REGULAR"
     },
@@ -270,7 +246,6 @@
         "past": "BEHAVED",
         "past_participle": "BEHAVED",
         "present_participle": "BEHAVING",
-        "meaning_spn": "COMPORTARSE",
         "definition": "To behave means to act in a particular way, especially in relation to accepted standards of behavior",
         "type": "REGULAR"
     },
@@ -281,7 +256,6 @@
         "past": "BELIEVED",
         "past_participle": "BELIEVED",
         "present_participle": "BELIEVING",
-        "meaning_spn": "CREER",
         "definition": "To believe means to accept something as true or real; to have faith or confidence in something or someone.",
         "type": "REGULAR"
     },
@@ -292,7 +266,6 @@
         "past": "BELONGED",
         "past_participle": "BELONGED",
         "present_participle": "BELONGING",
-        "meaning_spn": "PERTENECER",
         "definition": "To belong means to be part of a group or to be associated with a particular place or thing.",
         "type": "REGULAR"
     },
@@ -303,7 +276,6 @@
         "past": "BOILED",
         "past_participle": "BOILED",
         "present_participle": "BOILING",
-        "meaning_spn": "HERVIR",
         "definition": "To boil means to heat a liquid until it reaches its boiling point and turns into vapor.",
         "type": "REGULAR"
     },
@@ -314,7 +286,6 @@
         "past": "BORROWED",
         "past_participle": "BORROWED",
         "present_participle": "BORROWING",
-        "meaning_spn": "PEDIR",
         "definition": "To borrow means to take something from someone with the intention of returning it later.",
         "type": "REGULAR"
     },
@@ -325,7 +296,6 @@
         "past": "BOTHERED",
         "past_participle": "BOTHERED",
         "present_participle": "BOTHERING",
-        "meaning_spn": "MOLESTAR",
         "definition": "To bother means to disturb, annoy, or trouble someone. It can also mean to take the trouble to do something.",
         "type": "REGULAR"
     },
@@ -336,7 +306,6 @@
         "past": "BRUSHED",
         "past_participle": "BRUSHED",
         "present_participle": "BRUSHING",
-        "meaning_spn": "CEPILLAR",
         "definition": "To brush means to clean or smooth something, often with a brush.",
         "type": "REGULAR"
     },
@@ -347,7 +316,6 @@
         "past": "CALLED",
         "past_participle": "CALLED",
         "present_participle": "CALLING",
-        "meaning_spn": "LLAMAR",
         "definition": "To call means to communicate with someone by phone or to shout to attract attention. It can also mean to name or designate something.",
         "type": "REGULAR"
     },
@@ -358,7 +326,6 @@
         "past": "CARRIED",
         "past_participle": "CARRIED",
         "present_participle": "CARRYING",
-        "meaning_spn": "LLEVAR",
         "definition": "To carry means to transport or support something, often from one place to another.",
         "type": "REGULAR"
     },
@@ -369,7 +336,6 @@
         "past": "CASHED",
         "past_participle": "CASHED",
         "present_participle": "CASHING",
-        "meaning_spn": "CAMBIAR",
         "definition": "To cash means to exchange something, such as a check or money order, for money.",
         "type": "REGULAR"
     },
@@ -380,7 +346,6 @@
         "past": "CEASED",
         "past_participle": "CEASED",
         "present_participle": "CEASING",
-        "meaning_spn": "CESAR/SUSPENDER",
         "definition": "To cease means to stop or discontinue.",
         "type": "REGULAR"
     },
@@ -391,7 +356,6 @@
         "past": "CELEBRATED",
         "past_participle": "CELEBRATED",
         "present_participle": "CELEBRATING",
-        "meaning_spn": "CELEBRAR",
         "definition": "To celebrate means to show joy or pleasure, often with festivities or special events",
         "type": "REGULAR"
     },
@@ -402,7 +366,6 @@
         "past": "CHANGED",
         "past_participle": "CHANGED",
         "present_participle": "CHANGING",
-        "meaning_spn": "CAMBIAR",
         "definition": "To change means to make or become different.",
         "type": "REGULAR"
     },
@@ -413,7 +376,6 @@
         "past": "CHEATED",
         "past_participle": "CHEATED",
         "present_participle": "CHEATING",
-        "meaning_spn": "HACER TRAMPA",
         "definition": "To cheat means to act dishonestly or unfairly in order to gain an advantage.",
         "type": "REGULAR"
     },
@@ -424,7 +386,6 @@
         "past": "CHECKED",
         "past_participle": "CHECKED",
         "present_participle": "CHECKING",
-        "meaning_spn": "VERIFICAR",
         "definition": "To check means to examine something carefully to ensure it is correct, accurate, or safe.",
         "type": "REGULAR"
     },
@@ -435,7 +396,6 @@
         "past": "CLAIMED",
         "past_participle": "CLAIMED",
         "present_participle": "CLAIMING",
-        "meaning_spn": "EXIGIR",
         "definition": "To claim means to state that something is true, especially when it has not been proved.",
         "type": "REGULAR"
     },
@@ -446,7 +406,6 @@
         "past": "CLEANED",
         "past_participle": "CLEANED",
         "present_participle": "CLEANING",
-        "meaning_spn": "LIMPIAR",
         "definition": "To clean means to remove dirt, marks, or other impurities from something.",
         "type": "REGULAR"
     },
@@ -457,7 +416,6 @@
         "past": "CLIMBED",
         "past_participle": "CLIMBED",
         "present_participle": "CLIMBING",
-        "meaning_spn": "ESCALAR",
         "definition": "To climb means to go up or down something, often using one's hands and feet.",
         "type": "REGULAR"
     },
@@ -468,7 +426,6 @@
         "past": "CLOSED",
         "past_participle": "CLOSED",
         "present_participle": "CLOSING",
-        "meaning_spn": "CERRAR",
         "definition": "To close means to shut or fasten something, or to bring something to an end.",
         "type": "REGULAR"
     },
@@ -479,7 +436,6 @@
         "past": "COMBED",
         "past_participle": "COMBED",
         "present_participle": "COMBING",
-        "meaning_spn": "PEINAR",
         "definition": "To comb means to tidy one's hair using a comb.",
         "type": "REGULAR"
     },
@@ -490,7 +446,6 @@
         "past": "COMPARED",
         "past_participle": "COMPARED",
         "present_participle": "COMPARING",
-        "meaning_spn": "COMPARAR",
         "definition": "To compare means to examine two or more things to identify similarities and differences.",
         "type": "REGULAR"
     },
@@ -501,7 +456,6 @@
         "past": "COMPELLED",
         "past_participle": "COMPELLED",
         "present_participle": "COMPELLING",
-        "meaning_spn": "OBLIGAR A",
         "definition": "To compel means to force or drive someone to do something.",
         "type": "REGULAR"
     },
@@ -512,7 +466,6 @@
         "past": "COMPLAINED",
         "past_participle": "COMPLAINED",
         "present_participle": "COMPLAINING",
-        "meaning_spn": "QUEJARSE",
         "definition": "To complain means to express dissatisfaction, annoyance, or grief about something.",
         "type": "REGULAR"
     },
@@ -523,7 +476,6 @@
         "past": "COMPLETED",
         "past_participle": "COMPLETED",
         "present_participle": "COMPLETING",
-        "meaning_spn": "COMPLETAR",
         "definition": "To complete means to finish or bring to an end.",
         "type": "REGULAR"
     },
@@ -534,7 +486,6 @@
         "past": "CONGRATULATED",
         "past_participle": "CONGRATULATED",
         "present_participle": "CONGRATULATING",
-        "meaning_spn": "FELICITAR",
         "definition": "To congratulate means to express pleasure and admiration at someone's success or achievement.",
         "type": "REGULAR"
     },
@@ -545,7 +496,6 @@
         "past": "CONSENTED",
         "past_participle": "CONSENTED",
         "present_participle": "CONSENTING",
-        "meaning_spn": "CONSENTIR",
         "definition": "To consent means to give permission or approval for something.",
         "type": "REGULAR"
     },
@@ -556,7 +506,6 @@
         "past": "CONSIDERED",
         "past_participle": "CONSIDERED",
         "present_participle": "CONSIDERING",
-        "meaning_spn": "CONSIDERAR",
         "definition": "To consider means to think carefully about something, especially in order to make a decision.",
         "type": "REGULAR"
     },
@@ -567,7 +516,6 @@
         "past": "CONTINUED",
         "past_participle": "CONTINUED",
         "present_participle": "CONTINUING",
-        "meaning_spn": "CONTINUAR",
         "definition": "To continue means to carry on or persist with an action or activity.",
         "type": "REGULAR"
     },
@@ -578,7 +526,6 @@
         "past": "CONVINCED",
         "past_participle": "CONVINCED",
         "present_participle": "CONVINCING",
-        "meaning_spn": "CONVENCER",
         "definition": "To convince means to persuade someone to believe something or to do something.",
         "type": "REGULAR"
     },
@@ -589,7 +536,6 @@
         "past": "COOKED",
         "past_participle": "COOKED",
         "present_participle": "COOKING",
-        "meaning_spn": "COCINAR",
         "definition": "To cook means to prepare food by heating it.",
         "type": "REGULAR"
     },
@@ -600,7 +546,6 @@
         "past": "CORRECTED",
         "past_participle": "CORRECTED",
         "present_participle": "CORRECTING",
-        "meaning_spn": "CORREGIR",
         "definition": "To correct means to make something right or accurate.",
         "type": "REGULAR"
     },
@@ -611,7 +556,6 @@
         "past": "COVERED",
         "past_participle": "COVERED",
         "present_participle": "COVERING",
-        "meaning_spn": "CUBRIR",
         "definition": "To cover means to place something over or in front of something else, often to protect, hide, or close it.",
         "type": "REGULAR"
     },
@@ -622,7 +566,6 @@
         "past": "CROSSED",
         "past_participle": "CROSSED",
         "present_participle": "CROSSING",
-        "meaning_spn": "CRUZAR",
         "definition": "To cross means to go across something, such as a road, a river, or a border. It can also mean to intersect or overlap.",
         "type": "REGULAR"
     },
@@ -633,7 +576,6 @@
         "past": "CRIED",
         "past_participle": "CRIED",
         "present_participle": "CRYING",
-        "meaning_spn": "LLORAR",
         "definition": "To cry means to shed tears, often expressing sadness, pain, or joy.",
         "type": "REGULAR"
     },
@@ -644,7 +586,6 @@
         "past": "CURED",
         "past_participle": "CURED",
         "present_participle": "CURING",
-        "meaning_spn": "CURAR",
         "definition": "To cure means to make someone or something healthy again.",
         "type": "REGULAR"
     },
@@ -655,7 +596,6 @@
         "past": "DANCED",
         "past_participle": "DANCED",
         "present_participle": "DANCING",
-        "meaning_spn": "BAILAR",
         "definition": "To dance means to move one's body rhythmically, usually to music.",
         "type": "REGULAR"
     },
@@ -666,7 +606,6 @@
         "past": "DARED",
         "past_participle": "DARED",
         "present_participle": "DARING",
-        "meaning_spn": "ATREVERSE",
         "definition": "To dare means to be bold enough to do something risky or challenging.",
         "type": "REGULAR"
     },
@@ -677,7 +616,6 @@
         "past": "DATED",
         "past_participle": "DATED",
         "present_participle": "DATING",
-        "meaning_spn": "FECHAR",
         "definition": "To date means to have a romantic relationship with someone.",
         "type": "REGULAR"
     },
@@ -688,7 +626,6 @@
         "past": "DECIDED",
         "past_participle": "DECIDED",
         "present_participle": "DECIDING",
-        "meaning_spn": "DECIDIR",
         "definition": "To decide means to make a choice or judgment about something.",
         "type": "REGULAR"
     },
@@ -699,7 +636,6 @@
         "past": "DECLINED",
         "past_participle": "DECLINED",
         "present_participle": "DECLINING",
-        "meaning_spn": "RECHAZAR",
         "definition": "To decline means to refuse something politely or to become less or worse over time.",
         "type": "REGULAR"
     },
@@ -710,7 +646,6 @@
         "past": "DEFENDED",
         "past_participle": "DEFENDED",
         "present_participle": "DEFENDING",
-        "meaning_spn": "DEFENDER",
         "definition": "To defend means to protect someone or something from attack or harm.",
         "type": "REGULAR"
     },
@@ -721,7 +656,6 @@
         "past": "DEFERRED",
         "past_participle": "DEFERRED",
         "present_participle": "DEFERRING",
-        "meaning_spn": "DIFERIR",
         "definition": "To defer means to delay or postpone something until a later time, or to yield to someone else's opinion or decision.",
         "type": "REGULAR"
     },
@@ -732,7 +666,6 @@
         "past": "DELAYED",
         "past_participle": "DELAYED",
         "present_participle": "DELAYING",
-        "meaning_spn": "RETRASARSE",
         "definition": "To delay means to make something happen at a later time than originally planned.",
         "type": "REGULAR"
     },
@@ -743,7 +676,6 @@
         "past": "DEMANDED",
         "past_participle": "DEMANDED",
         "present_participle": "DEMANDING",
-        "meaning_spn": "EXIGIR",
         "definition": "To demand means to ask for something forcefully or with authority.",
         "type": "REGULAR"
     },
@@ -754,7 +686,6 @@
         "past": "DENIED",
         "past_participle": "DENIED",
         "present_participle": "DENYING",
-        "meaning_spn": "NEGAR",
         "definition": "To deny means to refuse to accept, acknowledge, or believe something.",
         "type": "REGULAR"
     },
@@ -765,7 +696,6 @@
         "past": "DESCRIBED",
         "past_participle": "DESCRIBED",
         "present_participle": "DESCRIBING",
-        "meaning_spn": "DESCRIBIR",
         "definition": "To describe means to say what something or someone is like.",
         "type": "REGULAR"
     },
@@ -776,7 +706,6 @@
         "past": "DESERVED",
         "past_participle": "DESERVED",
         "present_participle": "DESERVING",
-        "meaning_spn": "MERECER",
         "definition": "To deserve means to be worthy of something, often based on actions, qualities, or circumstances.",
         "type": "REGULAR"
     },
@@ -787,7 +716,6 @@
         "past": "DESIRED",
         "past_participle": "DESIRED",
         "present_participle": "DESIRING",
-        "meaning_spn": "DESEAR",
         "definition": "To desire means to wish for something strongly.",
         "type": "REGULAR"
     },
@@ -798,7 +726,6 @@
         "past": "DESTROYED",
         "past_participle": "DESTROYED",
         "present_participle": "DESTROYING",
-        "meaning_spn": "DESTRUIR",
         "definition": "To destroy means to damage something so badly that it cannot be repaired or used.",
         "type": "REGULAR"
     },
@@ -809,7 +736,6 @@
         "past": "DETESTED",
         "past_participle": "DETESTED",
         "present_participle": "DETESTING",
-        "meaning_spn": "ABORRECER",
         "definition": "To detest means to hate intensely or utterly.",
         "type": "REGULAR"
     },
@@ -820,7 +746,6 @@
         "past": "DIED",
         "past_participle": "DIED",
         "present_participle": "DYING",
-        "meaning_spn": "MORIR",
         "definition": "To die means to cease to live; to expire.",
         "type": "REGULAR"
     },
@@ -831,7 +756,6 @@
         "past": "DISAPPROVED",
         "past_participle": "DISAPPROVED",
         "present_participle": "DISAPPROVING",
-        "meaning_spn": "DESAPROBAR",
         "definition": "To disapprove means to consider something wrong or bad, or to feel or express disapproval of something or someone.",
         "type": "REGULAR"
     },
@@ -842,7 +766,6 @@
         "past": "DISCOVERED",
         "past_participle": "DISCOVERED",
         "present_participle": "DISCOVERING",
-        "meaning_spn": "DESCUBRIR",
         "definition": "To discover means to find or learn something for the first time.",
         "type": "REGULAR"
     },
@@ -853,7 +776,6 @@
         "past": "DISCUSSED",
         "past_participle": "DISCUSSED",
         "present_participle": "DISCUSSING",
-        "meaning_spn": "DISCUTIR",
         "definition": "To discuss means to talk about something in order to exchange ideas or reach a decision.",
         "type": "REGULAR"
     },
@@ -864,7 +786,6 @@
         "past": "DISLIKED",
         "past_participle": "DISLIKED",
         "present_participle": "DISLIKING",
-        "meaning_spn": "DETESTAR",
         "definition": "To dislike means to not like someone or something.",
         "type": "REGULAR"
     },
@@ -875,7 +796,6 @@
         "past": "DOUBTED",
         "past_participle": "DOUBTED",
         "present_participle": "DOUBTING",
-        "meaning_spn": "DUDAR",
         "definition": "To doubt means to feel uncertain about the truth or existence of something.",
         "type": "REGULAR"
     },
@@ -886,7 +806,6 @@
         "past": "DRESSED",
         "past_participle": "DRESSED",
         "present_participle": "DRESSING",
-        "meaning_spn": "VESTIR",
         "definition": "To dress means to put on clothes or to prepare someone or something for a specific purpose.",
         "type": "REGULAR"
     },
@@ -897,7 +816,6 @@
         "past": "ELECTED",
         "past_participle": "ELECTED",
         "present_participle": "ELECTING",
-        "meaning_spn": "ELEGIR",
         "definition": "To elect means to choose someone for a position by voting.",
         "type": "REGULAR"
     },
@@ -908,7 +826,6 @@
         "past": "EMPLOYED",
         "past_participle": "EMPLOYED",
         "present_participle": "EMPLOYING",
-        "meaning_spn": "EMPLEAR",
         "definition": "To employ means to hire someone or use something for a specific purpose.",
         "type": "REGULAR"
     },
@@ -919,7 +836,6 @@
         "past": "ENCOURAGED",
         "past_participle": "ENCOURAGED",
         "present_participle": "ENCOURAGING",
-        "meaning_spn": "ALENTAR",
         "definition": "To encourage means to give someone support, confidence, or hope.",
         "type": "REGULAR"
     },
@@ -930,7 +846,6 @@
         "past": "ENDED",
         "past_participle": "ENDED",
         "present_participle": "ENDING",
-        "meaning_spn": "TERMINAR",
         "definition": "To end means to finish or stop.",
         "type": "REGULAR"
     },
@@ -941,7 +856,6 @@
         "past": "ENDURED",
         "past_participle": "ENDURED",
         "present_participle": "ENDURING",
-        "meaning_spn": "RESISTIR",
         "definition": "To endure means to suffer something difficult, painful, or unpleasant, or to continue to exist for a long time.",
         "type": "REGULAR"
     },
@@ -952,7 +866,6 @@
         "past": "ENJOYED",
         "past_participle": "ENJOYED",
         "present_participle": "ENJOYING",
-        "meaning_spn": "DISFRUTAR",
         "definition": "To enjoy means to take pleasure in something.",
         "type": "REGULAR"
     },
@@ -963,7 +876,6 @@
         "past": "ENTERED",
         "past_participle": "ENTERED",
         "present_participle": "ENTERING",
-        "meaning_spn": "ENTRAR EN",
         "definition": "To enter means to go into a place or to become involved in something.",
         "type": "REGULAR"
     },
@@ -974,7 +886,6 @@
         "past": "ERASED",
         "past_participle": "ERASED",
         "present_participle": "ERASING",
-        "meaning_spn": "BORRAR",
         "definition": "To erase means to remove something completely, often by rubbing or wiping.",
         "type": "REGULAR"
     },
@@ -985,7 +896,6 @@
         "past": "ESCAPED",
         "past_participle": "ESCAPED",
         "present_participle": "ESCAPING",
-        "meaning_spn": "ESCAPAR",
         "definition": "To escape means to get free from a difficult or dangerous situation.",
         "type": "REGULAR"
     },
@@ -996,7 +906,6 @@
         "past": "EXCLAIMED",
         "past_participle": "EXCLAIMED",
         "present_participle": "EXCLAIMING",
-        "meaning_spn": "EXCLAMAR",
         "definition": "To exclaim means to cry out suddenly, especially in surprise, anger, or pain.",
         "type": "REGULAR"
     },
@@ -1007,7 +916,6 @@
         "past": "EXCUSED",
         "past_participle": "EXCUSED",
         "present_participle": "EXCUSING",
-        "meaning_spn": "DISCULPAR",
         "definition": "To excuse means to forgive someone for something they have done wrong, or to accept a reason for their behavior.",
         "type": "REGULAR"
     },
@@ -1018,7 +926,6 @@
         "past": "EXPECTED",
         "past_participle": "EXPECTED",
         "present_participle": "EXPECTING",
-        "meaning_spn": "ESPERAR",
         "definition": "To expect means to think or believe that something will happen or that someone will do something.",
         "type": "REGULAR"
     },
@@ -1029,7 +936,6 @@
         "past": "EXPLAINED",
         "past_participle": "EXPLAINED",
         "present_participle": "EXPLAINING",
-        "meaning_spn": "EXPLICAR",
         "definition": "To explain means to make something clear or easy to understand by describing or giving information about it.",
         "type": "REGULAR"
     },
@@ -1040,7 +946,6 @@
         "past": "EXPRESSED",
         "past_participle": "EXPRESSED",
         "present_participle": "EXPRESSING",
-        "meaning_spn": "EXPRESAR",
         "definition": "To express means to convey or communicate thoughts, feelings, or ideas.",
         "type": "REGULAR"
     },
@@ -1051,7 +956,6 @@
         "past": "FAILED",
         "past_participle": "FAILED",
         "present_participle": "FAILING",
-        "meaning_spn": "FALLAR",
         "definition": "To fail means to not succeed in achieving something.",
         "type": "REGULAR"
     },
@@ -1062,7 +966,6 @@
         "past": "FINISHED",
         "past_participle": "FINISHED",
         "present_participle": "FINISHING",
-        "meaning_spn": "TERMINAR",
         "definition": "To finish means to complete something or bring it to an end.",
         "type": "REGULAR"
     },
@@ -1073,7 +976,6 @@
         "past": "FITTED",
         "past_participle": "FITTED",
         "present_participle": "FITTING",
-        "meaning_spn": "CABER",
         "definition": "To fit means to be the right size or shape for something, or to be suitable for a particular purpose or situation.",
         "type": "REGULAR"
     },
@@ -1084,7 +986,6 @@
         "past": "FOLLOWED",
         "past_participle": "FOLLOWED",
         "present_participle": "FOLLOWING",
-        "meaning_spn": "SEGUIR",
         "definition": "To follow means to go after or behind someone or something, or to obey or comply with something.",
         "type": "REGULAR"
     },
@@ -1095,7 +996,6 @@
         "past": "FORCED",
         "past_participle": "FORCED",
         "present_participle": "FORCING",
-        "meaning_spn": "OBLIGAR",
         "definition": "To force means to compel someone to do something against their will, or to make something happen through strength or pressure.",
         "type": "REGULAR"
     },
@@ -1106,7 +1006,6 @@
         "past": "FORMED",
         "past_participle": "FORMED",
         "present_participle": "FORMING",
-        "meaning_spn": "FORMAR",
         "definition": "To form means to create or shape something, or to come together to make a group or pattern.",
         "type": "REGULAR"
     },
@@ -1117,7 +1016,6 @@
         "past": "FRIED",
         "past_participle": "FRIED",
         "present_participle": "FRYING",
-        "meaning_spn": "FRE\u00cdR",
         "definition": "To fry means to cook food in hot oil or fat.",
         "type": "REGULAR"
     },
@@ -1128,7 +1026,6 @@
         "past": "GATHERED",
         "past_participle": "GATHERED",
         "present_participle": "GATHERING",
-        "meaning_spn": "REUNIRSE",
         "definition": "To gather means to bring together or collect something.",
         "type": "REGULAR"
     },
@@ -1139,7 +1036,6 @@
         "past": "GOVERNED",
         "past_participle": "GOVERNED",
         "present_participle": "GOVERNING",
-        "meaning_spn": "GOBERNAR",
         "definition": "To govern means to exercise authority over a country, state, or organization. It involves making decisions, implementing policies, and overseeing the administration of laws and regulations.",
         "type": "REGULAR"
     },
@@ -1150,7 +1046,6 @@
         "past": "GREETED",
         "past_participle": "GREETED",
         "present_participle": "GREETING",
-        "meaning_spn": "SALUDAR",
         "definition": "To greet means to welcome someone, often with a verbal expression or gesture.",
         "type": "REGULAR"
     },
@@ -1161,7 +1056,6 @@
         "past": "GUARANTEED",
         "past_participle": "GUARANTEED",
         "present_participle": "GUARANTEEING",
-        "meaning_spn": "GARANTIZAR",
         "definition": "To guarantee means to promise or assure something will happen or be a certain way.",
         "type": "REGULAR"
     },
@@ -1172,7 +1066,6 @@
         "past": "HAPPENED",
         "past_participle": "HAPPENED",
         "present_participle": "HAPPENING",
-        "meaning_spn": "SUCEDER",
         "definition": "To happen means to occur or take place, often unexpectedly or without a specific plan.",
         "type": "REGULAR"
     },
@@ -1183,7 +1076,6 @@
         "past": "HATED",
         "past_participle": "HATED",
         "present_participle": "HATING",
-        "meaning_spn": "ODIAR",
         "definition": "To hate means to feel intense dislike or hostility towards someone or something.",
         "type": "REGULAR"
     },
@@ -1194,7 +1086,6 @@
         "past": "HEADED",
         "past_participle": "HEADED",
         "present_participle": "HEADING",
-        "meaning_spn": "DIRIGIR",
         "definition": "To head means to move in a particular direction, to lead or be in charge of something, or to hit something with the head.",
         "type": "REGULAR"
     },
@@ -1205,7 +1096,6 @@
         "past": "HELPED",
         "past_participle": "HELPED",
         "present_participle": "HELPING",
-        "meaning_spn": "AYUDAR",
         "definition": "To help means to assist or support someone.",
         "type": "REGULAR"
     },
@@ -1216,7 +1106,6 @@
         "past": "HESITATED",
         "past_participle": "HESITATED",
         "present_participle": "HESITATING",
-        "meaning_spn": "VACILAR",
         "definition": "To hesitate means to pause or delay in acting or deciding.",
         "type": "REGULAR"
     },
@@ -1227,7 +1116,6 @@
         "past": "HIRED",
         "past_participle": "HIRED",
         "present_participle": "HIRING",
-        "meaning_spn": "CONTRATAR",
         "definition": "To hire means to employ someone or pay someone to do a particular job.",
         "type": "REGULAR"
     },
@@ -1238,7 +1126,6 @@
         "past": "HOPED",
         "past_participle": "HOPED",
         "present_participle": "HOPING",
-        "meaning_spn": "ESPERAR",
         "definition": "To hope means to want something to happen and believe that it is possible.",
         "type": "REGULAR"
     },
@@ -1249,7 +1136,6 @@
         "past": "HURRIED",
         "past_participle": "HURRIED",
         "present_participle": "HURRYING",
-        "meaning_spn": "APRESURAR",
         "definition": "To hurry means to move or act quickly.",
         "type": "REGULAR"
     },
@@ -1260,7 +1146,6 @@
         "past": "IGNORED",
         "past_participle": "IGNORED",
         "present_participle": "IGNORING",
-        "meaning_spn": "IGNORAR",
         "definition": "To ignore means to deliberately pay no attention to something or someone.",
         "type": "REGULAR"
     },
@@ -1271,7 +1156,6 @@
         "past": "IMAGINED",
         "past_participle": "IMAGINED",
         "present_participle": "IMAGINING",
-        "meaning_spn": "IMAGINAR",
         "definition": "To image means to form a mental picture or to create a visual representation.",
         "type": "REGULAR"
     },
@@ -1282,7 +1166,6 @@
         "past": "IMPLORED",
         "past_participle": "IMPLORED",
         "present_participle": "IMPLORING",
-        "meaning_spn": "IMPLORAR",
         "definition": "To implore means to beg earnestly or plead for something.",
         "type": "REGULAR"
     },
@@ -1293,7 +1176,6 @@
         "past": "INCITED",
         "past_participle": "INCITED",
         "present_participle": "INCITING",
-        "meaning_spn": "INCITAR",
         "definition": "To incite means to encourage or stir up someone to do something, often something violent or harmful.",
         "type": "REGULAR"
     },
@@ -1304,7 +1186,6 @@
         "past": "INSISTED",
         "past_participle": "INSISTED",
         "present_participle": "INSISTING",
-        "meaning_spn": "INSISTIR",
         "definition": "To insist means to demand something forcefully or firmly.",
         "type": "REGULAR"
     },
@@ -1315,7 +1196,6 @@
         "past": "INSTRUCTED",
         "past_participle": "INSTRUCTED",
         "present_participle": "INSTRUCTING",
-        "meaning_spn": "INSTRUIR",
         "definition": "To instruct means to teach someone or give them orders or directions.",
         "type": "REGULAR"
     },
@@ -1326,7 +1206,6 @@
         "past": "INTENDED",
         "past_participle": "INTENDED",
         "present_participle": "INTENDING",
-        "meaning_spn": "PRETENDER",
         "definition": "To intend means to plan or have in mind as a purpose or goal.",
         "type": "REGULAR"
     },
@@ -1337,7 +1216,6 @@
         "past": "INTERRUPTED",
         "past_participle": "INTERRUPTED",
         "present_participle": "INTERRUPTING",
-        "meaning_spn": "INTERRUMPIR",
         "definition": "To interrupt means to break into or stop the continuous flow of something, often a conversation or activity.",
         "type": "REGULAR"
     },
@@ -1348,7 +1226,6 @@
         "past": "INTRODUCED",
         "past_participle": "INTRODUCED",
         "present_participle": "INTRODUCING",
-        "meaning_spn": "PRESENTAR",
         "definition": "To introduce means to make someone or something known for the first time.",
         "type": "REGULAR"
     },
@@ -1359,7 +1236,6 @@
         "past": "INVENTED",
         "past_participle": "INVENTED",
         "present_participle": "INVENTING",
-        "meaning_spn": "INVENTAR",
         "definition": "To invent means to create something new or original.",
         "type": "REGULAR"
     },
@@ -1370,7 +1246,6 @@
         "past": "INVITED",
         "past_participle": "INVITED",
         "present_participle": "INVITING",
-        "meaning_spn": "INVITAR",
         "definition": "To invite means to ask someone to come somewhere or do something.",
         "type": "REGULAR"
     },
@@ -1381,7 +1256,6 @@
         "past": "INVOLVED",
         "past_participle": "INVOLVED",
         "present_participle": "INVOLVING",
-        "meaning_spn": "INVOLUCRAR",
         "definition": "To involve means to include or affect someone or something.",
         "type": "REGULAR"
     },
@@ -1392,7 +1266,6 @@
         "past": "JOGGED",
         "past_participle": "JOGGED",
         "present_participle": "JOGGING",
-        "meaning_spn": "TROTAR",
         "definition": "To run slowly, especially as a form of exercise.",
         "type": "REGULAR"
     },
@@ -1403,7 +1276,6 @@
         "past": "JUMPED",
         "past_participle": "JUMPED",
         "present_participle": "JUMPING",
-        "meaning_spn": "SALTAR",
         "definition": "To push oneself off the ground with the legs and feet to move upwards or forwards.",
         "type": "REGULAR"
     },
@@ -1414,7 +1286,6 @@
         "past": "KILLED",
         "past_participle": "KILLED",
         "present_participle": "KILLING",
-        "meaning_spn": "MATAR",
         "definition": "To cause the death of (a person or animal).",
         "type": "REGULAR"
     },
@@ -1425,7 +1296,6 @@
         "past": "KISSED",
         "past_participle": "KISSED",
         "present_participle": "KISSING",
-        "meaning_spn": "BESAR",
         "definition": "To touch with the lips as a sign of love, affection, or greeting.",
         "type": "REGULAR"
     },
@@ -1436,7 +1306,6 @@
         "past": "KNOCKED",
         "past_participle": "KNOCKED",
         "present_participle": "KNOCKING",
-        "meaning_spn": "TOCAR ( puerta)",
         "definition": "To strike something, especially a door, with one's knuckles or a knocker.",
         "type": "REGULAR"
     },
@@ -1447,7 +1316,6 @@
         "past": "LASTED",
         "past_participle": "LASTED",
         "present_participle": "LASTING",
-        "meaning_spn": "DURAR",
         "definition": "To continue to exist or occur for a specified period of time.",
         "type": "REGULAR"
     },
@@ -1458,7 +1326,6 @@
         "past": "LAUGHED",
         "past_participle": "LAUGHED",
         "present_participle": "LAUGHING",
-        "meaning_spn": "RE\u00cdR",
         "definition": "To express amusement, pleasure, or relief, typically by making vocal sounds and movements of the face.",
         "type": "REGULAR"
     },
@@ -1469,7 +1336,6 @@
         "past": "LEADED",
         "past_participle": "LEADED",
         "present_participle": "LEADING",
-        "meaning_spn": "GUIAR",
         "definition": "To guide or direct someone or something.",
         "type": "REGULAR"
     },
@@ -1480,7 +1346,6 @@
         "past": "LIED",
         "past_participle": "LIED",
         "present_participle": "LYING",
-        "meaning_spn": "MENTIR",
         "definition": "To say something that is not true.",
         "type": "REGULAR"
     },
@@ -1491,7 +1356,6 @@
         "past": "LIFTED",
         "past_participle": "LIFTED",
         "present_participle": "LIFTING",
-        "meaning_spn": "LEVANTAR",
         "definition": "To raise something to a higher position.",
         "type": "REGULAR"
     },
@@ -1502,7 +1366,6 @@
         "past": "LIKED",
         "past_participle": "LIKED",
         "present_participle": "LIKING",
-        "meaning_spn": "GUSTAR",
         "definition": "To find something pleasing or enjoyable.",
         "type": "REGULAR"
     },
@@ -1513,7 +1376,6 @@
         "past": "LISTENED",
         "past_participle": "LISTENED",
         "present_participle": "LISTENING",
-        "meaning_spn": "ESCUCHAR",
         "definition": "To pay attention to sounds, especially speech or music.",
         "type": "REGULAR"
     },
@@ -1524,7 +1386,6 @@
         "past": "LIVED",
         "past_participle": "LIVED",
         "present_participle": "LIVING",
-        "meaning_spn": "VIVIR",
         "definition": "To exist or be alive.",
         "type": "REGULAR"
     },
@@ -1535,7 +1396,6 @@
         "past": "LOOKED",
         "past_participle": "LOOKED",
         "present_participle": "LOOKING",
-        "meaning_spn": "MIRAR",
         "definition": "To direct one's eyes towards something.",
         "type": "REGULAR"
     },
@@ -1546,7 +1406,6 @@
         "past": "LOOSED",
         "past_participle": "LOOSED",
         "present_participle": "LOOSING",
-        "meaning_spn": "SOLTAR",
         "definition": "To fail to keep or find something.",
         "type": "REGULAR"
     },
@@ -1557,7 +1416,6 @@
         "past": "LOVED",
         "past_participle": "LOVED",
         "present_participle": "LOVING",
-        "meaning_spn": "AMAR",
         "definition": "To feel a deep affection for someone or something.",
         "type": "REGULAR"
     },
@@ -1568,7 +1426,6 @@
         "past": "MAILED",
         "past_participle": "MAILED",
         "present_participle": "MAILING",
-        "meaning_spn": "ECHAR",
         "definition": "To send something by post.",
         "type": "REGULAR"
     },
@@ -1579,7 +1436,6 @@
         "past": "MARRIED",
         "past_participle": "MARRIED",
         "present_participle": "MARRYING",
-        "meaning_spn": "CASARSE",
         "definition": "To legally unite with another person in marriage.",
         "type": "REGULAR"
     },
@@ -1590,7 +1446,6 @@
         "past": "MATCHED",
         "past_participle": "MATCHED",
         "present_participle": "MATCHING",
-        "meaning_spn": "COMPETIR",
         "definition": "To be similar to or compatible with something else.",
         "type": "REGULAR"
     },
@@ -1601,7 +1456,6 @@
         "past": "MATTERED",
         "past_participle": "MATTERED",
         "present_participle": "MATTERING",
-        "meaning_spn": "IMPORTAR",
         "definition": "To be important or significant.",
         "type": "REGULAR"
     },
@@ -1612,7 +1466,6 @@
         "past": "MEASURED",
         "past_participle": "MEASURED",
         "present_participle": "MEASURING",
-        "meaning_spn": "MEDIR",
         "definition": "To determine the size, amount, or degree of something.",
         "type": "REGULAR"
     },
@@ -1623,7 +1476,6 @@
         "past": "MENTIONED",
         "past_participle": "MENTIONED",
         "present_participle": "MENTIONING",
-        "meaning_spn": "MENCIONAR",
         "definition": "To speak of or refer to something briefly or casually.",
         "type": "REGULAR"
     },
@@ -1634,7 +1486,6 @@
         "past": "MINDED",
         "past_participle": "MINDED",
         "present_participle": "MINDING",
-        "meaning_spn": "IMPORTAR",
         "definition": "To care about something or someone.",
         "type": "REGULAR"
     },
@@ -1645,7 +1496,6 @@
         "past": "MISSED",
         "past_participle": "MISSED",
         "present_participle": "MISSING",
-        "meaning_spn": "EXTRA\u00d1AR",
         "definition": "To fail to hit, reach, or catch something.",
         "type": "REGULAR"
     },
@@ -1656,7 +1506,6 @@
         "past": "MOVED",
         "past_participle": "MOVED",
         "present_participle": "MOVING",
-        "meaning_spn": "MOVERSE",
         "definition": "To change position or location.",
         "type": "REGULAR"
     },
@@ -1667,7 +1516,6 @@
         "past": "NEEDED",
         "past_participle": "NEEDED",
         "present_participle": "NEEDING",
-        "meaning_spn": "NECESITAR",
         "definition": "To require something.",
         "type": "REGULAR"
     },
@@ -1678,7 +1526,6 @@
         "past": "NEGLECTED",
         "past_participle": "NEGLECTED",
         "present_participle": "NEGLECTING",
-        "meaning_spn": "DESCUIDAR",
         "definition": "To fail to give proper attention or care to something or someone.",
         "type": "REGULAR"
     },
@@ -1689,7 +1536,6 @@
         "past": "OBEYED",
         "past_participle": "OBEYED",
         "present_participle": "OBEYING",
-        "meaning_spn": "OBEDECER",
         "definition": "To comply with a command, order, or law.",
         "type": "REGULAR"
     },
@@ -1700,7 +1546,6 @@
         "past": "OBSERVED",
         "past_participle": "OBSERVED",
         "present_participle": "OBSERVING",
-        "meaning_spn": "OBSERVAR",
         "definition": "To watch carefully, or to notice something.",
         "type": "REGULAR"
     },
@@ -1711,7 +1556,6 @@
         "past": "OFFERED",
         "past_participle": "OFFERED",
         "present_participle": "OFFERING",
-        "meaning_spn": "OFRECER",
         "definition": "To present something for acceptance or consideration.",
         "type": "REGULAR"
     },
@@ -1722,7 +1566,6 @@
         "past": "OMITTED",
         "past_participle": "OMITTED",
         "present_participle": "OMITTING",
-        "meaning_spn": "OMITIR",
         "definition": "To leave out or exclude something.",
         "type": "REGULAR"
     },
@@ -1733,7 +1576,6 @@
         "past": "OPENED",
         "past_participle": "OPENED",
         "present_participle": "OPENING",
-        "meaning_spn": "ABRIR",
         "definition": "To make something accessible or visible.",
         "type": "REGULAR"
     },
@@ -1744,7 +1586,6 @@
         "past": "ORDERED",
         "past_participle": "ORDERED",
         "present_participle": "ORDERING",
-        "meaning_spn": "ORDENAR",
         "definition": "To command or instruct someone to do something.",
         "type": "REGULAR"
     },
@@ -1755,7 +1596,6 @@
         "past": "ORGANIZED",
         "past_participle": "ORGANIZED",
         "present_participle": "ORGANIZING",
-        "meaning_spn": "ORGANIZAR",
         "definition": "To arrange things in a systematic way.",
         "type": "REGULAR"
     },
@@ -1766,7 +1606,6 @@
         "past": "OUTLINED",
         "past_participle": "OUTLINED",
         "present_participle": "OUTLINING",
-        "meaning_spn": "DELINEAR",
         "definition": "To give a brief summary or general plan.",
         "type": "REGULAR"
     },
@@ -1777,7 +1616,6 @@
         "past": "OWNED",
         "past_participle": "OWNED",
         "present_participle": "OWNING",
-        "meaning_spn": "POSEER",
         "definition": "To have something as one's property.",
         "type": "REGULAR"
     },
@@ -1788,7 +1626,6 @@
         "past": "PAINTED",
         "past_participle": "PAINTED",
         "present_participle": "PAINTING",
-        "meaning_spn": "PINTAR",
         "definition": "To apply paint to a surface.",
         "type": "REGULAR"
     },
@@ -1799,7 +1636,6 @@
         "past": "PARDONED",
         "past_participle": "PARDONED",
         "present_participle": "PARDONING",
-        "meaning_spn": "PERDONAR",
         "definition": "To forgive someone for a wrong.",
         "type": "REGULAR"
     },
@@ -1810,7 +1646,6 @@
         "past": "PARKED",
         "past_participle": "PARKED",
         "present_participle": "PARKING",
-        "meaning_spn": "ESTACIONAR",
         "definition": "To leave a vehicle in a designated area.",
         "type": "REGULAR"
     },
@@ -1821,7 +1656,6 @@
         "past": "PASSED",
         "past_participle": "PASSED",
         "present_participle": "PASSING",
-        "meaning_spn": "PASAR",
         "definition": "To move past something or someone.",
         "type": "REGULAR"
     },
@@ -1832,7 +1666,6 @@
         "past": "PERMITTED",
         "past_participle": "PERMITTED",
         "present_participle": "PERMITTING",
-        "meaning_spn": "PERMITIR",
         "definition": "To allow something to happen.",
         "type": "REGULAR"
     },
@@ -1843,7 +1676,6 @@
         "past": "PHONED",
         "past_participle": "PHONED",
         "present_participle": "PHONING",
-        "meaning_spn": "LLAMAR ( TELF)",
         "definition": "To call someone by telephone.",
         "type": "REGULAR"
     },
@@ -1854,7 +1686,6 @@
         "past": "PLACED",
         "past_participle": "PLACED",
         "present_participle": "PLACING",
-        "meaning_spn": "COLOCAR",
         "definition": "To put something in a particular position.",
         "type": "REGULAR"
     },
@@ -1865,7 +1696,6 @@
         "past": "PLANNED",
         "past_participle": "PLANNED",
         "present_participle": "PLANNING",
-        "meaning_spn": "PLANEAR",
         "definition": "To make a detailed arrangement for future action.",
         "type": "REGULAR"
     },
@@ -1876,7 +1706,6 @@
         "past": "PLANTED",
         "past_participle": "PLANTED",
         "present_participle": "PLANTING",
-        "meaning_spn": "PLANTAR",
         "definition": "To put a seed or plant in the ground to grow.",
         "type": "REGULAR"
     },
@@ -1887,7 +1716,6 @@
         "past": "PLAYED",
         "past_participle": "PLAYED",
         "present_participle": "PLAYING",
-        "meaning_spn": "JUGAR",
         "definition": "To play means to engage in an activity for amusement or recreation.",
         "type": "REGULAR"
     },
@@ -1898,7 +1726,6 @@
         "past": "PLEASED",
         "past_participle": "PLEASED",
         "present_participle": "PLEASING",
-        "meaning_spn": "AGRADAR",
         "definition": "To make someone happy or satisfied.",
         "type": "REGULAR"
     },
@@ -1909,7 +1736,6 @@
         "past": "POINTED",
         "past_participle": "POINTED",
         "present_participle": "POINTING",
-        "meaning_spn": "SE\u00d1ALAR",
         "definition": "To indicate a direction with a finger or other object.",
         "type": "REGULAR"
     },
@@ -1920,7 +1746,6 @@
         "past": "POSTED",
         "past_participle": "POSTED",
         "present_participle": "POSTING",
-        "meaning_spn": "FIJAR",
         "definition": "To publish or display something, often online or on a notice board.",
         "type": "REGULAR"
     },
@@ -1931,7 +1756,6 @@
         "past": "POSTPONED",
         "past_participle": "POSTPONED",
         "present_participle": "POSTPONING",
-        "meaning_spn": "POSPONER",
         "definition": "To delay or defer something to a later time.",
         "type": "REGULAR"
     },
@@ -1942,7 +1766,6 @@
         "past": "PRACTICED",
         "past_participle": "PRACTICED",
         "present_participle": "PRACTICING",
-        "meaning_spn": "PRACTICAR",
         "definition": "To do something repeatedly to improve one's skill or ability.",
         "type": "REGULAR"
     },
@@ -1953,7 +1776,6 @@
         "past": "PRAYED",
         "past_participle": "PRAYED",
         "present_participle": "PRAYING",
-        "meaning_spn": "REZAR",
         "definition": "To talk to a god or gods, often as a request or expression of thanks.",
         "type": "REGULAR"
     },
@@ -1964,7 +1786,6 @@
         "past": "PREFERRED",
         "past_participle": "PREFERRED",
         "present_participle": "PREFERRING",
-        "meaning_spn": "PREFERIR",
         "definition": "To like one thing more than another.",
         "type": "REGULAR"
     },
@@ -1975,7 +1796,6 @@
         "past": "PREPARED",
         "past_participle": "PREPARED",
         "present_participle": "PREPARING",
-        "meaning_spn": "PREPARAR",
         "definition": "To make ready for a particular purpose.",
         "type": "REGULAR"
     },
@@ -1986,7 +1806,6 @@
         "past": "PRETENDED",
         "past_participle": "PRETENDED",
         "present_participle": "PRETENDING",
-        "meaning_spn": "PRETENDER",
         "definition": "To behave as if something is true when it is not.",
         "type": "REGULAR"
     },
@@ -1997,7 +1816,6 @@
         "past": "PREVENTED",
         "past_participle": "PREVENTED",
         "present_participle": "PREVENTING",
-        "meaning_spn": "PREVENIR",
         "definition": "To stop something from happening.",
         "type": "REGULAR"
     },
@@ -2008,7 +1826,6 @@
         "past": "PROMISED",
         "past_participle": "PROMISED",
         "present_participle": "PROMISING",
-        "meaning_spn": "PROMETER",
         "definition": "To say that one will definitely do something.",
         "type": "REGULAR"
     },
@@ -2019,7 +1836,6 @@
         "past": "PROPOSED",
         "past_participle": "PROPOSED",
         "present_participle": "PROPOSING",
-        "meaning_spn": "PROPONER",
         "definition": "To suggest a plan or idea.",
         "type": "REGULAR"
     },
@@ -2030,7 +1846,6 @@
         "past": "PUBLISHED",
         "past_participle": "PUBLISHED",
         "present_participle": "PUBLISHING",
-        "meaning_spn": "PUBLICAR",
         "definition": "To make something known publicly, especially in printed form.",
         "type": "REGULAR"
     },
@@ -2041,7 +1856,6 @@
         "past": "PULLED",
         "past_participle": "PULLED",
         "present_participle": "PULLING",
-        "meaning_spn": "HALAR",
         "definition": "To exert force to draw something towards oneself.",
         "type": "REGULAR"
     },
@@ -2052,7 +1866,6 @@
         "past": "PUNISHED",
         "past_participle": "PUNISHED",
         "present_participle": "PUNISHING",
-        "meaning_spn": "CASTIGAR",
         "definition": "To inflict a penalty on someone for a wrongdoing.",
         "type": "REGULAR"
     },
@@ -2063,7 +1876,6 @@
         "past": "PUSHED",
         "past_participle": "PUSHED",
         "present_participle": "PUSHING",
-        "meaning_spn": "EMPUJAR",
         "definition": "To exert force to move something away from oneself.",
         "type": "REGULAR"
     },
@@ -2074,7 +1886,6 @@
         "past": "QUARRELED",
         "past_participle": "QUARRELED",
         "present_participle": "QUARRELING",
-        "meaning_spn": "RE\u00d1IR",
         "definition": "To argue or fight angrily.",
         "type": "REGULAR"
     },
@@ -2085,7 +1896,6 @@
         "past": "RAINED",
         "past_participle": "RAINED",
         "present_participle": "RAINING",
-        "meaning_spn": "LLOVER",
         "definition": "To fall from the sky in the form of water droplets.",
         "type": "REGULAR"
     },
@@ -2096,7 +1906,6 @@
         "past": "REACHED",
         "past_participle": "REACHED",
         "present_participle": "REACHING",
-        "meaning_spn": "LLEGAR A",
         "definition": "To arrive at a destination or goal.",
         "type": "REGULAR"
     },
@@ -2107,7 +1916,6 @@
         "past": "RECALLED",
         "past_participle": "RECALLED",
         "present_participle": "RECALLING",
-        "meaning_spn": "RECORDAR",
         "definition": "To bring (something) back to mind",
         "type": "REGULAR"
     },
@@ -2118,7 +1926,6 @@
         "past": "RECEIVED",
         "past_participle": "RECEIVED",
         "present_participle": "RECEIVING",
-        "meaning_spn": "RECIBIR",
         "definition": "To get or acquire something",
         "type": "REGULAR"
     },
@@ -2129,7 +1936,6 @@
         "past": "RECOLLECTED",
         "past_participle": "RECOLLECTED",
         "present_participle": "RECOLLECTING",
-        "meaning_spn": "RECOGER",
         "definition": "To remember something.",
         "type": "REGULAR"
     },
@@ -2140,7 +1946,6 @@
         "past": "RECOMMENDED",
         "past_participle": "RECOMMENDED",
         "present_participle": "RECOMMENDING",
-        "meaning_spn": "RECOMENDAR",
         "definition": "To suggest (someone or something) with approval as suitable for a particular purpose or role.",
         "type": "REGULAR"
     },
@@ -2151,7 +1956,6 @@
         "past": "RECORDED",
         "past_participle": "RECORDED",
         "present_participle": "RECORDING",
-        "meaning_spn": "GRABAR",
         "definition": "To set down in writing or other permanent form.",
         "type": "REGULAR"
     },
@@ -2162,7 +1966,6 @@
         "past": "REFUSED",
         "past_participle": "REFUSED",
         "present_participle": "REFUSING",
-        "meaning_spn": "RECHAZAR",
         "definition": "To decline to accept or agree to something.",
         "type": "REGULAR"
     },
@@ -2173,7 +1976,6 @@
         "past": "REGRETTED",
         "past_participle": "REGRETTED",
         "present_participle": "REGRETTING",
-        "meaning_spn": "LAMENTAR",
         "definition": "To feel sorry about something that has happened or been done or left undone.",
         "type": "REGULAR"
     },
@@ -2184,7 +1986,6 @@
         "past": "REJECTED",
         "past_participle": "REJECTED",
         "present_participle": "REJECTING",
-        "meaning_spn": "RECHAZAR",
         "definition": "To refuse to accept.",
         "type": "REGULAR"
     },
@@ -2195,7 +1996,6 @@
         "past": "REMAINED",
         "past_participle": "REMAINED",
         "present_participle": "REMAINING",
-        "meaning_spn": "PERMANECER",
         "definition": "To continue to exist, stay, or stay in a place.",
         "type": "REGULAR"
     },
@@ -2206,7 +2006,6 @@
         "past": "REMEMBERED",
         "past_participle": "REMEMBERED",
         "present_participle": "REMEMBERING",
-        "meaning_spn": "RECORDAR",
         "definition": "To keep (something) in mind.",
         "type": "REGULAR"
     },
@@ -2217,7 +2016,6 @@
         "past": "REMINDED",
         "past_participle": "REMINDED",
         "present_participle": "REMINDING",
-        "meaning_spn": "RECORDAR",
         "definition": "To cause someone to remember something.",
         "type": "REGULAR"
     },
@@ -2228,7 +2026,6 @@
         "past": "REMOVED",
         "past_participle": "REMOVED",
         "present_participle": "REMOVING",
-        "meaning_spn": "REMOVER",
         "definition": "To take something away.",
         "type": "REGULAR"
     },
@@ -2239,7 +2036,6 @@
         "past": "REPEATED",
         "past_participle": "REPEATED",
         "present_participle": "REPEATING",
-        "meaning_spn": "REPETIR",
         "definition": "To say or do something again.",
         "type": "REGULAR"
     },
@@ -2250,7 +2046,6 @@
         "past": "RESENTED",
         "past_participle": "RESENTED",
         "present_participle": "RESENTING",
-        "meaning_spn": "NOTAR",
         "definition": "To feel bitter or annoyed about something.",
         "type": "REGULAR"
     },
@@ -2261,7 +2056,6 @@
         "past": "RESISTED",
         "past_participle": "RESISTED",
         "present_participle": "RESISTING",
-        "meaning_spn": "RESISTIR",
         "definition": "To oppose or fight against something.",
         "type": "REGULAR"
     },
@@ -2272,7 +2066,6 @@
         "past": "RESOLVED",
         "past_participle": "RESOLVED",
         "present_participle": "RESOLVING",
-        "meaning_spn": "DECIDIR",
         "definition": "To find a solution to a problem.",
         "type": "REGULAR"
     },
@@ -2283,7 +2076,6 @@
         "past": "RESPONDED",
         "past_participle": "RESPONDED",
         "present_participle": "RESPONDING",
-        "meaning_spn": "RESPONDER",
         "definition": "To react to something.",
         "type": "REGULAR"
     },
@@ -2294,7 +2086,6 @@
         "past": "RESTED",
         "past_participle": "RESTED",
         "present_participle": "RESTING",
-        "meaning_spn": "DESCANSAR",
         "definition": "To relax or cease activity.",
         "type": "REGULAR"
     },
@@ -2305,7 +2096,6 @@
         "past": "RESUMED",
         "past_participle": "RESUMED",
         "present_participle": "RESUMING",
-        "meaning_spn": "REASUMIR",
         "definition": "To begin again after a pause or interruption.",
         "type": "REGULAR"
     },
@@ -2316,7 +2106,6 @@
         "past": "RETURNED",
         "past_participle": "RETURNED",
         "present_participle": "RETURNING",
-        "meaning_spn": "REGRESAR",
         "definition": "To go back to a previous place or condition.",
         "type": "REGULAR"
     },
@@ -2327,7 +2116,6 @@
         "past": "RISKED",
         "past_participle": "RISKED",
         "present_participle": "RISKING",
-        "meaning_spn": "ARRIESGARSE",
         "definition": "To expose oneself to danger or harm.",
         "type": "REGULAR"
     },
@@ -2338,7 +2126,6 @@
         "past": "RULED",
         "past_participle": "RULED",
         "present_participle": "RULING",
-        "meaning_spn": "REGIR",
         "definition": "To govern or control a country, organization, or people.",
         "type": "REGULAR"
     },
@@ -2349,7 +2136,6 @@
         "past": "SAILED",
         "past_participle": "SAILED",
         "present_participle": "SAILING",
-        "meaning_spn": "NAVEGAR",
         "definition": "To travel by boat or ship.",
         "type": "REGULAR"
     },
@@ -2360,7 +2146,6 @@
         "past": "SATISFIED",
         "past_participle": "SATISFIED",
         "present_participle": "SATISFYING",
-        "meaning_spn": "SATISFACER",
         "definition": "To fulfill a need or desire.",
         "type": "REGULAR"
     },
@@ -2371,7 +2156,6 @@
         "past": "SAVED",
         "past_participle": "SAVED",
         "present_participle": "SAVING",
-        "meaning_spn": "SALVAR",
         "definition": "To rescue or preserve from danger or harm.",
         "type": "REGULAR"
     },
@@ -2382,7 +2166,6 @@
         "past": "SCOLDED",
         "past_participle": "SCOLDED",
         "present_participle": "SCOLDING",
-        "meaning_spn": "REGA\u00d1AR",
         "definition": "To criticize someone angrily.",
         "type": "REGULAR"
     },
@@ -2393,7 +2176,6 @@
         "past": "SEEMED",
         "past_participle": "SEEMED",
         "present_participle": "SEEMING",
-        "meaning_spn": "PARECER",
         "definition": "To appear to be a certain way.",
         "type": "REGULAR"
     },
@@ -2404,7 +2186,6 @@
         "past": "SELECTED",
         "past_participle": "SELECTED",
         "present_participle": "SELECTING",
-        "meaning_spn": "SELECCIONAR",
         "definition": "To choose something from a group.",
         "type": "REGULAR"
     },
@@ -2415,7 +2196,6 @@
         "past": "SERVED",
         "past_participle": "SERVED",
         "present_participle": "SERVING",
-        "meaning_spn": "SERVIR",
         "definition": "To provide a service or food.",
         "type": "REGULAR"
     },
@@ -2426,7 +2206,6 @@
         "past": "SHARED",
         "past_participle": "SHARED",
         "present_participle": "SHARING",
-        "meaning_spn": "REPARTIR",
         "definition": "To divide something between people.",
         "type": "REGULAR"
     },
@@ -2437,7 +2216,6 @@
         "past": "SHAVED",
         "past_participle": "SHAVED",
         "present_participle": "SHAVING",
-        "meaning_spn": "AFEITARSE",
         "definition": "To remove hair, especially from the face.",
         "type": "REGULAR"
     },
@@ -2448,7 +2226,6 @@
         "past": "SHOWED",
         "past_participle": "SHOWED",
         "present_participle": "SHOWING",
-        "meaning_spn": "MOSTRAR",
         "definition": "To reveal or display something.",
         "type": "REGULAR"
     },
@@ -2459,7 +2236,6 @@
         "past": "SIGNED",
         "past_participle": "SIGNED",
         "present_participle": "SIGNING",
-        "meaning_spn": "FIRMAR",
         "definition": "To write one's name or a message.",
         "type": "REGULAR"
     },
@@ -2470,7 +2246,6 @@
         "past": "SMILED",
         "past_participle": "SMILED",
         "present_participle": "SMILING",
-        "meaning_spn": "SONRE\u00cdR",
         "definition": "To express pleasure or amusement.",
         "type": "REGULAR"
     },
@@ -2481,7 +2256,6 @@
         "past": "SMOKED",
         "past_participle": "SMOKED",
         "present_participle": "SMOKING",
-        "meaning_spn": "FUMAR",
         "definition": "To inhale and exhale the smoke of tobacco or other substances.",
         "type": "REGULAR"
     },
@@ -2492,7 +2266,6 @@
         "past": "SNOWED",
         "past_participle": "SNOWED",
         "present_participle": "SNOWING",
-        "meaning_spn": "NEVAR",
         "definition": "To fall as snow.",
         "type": "REGULAR"
     },
@@ -2503,7 +2276,6 @@
         "past": "SOLVED",
         "past_participle": "SOLVED",
         "present_participle": "SOLVING",
-        "meaning_spn": "RESOLVER",
         "definition": "To find a solution to a problem.",
         "type": "REGULAR"
     },
@@ -2514,7 +2286,6 @@
         "past": "SPELLED",
         "past_participle": "SPELLED",
         "present_participle": "SPELLING",
-        "meaning_spn": "DELETREAR",
         "definition": "To name the letters of a word.",
         "type": "REGULAR"
     },
@@ -2525,7 +2296,6 @@
         "past": "STARTED",
         "past_participle": "STARTED",
         "present_participle": "STARTING",
-        "meaning_spn": "COMENZAR",
         "definition": "To begin or commence something.",
         "type": "REGULAR"
     },
@@ -2536,7 +2306,6 @@
         "past": "STAYED",
         "past_participle": "STAYED",
         "present_participle": "STAYING",
-        "meaning_spn": "PERMANECER",
         "definition": "To remain in a place or condition.",
         "type": "REGULAR"
     },
@@ -2547,7 +2316,6 @@
         "past": "STOPPED",
         "past_participle": "STOPPED",
         "present_participle": "STOPPING",
-        "meaning_spn": "DETENER",
         "definition": "To cease or discontinue an action.",
         "type": "REGULAR"
     },
@@ -2558,7 +2326,6 @@
         "past": "STRUGGLED",
         "past_participle": "STRUGGLED",
         "present_participle": "STRUGGLING",
-        "meaning_spn": "ESFORZARSE",
         "definition": "To make great efforts to achieve something.",
         "type": "REGULAR"
     },
@@ -2569,7 +2336,6 @@
         "past": "STUDIED",
         "past_participle": "STUDIED",
         "present_participle": "STUDYING",
-        "meaning_spn": "ESTUDIAR",
         "definition": "To apply the mind to learning.",
         "type": "REGULAR"
     },
@@ -2580,7 +2346,6 @@
         "past": "SUGGESTED",
         "past_participle": "SUGGESTED",
         "present_participle": "SUGGESTING",
-        "meaning_spn": "SUGERIR",
         "definition": "To propose an idea or plan.",
         "type": "REGULAR"
     },
@@ -2591,7 +2356,6 @@
         "past": "SUPPOSED",
         "past_participle": "SUPPOSED",
         "present_participle": "SUPPOSING",
-        "meaning_spn": "SUPONER",
         "definition": "To believe something to be true, without definite proof.",
         "type": "REGULAR"
     },
@@ -2602,7 +2366,6 @@
         "past": "SURPRISED",
         "past_participle": "SURPRISED",
         "present_participle": "SURPRISING",
-        "meaning_spn": "SORPRENDER",
         "definition": "To astonish or amaze someone.",
         "type": "REGULAR"
     },
@@ -2613,7 +2376,6 @@
         "past": "TALKED",
         "past_participle": "TALKED",
         "present_participle": "TALKING",
-        "meaning_spn": "CONVERSAR",
         "definition": "To communicate orally; to speak.",
         "type": "REGULAR"
     },
@@ -2624,7 +2386,6 @@
         "past": "TASTED",
         "past_participle": "TASTED",
         "present_participle": "TASTING",
-        "meaning_spn": "PROBAR",
         "definition": "To perceive the flavor of something by putting it in the mouth.",
         "type": "REGULAR"
     },
@@ -2635,7 +2396,6 @@
         "past": "TELEPHONED",
         "past_participle": "TELEPHONED",
         "present_participle": "TELEPHONING",
-        "meaning_spn": "TELEFONEAR",
         "definition": "To communicate with someone by telephone.",
         "type": "REGULAR"
     },
@@ -2646,7 +2406,6 @@
         "past": "TENDED",
         "past_participle": "TENDED",
         "present_participle": "TENDING",
-        "meaning_spn": "SERVIR",
         "definition": "To care for or look after something or someone.",
         "type": "REGULAR"
     },
@@ -2657,7 +2416,6 @@
         "past": "THANKED",
         "past_participle": "THANKED",
         "present_participle": "THANKING",
-        "meaning_spn": "AGRADECER",
         "definition": "To express gratitude to someone.",
         "type": "REGULAR"
     },
@@ -2668,7 +2426,6 @@
         "past": "TOLERATED",
         "past_participle": "TOLERATED",
         "present_participle": "TOLERATING",
-        "meaning_spn": "TOLERAR",
         "definition": "To accept or endure something, especially something unpleasant.",
         "type": "REGULAR"
     },
@@ -2679,7 +2436,6 @@
         "past": "TOUCHED",
         "past_participle": "TOUCHED",
         "present_participle": "TOUCHING",
-        "meaning_spn": "TOCAR",
         "definition": "To come into contact with something or someone.",
         "type": "REGULAR"
     },
@@ -2690,7 +2446,6 @@
         "past": "TRANSLATED",
         "past_participle": "TRANSLATED",
         "present_participle": "TRANSLATING",
-        "meaning_spn": "TRADUCIR",
         "definition": "To convert words or text from one language to another.",
         "type": "REGULAR"
     },
@@ -2701,7 +2456,6 @@
         "past": "TRAVELLED",
         "past_participle": "TRAVELLED",
         "present_participle": "TRAVELLING",
-        "meaning_spn": "VIAJAR",
         "definition": "To journey from one place to another.",
         "type": "REGULAR"
     },
@@ -2712,7 +2466,6 @@
         "past": "TREATED",
         "past_participle": "TREATED",
         "present_participle": "TREATING",
-        "meaning_spn": "TRATAR PERS",
         "definition": "To behave towards someone in a particular way, or to give medical care.",
         "type": "REGULAR"
     },
@@ -2723,7 +2476,6 @@
         "past": "TREMBLED",
         "past_participle": "TREMBLED",
         "present_participle": "TREMBLING",
-        "meaning_spn": "TEMBLAR",
         "definition": "To shake involuntarily, often due to fear, cold, or excitement.",
         "type": "REGULAR"
     },
@@ -2734,7 +2486,6 @@
         "past": "TRIED",
         "past_participle": "TRIED",
         "present_participle": "TRYING",
-        "meaning_spn": "TRATAR",
         "definition": "To attempt to do something, or to test something.",
         "type": "REGULAR"
     },
@@ -2745,7 +2496,6 @@
         "past": "TURNED",
         "past_participle": "TURNED",
         "present_participle": "TURNING",
-        "meaning_spn": "GIRAR",
         "definition": "To move around an axis or to change direction.",
         "type": "REGULAR"
     },
@@ -2756,7 +2506,6 @@
         "past": "UNDERLINED",
         "past_participle": "UNDERLINED",
         "present_participle": "UNDERLINING",
-        "meaning_spn": "SUBRAYAR",
         "definition": "To draw a line under words or phrases to emphasize them.",
         "type": "REGULAR"
     },
@@ -2767,7 +2516,6 @@
         "past": "USED",
         "past_participle": "USED",
         "present_participle": "USING",
-        "meaning_spn": "USAR",
         "definition": "To employ something for a particular purpose.",
         "type": "REGULAR"
     },
@@ -2778,7 +2526,6 @@
         "past": "VISITED",
         "past_participle": "VISITED",
         "present_participle": "VISITING",
-        "meaning_spn": "VISITAR",
         "definition": "To go to a place to see someone or something.",
         "type": "REGULAR"
     },
@@ -2789,7 +2536,6 @@
         "past": "VOTED",
         "past_participle": "VOTED",
         "present_participle": "VOTING",
-        "meaning_spn": "VOTAR",
         "definition": "To cast a vote in an election or make a choice.",
         "type": "REGULAR"
     },
@@ -2800,7 +2546,6 @@
         "past": "WAITED",
         "past_participle": "WAITED",
         "present_participle": "WAITING",
-        "meaning_spn": "ESPERAR",
         "definition": "To stay in a place or delay an action until a particular time or event.",
         "type": "REGULAR"
     },
@@ -2811,7 +2556,6 @@
         "past": "WALKED",
         "past_participle": "WALKED",
         "present_participle": "WALKING",
-        "meaning_spn": "CAMINAR",
         "definition": "To move on foot.",
         "type": "REGULAR"
     },
@@ -2822,7 +2566,6 @@
         "past": "WANTED",
         "past_participle": "WANTED",
         "present_participle": "WANTING",
-        "meaning_spn": "QUERER",
         "definition": "To desire or long for something.",
         "type": "REGULAR"
     },
@@ -2833,7 +2576,6 @@
         "past": "WASHED",
         "past_participle": "WASHED",
         "present_participle": "WASHING",
-        "meaning_spn": "LAVAR",
         "definition": "To clean something with water and often soap.",
         "type": "REGULAR"
     },
@@ -2844,7 +2586,6 @@
         "past": "WASTED",
         "past_participle": "WASTED",
         "present_participle": "WASTING",
-        "meaning_spn": "GASTAR",
         "definition": "To use something carelessly or without purpose.",
         "type": "REGULAR"
     },
@@ -2855,7 +2596,6 @@
         "past": "WATCHED",
         "past_participle": "WATCHED",
         "present_participle": "WATCHING",
-        "meaning_spn": "OBSERVAR",
         "definition": "To look at something attentively.",
         "type": "REGULAR"
     },
@@ -2866,7 +2606,6 @@
         "past": "WEIGHED",
         "past_participle": "WEIGHED",
         "present_participle": "WEIGHING",
-        "meaning_spn": "PESAR",
         "definition": "To measure the heaviness of something.",
         "type": "REGULAR"
     },
@@ -2877,7 +2616,6 @@
         "past": "WELCOMED",
         "past_participle": "WELCOMED",
         "present_participle": "WELCOMING",
-        "meaning_spn": "DAR BIENVENIDA",
         "definition": "To greet someone in a friendly way.",
         "type": "REGULAR"
     },
@@ -2888,7 +2626,6 @@
         "past": "WISHED",
         "past_participle": "WISHED",
         "present_participle": "WISHING",
-        "meaning_spn": "DESEAR",
         "definition": "To express a desire or hope.",
         "type": "REGULAR"
     },
@@ -2899,7 +2636,6 @@
         "past": "WONDERED",
         "past_participle": "WONDERED",
         "present_participle": "WONDERING",
-        "meaning_spn": "ASOMBRARSE",
         "definition": "To think about something curiously.",
         "type": "REGULAR"
     },
@@ -2910,7 +2646,6 @@
         "past": "WORKED",
         "past_participle": "WORKED",
         "present_participle": "WORKING",
-        "meaning_spn": "TRABAJAR",
         "definition": "To do an activity to achieve a purpose.",
         "type": "REGULAR"
     },
@@ -2921,7 +2656,6 @@
         "past": "WORRIED",
         "past_participle": "WORRIED",
         "present_participle": "WORRYING",
-        "meaning_spn": "PREOCUPAR",
         "definition": "To feel anxious or troubled about something.",
         "type": "REGULAR"
     },
@@ -2932,7 +2666,6 @@
         "past": "AROSE",
         "past_participle": "ARISEN",
         "present_participle": "ARISING",
-        "meaning_spn": "SURGIR",
         "definition": "To begin to exist or occur, or to get up from sleep or a sitting position.",
         "type": "IRREGULAR"
     },
@@ -2943,7 +2676,6 @@
         "past": "WAS-WERE",
         "past_participle": "BEEN",
         "present_participle": "BEING",
-        "meaning_spn": "SER",
         "definition": "To exist or to have a particular state or quality.",
         "type": "IRREGULAR"
     },
@@ -2954,7 +2686,6 @@
         "past": "BORE",
         "past_participle": "BORN",
         "present_participle": "BEARING",
-        "meaning_spn": "LLEVAR / SOPORTAR",
         "definition": "To carry, support, or endure.",
         "type": "IRREGULAR"
     },
@@ -2965,7 +2696,6 @@
         "past": "BECAME",
         "past_participle": "BECOME",
         "present_participle": "BECOMING",
-        "meaning_spn": "Convertir",
         "definition": "To start to be something or someone. It signifies a change or development",
         "type": "IRREGULAR"
     },
@@ -2976,7 +2706,6 @@
         "past": "BEFELL",
         "past_participle": "BEFALLEN",
         "present_participle": "BEFALLING",
-        "meaning_spn": "ACONTECER, SUCEDER, OCURRIR",
         "definition": "To happen to someone or something, often something unpleasant or unexpected.",
         "type": "IRREGULAR"
     },
@@ -2987,7 +2716,6 @@
         "past": "BEGAN",
         "past_participle": "BEGUN",
         "present_participle": "BEGINNING",
-        "meaning_spn": "COMENZAR",
         "definition": "To start something or to do the first part of something.",
         "type": "IRREGULAR"
     },
@@ -2998,7 +2726,6 @@
         "past": "BENT",
         "past_participle": "BENT",
         "present_participle": "BENDING",
-        "meaning_spn": "DOBLAR",
         "definition": "To curve or cause something to curve. It can also mean to yield or submit to pressure or force.",
         "type": "IRREGULAR"
     },
@@ -3009,7 +2736,6 @@
         "past": "BOUND",
         "past_participle": "BOUND",
         "present_participle": "BINDING",
-        "meaning_spn": "ATAR",
         "definition": "To tie or fasten something, or to unite or connect things together. Here are some examples:",
         "type": "IRREGULAR"
     },
@@ -3020,7 +2746,6 @@
         "past": "BIT",
         "past_participle": "BITTEN",
         "present_participle": "BITING",
-        "meaning_spn": "MORDER",
         "definition": "To use your teeth to cut into something.",
         "type": "IRREGULAR"
     },
@@ -3031,7 +2756,6 @@
         "past": "BLED",
         "past_participle": "BLED",
         "present_participle": "BLEEDING",
-        "meaning_spn": "SANGRAR",
         "definition": "To lose blood, typically from a wound or injury.",
         "type": "IRREGULAR"
     },
@@ -3042,7 +2766,6 @@
         "past": "BLEW",
         "past_participle": "BLOWN",
         "present_participle": "BLOWING",
-        "meaning_spn": "SOPLAR",
         "definition": "To move with force, especially air.",
         "type": "IRREGULAR"
     },
@@ -3053,7 +2776,6 @@
         "past": "BROKE",
         "past_participle": "BROKEN",
         "present_participle": "BREAKING",
-        "meaning_spn": "ROMPER",
         "definition": "To separate into pieces, to damage, or to violate a rule or promise.",
         "type": "IRREGULAR"
     },
@@ -3064,7 +2786,6 @@
         "past": "BROUGHT",
         "past_participle": "BROUGHT",
         "present_participle": "BRINGING",
-        "meaning_spn": "TRAER",
         "definition": "To to carry or convey something or someone to a particular place. It implies movement towards the speaker or the place where the action is taking place.",
         "type": "IRREGULAR"
     },
@@ -3075,7 +2796,6 @@
         "past": "BUILT",
         "past_participle": "BUILT",
         "present_participle": "BUILDING",
-        "meaning_spn": "CONSTRUIR",
         "definition": "To construct or create something, often by assembling parts.",
         "type": "IRREGULAR"
     },
@@ -3086,7 +2806,6 @@
         "past": "BURNT",
         "past_participle": "BURNT",
         "present_participle": "BURNING",
-        "meaning_spn": "QUEMAR",
         "definition": "To consume fuel and give off heat, light, and gases. It can also refer to the sensation of heat or pain caused by fire or something hot.",
         "type": "IRREGULAR"
     },
@@ -3097,7 +2816,6 @@
         "past": "BOUGHT",
         "past_participle": "BOUGHT",
         "present_participle": "BUYING",
-        "meaning_spn": "COMPRAR",
         "definition": "To acquire something by paying money or something of value for it. It's the act of purchasing.",
         "type": "IRREGULAR"
     },
@@ -3108,7 +2826,6 @@
         "past": "CAUGHT",
         "past_participle": "CAUGHT",
         "present_participle": "CATCHING",
-        "meaning_spn": "AGARRAR",
         "definition": "To seize or capture something, often something moving.",
         "type": "IRREGULAR"
     },
@@ -3119,7 +2836,6 @@
         "past": "CHOSE",
         "past_participle": "CHOSE",
         "present_participle": "CHOOSING",
-        "meaning_spn": "ESCOGER",
         "definition": "To select something from a group of options. It involves making a decision and picking one thing over others.",
         "type": "IRREGULAR"
     },
@@ -3130,7 +2846,6 @@
         "past": "CAME",
         "past_participle": "COME",
         "present_participle": "COMING",
-        "meaning_spn": "VENIR",
         "definition": "To move towards a particular place or person, or to arrive at a particular place.",
         "type": "IRREGULAR"
     },
@@ -3141,7 +2856,6 @@
         "past": "COST",
         "past_participle": "COST",
         "present_participle": "COSTING",
-        "meaning_spn": "COSTAR",
         "definition": "To require the payment of a certain amount of money.",
         "type": "IRREGULAR"
     },
@@ -3152,7 +2866,6 @@
         "past": "CUT",
         "past_participle": "CUT",
         "present_participle": "CUTTING",
-        "meaning_spn": "CORTAR",
         "definition": "To divide or separate something with a sharp instrument, or to reduce something in size or amount",
         "type": "IRREGULAR"
     },
@@ -3163,7 +2876,6 @@
         "past": "DEALT",
         "past_participle": "DEALT",
         "present_participle": "DEALING",
-        "meaning_spn": "TRATAR",
         "definition": "To deal means to handle, manage, or engage with something.",
         "type": "IRREGULAR"
     },
@@ -3174,7 +2886,6 @@
         "past": "DID",
         "past_participle": "DONE",
         "present_participle": "DOING",
-        "meaning_spn": "HACER",
         "definition": "To perform an action or activity.",
         "type": "IRREGULAR"
     },
@@ -3185,7 +2896,6 @@
         "past": "DREW",
         "past_participle": "DRAWN",
         "present_participle": "DRAWING",
-        "meaning_spn": "DIBUJAR",
         "definition": "To create a picture or design by using a pencil, pen, or other tool. It can also mean to pull something towards oneself.",
         "type": "IRREGULAR"
     },
@@ -3196,7 +2906,6 @@
         "past": "DREAMT",
         "past_participle": "DREAMT",
         "present_participle": "DREAMING",
-        "meaning_spn": "SO\u00d1AR",
         "definition": "To experience thoughts, images, or sensations during sleep. It can also mean to imagine or hope for something.",
         "type": "IRREGULAR"
     },
@@ -3207,7 +2916,6 @@
         "past": "DRANK",
         "past_participle": "DRUNK",
         "present_participle": "DRINKING",
-        "meaning_spn": "BEBER",
         "definition": "To consume a liquid, typically by mouth.",
         "type": "IRREGULAR"
     },
@@ -3218,7 +2926,6 @@
         "past": "DROVE",
         "past_participle": "DRIVEN",
         "present_participle": "DRIVING",
-        "meaning_spn": "CONDUCIR",
         "definition": "To drive means to control the movement of a vehicle, such as a car, truck, or motorcycle, by operating its controls and steering it in a desired direction.",
         "type": "IRREGULAR"
     },
@@ -3229,7 +2936,6 @@
         "past": "ATE",
         "past_participle": "EATEN",
         "present_participle": "EATING",
-        "meaning_spn": "COMER",
         "definition": "To eat means to consume food by taking it into the mouth, chewing it, and swallowing it.",
         "type": "IRREGULAR"
     },
@@ -3240,7 +2946,6 @@
         "past": "FELL",
         "past_participle": "FALLEN",
         "present_participle": "FALLING",
-        "meaning_spn": "CAER",
         "definition": "To fall means to move downward, often suddenly and unintentionally.",
         "type": "IRREGULAR"
     },
@@ -3251,7 +2956,6 @@
         "past": "FED",
         "past_participle": "FED",
         "present_participle": "FEEDING",
-        "meaning_spn": "ALIMENTAR",
         "definition": "To feed means to give food to someone or something.",
         "type": "IRREGULAR"
     },
@@ -3262,7 +2966,6 @@
         "past": "FELT",
         "past_participle": "FELT",
         "present_participle": "FEELING",
-        "meaning_spn": "SENTIR",
         "definition": "To feel means to experience a particular emotion or state of mind, such as joy, sadness, anger, fear, and love.",
         "type": "IRREGULAR"
     },
@@ -3273,7 +2976,6 @@
         "past": "FOUGHT",
         "past_participle": "FOUGHT",
         "present_participle": "FIGHTING",
-        "meaning_spn": "PELEAR",
         "definition": "To fight means to engage in a struggle or battle.",
         "type": "IRREGULAR"
     },
@@ -3284,7 +2986,6 @@
         "past": "FOUND",
         "past_participle": "FOUND",
         "present_participle": "FINDING",
-        "meaning_spn": "ENCONTRAR",
         "definition": "To discover or locate something or someone.",
         "type": "IRREGULAR"
     },
@@ -3295,7 +2996,6 @@
         "past": "FLEW",
         "past_participle": "FLOWN",
         "present_participle": "FLYING",
-        "meaning_spn": "VOLAR",
         "definition": "To fly means to move through the air by means of wings, or in an aircraft.",
         "type": "IRREGULAR"
     },
@@ -3306,7 +3006,6 @@
         "past": "FORBADE",
         "past_participle": "FORBIDDEN",
         "present_participle": "FORBIDDING",
-        "meaning_spn": "PROHIBIR",
         "definition": "To forbid means to prohibit or not allow something.",
         "type": "IRREGULAR"
     },
@@ -3317,7 +3016,6 @@
         "past": "FORGOT",
         "past_participle": "FORGOTTEN",
         "present_participle": "FORGETTING",
-        "meaning_spn": "OLVIDAR",
         "definition": "To forget means to be unable to remember something.",
         "type": "IRREGULAR"
     },
@@ -3328,7 +3026,6 @@
         "past": "FORGAVE",
         "past_participle": "FORGIVEN",
         "present_participle": "FORGIVING",
-        "meaning_spn": "PERDONAR",
         "definition": "To forgive means to cease to feel resentment or anger towards someone for an offense.",
         "type": "IRREGULAR"
     },
@@ -3339,7 +3036,6 @@
         "past": "GOT",
         "past_participle": "GOTTEN",
         "present_participle": "GETTING",
-        "meaning_spn": "OBTENER",
         "definition": "To get is a very versatile verb in English, meaning to obtain, receive, or acquire something.",
         "type": "IRREGULAR"
     },
@@ -3350,7 +3046,6 @@
         "past": "GAVE",
         "past_participle": "GIVEN",
         "present_participle": "GIVING",
-        "meaning_spn": "DAR",
         "definition": "To give means to transfer something (like an object, information, or help) to someone else.",
         "type": "IRREGULAR"
     },
@@ -3361,7 +3056,6 @@
         "past": "WENT",
         "past_participle": "GONE",
         "present_participle": "GOING",
-        "meaning_spn": "IR",
         "definition": "To go means to move or travel from one place to another.",
         "type": "IRREGULAR"
     },
@@ -3372,7 +3066,6 @@
         "past": "GREW",
         "past_participle": "GROWN",
         "present_participle": "GROWING",
-        "meaning_spn": "CRECER",
         "definition": "To grow means to increase in size or amount.",
         "type": "IRREGULAR"
     },
@@ -3383,7 +3076,6 @@
         "past": "HAD",
         "past_participle": "HAD",
         "present_participle": "HAVING",
-        "meaning_spn": "TENER-TOMAR",
         "definition": "To have means to possess, own, or experience something.",
         "type": "IRREGULAR"
     },
@@ -3394,7 +3086,6 @@
         "past": "HEARD",
         "past_participle": "HEARD",
         "present_participle": "HEARING",
-        "meaning_spn": "O\u00cdR",
         "definition": "To hear means to perceive sound.",
         "type": "IRREGULAR"
     },
@@ -3405,7 +3096,6 @@
         "past": "HID",
         "past_participle": "HIDDEN",
         "present_participle": "HIDING",
-        "meaning_spn": "ESCONDER",
         "definition": "To hide means to conceal oneself or something from sight.",
         "type": "IRREGULAR"
     },
@@ -3416,7 +3106,6 @@
         "past": "HIT",
         "past_participle": "HIT",
         "present_participle": "HITTING",
-        "meaning_spn": "GOLPEAR",
         "definition": "To hit means to strike or impact something with force.",
         "type": "IRREGULAR"
     },
@@ -3427,7 +3116,6 @@
         "past": "HELD",
         "past_participle": "HELD",
         "present_participle": "HOLDING",
-        "meaning_spn": "SOSTENER",
         "definition": "To hold means to grasp, support, or contain something.",
         "type": "IRREGULAR"
     },
@@ -3438,7 +3126,6 @@
         "past": "HURT",
         "past_participle": "HURT",
         "present_participle": "HURTING",
-        "meaning_spn": "LASTIMAR",
         "definition": "To hurt means to cause physical or emotional pain.",
         "type": "IRREGULAR"
     },
@@ -3449,7 +3136,6 @@
         "past": "KEPT",
         "past_participle": "KEPT",
         "present_participle": "KEEPING",
-        "meaning_spn": "GUARDAR",
         "definition": "To keep means to maintain possession of something, to continue to do something, or to prevent something from happening.",
         "type": "IRREGULAR"
     },
@@ -3460,7 +3146,6 @@
         "past": "KNELT",
         "past_participle": "KNELT",
         "present_participle": "KNEELING",
-        "meaning_spn": "ARRODILLAR",
         "definition": "To kneel means to bend the knee or knees to the ground.",
         "type": "IRREGULAR"
     },
@@ -3471,7 +3156,6 @@
         "past": "KNEW",
         "past_participle": "KNOWN",
         "present_participle": "KNOWING",
-        "meaning_spn": "CONOCER",
         "definition": "To know means to have understanding or familiarity with something.",
         "type": "IRREGULAR"
     },
@@ -3482,7 +3166,6 @@
         "past": "LED",
         "past_participle": "LED",
         "present_participle": "LEADING",
-        "meaning_spn": "GUIAR",
         "definition": "To lead means to guide or direct someone or something, especially by going in front or by being in charge. It can also mean to show the way or to be the first or best in a particular field.",
         "type": "IRREGULAR"
     },
@@ -3493,7 +3176,6 @@
         "past": "LEARNT",
         "past_participle": "LEARNT",
         "present_participle": "LEARNING",
-        "meaning_spn": "APRENDER",
         "definition": "To learn means to gain knowledge or understanding of or skill in by study, instruction, or experience.",
         "type": "IRREGULAR"
     },
@@ -3504,7 +3186,6 @@
         "past": "LEFT",
         "past_participle": "LEFT",
         "present_participle": "LEAVING",
-        "meaning_spn": "SALIR",
         "definition": "To leave means to go away from a place or person. It can also mean to allow something to remain behind, or to give something to someone in your will.",
         "type": "IRREGULAR"
     },
@@ -3515,7 +3196,6 @@
         "past": "LENT",
         "past_participle": "LENT",
         "present_participle": "LENDING",
-        "meaning_spn": "PRESTAR",
         "definition": "To lend means to give something to someone for a temporary period, with the expectation that it will be returned.",
         "type": "IRREGULAR"
     },
@@ -3526,7 +3206,6 @@
         "past": "LET",
         "past_participle": "LET",
         "present_participle": "LETTING",
-        "meaning_spn": "PERMITIR",
         "definition": "To allow or permit something to happen or to be done.",
         "type": "IRREGULAR"
     },
@@ -3537,7 +3216,6 @@
         "past": "LIT",
         "past_participle": "LIT",
         "present_participle": "LIGHTING",
-        "meaning_spn": "ALUMBRAR",
         "definition": "To light means to ignite or cause to ignite; to illuminate or brighten.",
         "type": "IRREGULAR"
     },
@@ -3548,7 +3226,6 @@
         "past": "LOST",
         "past_participle": "LOST",
         "present_participle": "LOSING",
-        "meaning_spn": "PERDER",
         "definition": "To lose means to no longer have something or to fail to win.",
         "type": "IRREGULAR"
     },
@@ -3559,7 +3236,6 @@
         "past": "MADE",
         "past_participle": "MADE",
         "present_participle": "MAKING",
-        "meaning_spn": "HACER",
         "definition": "To make means to create, produce, or construct something.",
         "type": "IRREGULAR"
     },
@@ -3570,7 +3246,6 @@
         "past": "MEANT",
         "past_participle": "MEANT",
         "present_participle": "MEANING",
-        "meaning_spn": "SIGNIFICAR",
         "definition": "To mean is to signify, express, or represent something.",
         "type": "IRREGULAR"
     },
@@ -3581,7 +3256,6 @@
         "past": "MET",
         "past_participle": "MET",
         "present_participle": "MEETING",
-        "meaning_spn": "REUNIRSE",
         "definition": "To meet means to come together with someone or something.",
         "type": "IRREGULAR"
     },
@@ -3592,7 +3266,6 @@
         "past": "MISTOOK",
         "past_participle": "MISTAKEN",
         "present_participle": "MISTAKING",
-        "meaning_spn": "EQUIVOCARSE",
         "definition": "To meet means to come together with someone else, either by arrangement or by chance. It can also mean to be introduced to or become acquainted with someone for the first time.",
         "type": "IRREGULAR"
     },
@@ -3603,7 +3276,6 @@
         "past": "PAID",
         "past_participle": "PAID",
         "present_participle": "PAYING",
-        "meaning_spn": "PAGAR",
         "definition": "To pay means to give money to someone in exchange for something you have bought or for a service they have provided.",
         "type": "IRREGULAR"
     },
@@ -3614,7 +3286,6 @@
         "past": "PUT",
         "past_participle": "PUT",
         "present_participle": "PUTTING",
-        "meaning_spn": "COLOCAR",
         "definition": "To put is a versatile verb that encompasses a wide range of actions related to placing, positioning, or applying something. It can involve physically moving an object, applying something to a surface, expressing an idea, or even exerting effort or influence.",
         "type": "IRREGULAR"
     },
@@ -3625,7 +3296,6 @@
         "past": "READ",
         "past_participle": "READ",
         "present_participle": "READING",
-        "meaning_spn": "LEER",
         "definition": "To read means to interpret and understand written or printed matter.",
         "type": "IRREGULAR"
     },
@@ -3636,7 +3306,6 @@
         "past": "RODE",
         "past_participle": "RIDDEN",
         "present_participle": "RIDING",
-        "meaning_spn": "CABALGAR",
         "definition": "To ride is to travel on the back of an animal, such as a horse, donkey, or elephant, or in a vehicle, such as a bicycle, car, bus, train, or airplane. It can also refer to the act of controlling or directing the movement of an animal or vehicle, such as steering a bicycle or driving a car. The term can also be used figuratively, such as \"riding out a storm\" or \"riding a wave of success.\"",
         "type": "IRREGULAR"
     },
@@ -3647,7 +3316,6 @@
         "past": "RANG",
         "past_participle": "RUNG",
         "present_participle": "RINGING",
-        "meaning_spn": "REPICAR",
         "definition": "To make a clear, resonant sound, often musical or bell-like.",
         "type": "IRREGULAR"
     },
@@ -3658,7 +3326,6 @@
         "past": "ROSE",
         "past_participle": "RISEN",
         "present_participle": "RISING",
-        "meaning_spn": "LEVANTARSE",
         "definition": "To rise is an intransitive verb that signifies an upward movement or an increase in something. It can refer to physical movement, such as getting up from a sitting position or the sun appearing above the horizon. It can also refer to an increase in something abstract, such as temperature, prices, or social status.",
         "type": "IRREGULAR"
     },
@@ -3669,7 +3336,6 @@
         "past": "RAN",
         "past_participle": "RUN",
         "present_participle": "RUNNING",
-        "meaning_spn": "CORRER",
         "definition": "To run: To move rapidly on foot by using the legs alternately, so that both feet are off the ground at the same time. This can involve various speeds and styles, from jogging to sprinting, and can be done for various purposes, such as exercise, sport, escape, or simply to get somewhere quickly.",
         "type": "IRREGULAR"
     },
@@ -3680,7 +3346,6 @@
         "past": "SAID",
         "past_participle": "SAID",
         "present_participle": "SAYING",
-        "meaning_spn": "DECIR",
         "definition": "To say is to utter or articulate words to express thoughts, feelings, opinions, or information. It involves the vocalization of language to convey meaning. This can range from simple statements and questions to complex narratives and arguments. The act of saying involves the selection and arrangement of words to effectively communicate a message to others.",
         "type": "IRREGULAR"
     },
@@ -3691,7 +3356,6 @@
         "past": "SAW",
         "past_participle": "SEEN",
         "present_participle": "SEEING",
-        "meaning_spn": "VER",
         "definition": "To see means to perceive with the eyes.",
         "type": "IRREGULAR"
     },
@@ -3702,7 +3366,6 @@
         "past": "SOUGHT",
         "past_participle": "SOUGHT",
         "present_participle": "SEEKING",
-        "meaning_spn": "INVESTIGAR",
         "definition": "To seek is an active and deliberate effort to discover, acquire, or achieve something. It implies a purposeful and often persistent search, whether it be for information, a solution, an opportunity, a person, or an abstract concept like happiness or truth. This pursuit can involve various methods such as investigation, exploration, inquiry, and striving. Seeking often involves overcoming obstacles, facing challenges, and persevering in the face of uncertainty.",
         "type": "IRREGULAR"
     },
@@ -3713,7 +3376,6 @@
         "past": "SOLD",
         "past_participle": "SOLD",
         "present_participle": "SELLING",
-        "meaning_spn": "VENDER",
         "definition": "To sell is to give something in exchange for money.",
         "type": "IRREGULAR"
     },
@@ -3724,7 +3386,6 @@
         "past": "SENT",
         "past_participle": "SENT",
         "present_participle": "SENDING",
-        "meaning_spn": "ENVIAR",
         "definition": "To send means to cause something or someone to go to a particular place or person.",
         "type": "IRREGULAR"
     },
@@ -3735,7 +3396,6 @@
         "past": "SET",
         "past_participle": "SET",
         "present_participle": "SETTING",
-        "meaning_spn": "COLOCAR",
         "definition": "To set means to put or place something in a particular position.",
         "type": "IRREGULAR"
     },
@@ -3746,7 +3406,6 @@
         "past": "SEWED",
         "past_participle": "SEWN",
         "present_participle": "SEWING",
-        "meaning_spn": "COSER",
         "definition": "To sew means to join or fasten pieces of fabric or other materials together by passing thread through them with a needle.",
         "type": "IRREGULAR"
     },
@@ -3757,7 +3416,6 @@
         "past": "SHOOK",
         "past_participle": "SHAKEN",
         "present_participle": "SHAKING",
-        "meaning_spn": "SACUDIR",
         "definition": "To shake means to move back and forth or up and down with quick, short movements.",
         "type": "IRREGULAR"
     },
@@ -3768,7 +3426,6 @@
         "past": "SHONE",
         "past_participle": "SHONE",
         "present_participle": "SHINING",
-        "meaning_spn": "BRILLAR",
         "definition": "To shine means to emit or reflect light, or to be bright or brilliant. It can also mean to excel or be outstanding in a particular skill or activity.",
         "type": "IRREGULAR"
     },
@@ -3779,7 +3436,6 @@
         "past": "SHOT",
         "past_participle": "SHOT",
         "present_participle": "SHOOTING",
-        "meaning_spn": "DISPARAR",
         "definition": "To shoot means to fire a bullet or an arrow from a weapon, or to hit, injure, or kill someone or something by firing a bullet or arrow at them.",
         "type": "IRREGULAR"
     },
@@ -3790,7 +3446,6 @@
         "past": "SHOWED",
         "past_participle": "SHOWN",
         "present_participle": "SHOWING",
-        "meaning_spn": "MOSTRAR",
         "definition": "To show means to display or make visible something.",
         "type": "IRREGULAR"
     },
@@ -3801,7 +3456,6 @@
         "past": "SHUT",
         "past_participle": "SHUT",
         "present_participle": "SHUTTING",
-        "meaning_spn": "CERRAR",
         "definition": "To shut means to close something or to become closed.",
         "type": "IRREGULAR"
     },
@@ -3812,7 +3466,6 @@
         "past": "SANG",
         "past_participle": "SUNG",
         "present_participle": "SINGING",
-        "meaning_spn": "CANTAR",
         "definition": "To sing means to produce musical sounds with the voice.",
         "type": "IRREGULAR"
     },
@@ -3823,7 +3476,6 @@
         "past": "SAT",
         "past_participle": "SAT",
         "present_participle": "SITTING",
-        "meaning_spn": "SENTARSE",
         "definition": "To sit means to rest by supporting one's weight on the buttocks.",
         "type": "IRREGULAR"
     },
@@ -3834,7 +3486,6 @@
         "past": "SLEPT",
         "past_participle": "SLEPT",
         "present_participle": "SLEEPING",
-        "meaning_spn": "DORMIR",
         "definition": "To sleep is to be in a state of unconsciousness in which the body rests and the mind is inactive.",
         "type": "IRREGULAR"
     },
@@ -3845,7 +3496,6 @@
         "past": "SMELT",
         "past_participle": "SMELT",
         "present_participle": "SMELLING",
-        "meaning_spn": "OLER",
         "definition": "To smell means to perceive odors through the sense of olfaction.",
         "type": "IRREGULAR"
     },
@@ -3856,7 +3506,6 @@
         "past": "SPOKE",
         "past_participle": "SPOKEN",
         "present_participle": "SPEAKING",
-        "meaning_spn": "HABLAR",
         "definition": "To speak means to use words to express thoughts, feelings, or information.",
         "type": "IRREGULAR"
     },
@@ -3867,7 +3516,6 @@
         "past": "SPENT",
         "past_participle": "SPENT",
         "present_participle": "SPENDING",
-        "meaning_spn": "GASTAR",
         "definition": "To spend means to use money to acquire goods, services, or experiences. It can also refer to using time or energy on a particular activity.",
         "type": "IRREGULAR"
     },
@@ -3878,7 +3526,6 @@
         "past": "SPILT",
         "past_participle": "SPILT",
         "present_participle": "SPILLING",
-        "meaning_spn": "DERRAMAR",
         "definition": "To spill means to accidentally pour or let liquid flow out of a container.",
         "type": "IRREGULAR"
     },
@@ -3889,7 +3536,6 @@
         "past": "STOOD",
         "past_participle": "STOOD",
         "present_participle": "STANDING",
-        "meaning_spn": "PARARSE",
         "definition": "To stand refers to the action of supporting oneself in an erect position, typically on one's feet. This can involve maintaining balance, remaining stationary, or moving while upright. It encompasses various states, from simply being upright to enduring or tolerating something.",
         "type": "IRREGULAR"
     },
@@ -3900,7 +3546,6 @@
         "past": "STOLE",
         "past_participle": "STOLEN",
         "present_participle": "STEALING",
-        "meaning_spn": "ROBAR",
         "definition": "To steal is to take something that belongs to someone else without their permission.",
         "type": "IRREGULAR"
     },
@@ -3911,7 +3556,6 @@
         "past": "STUCK",
         "past_participle": "STUCK",
         "present_participle": "STICKING",
-        "meaning_spn": "ENGOMAR",
         "definition": "To stick means to attach or adhere to something.",
         "type": "IRREGULAR"
     },
@@ -3922,7 +3566,6 @@
         "past": "SWORE",
         "past_participle": "SWORN",
         "present_participle": "SWEARING",
-        "meaning_spn": "JURAR",
         "definition": "To swear involves uttering or using words or phrases considered taboo or vulgar in a particular social or cultural context. These words often express strong emotions like anger, frustration, or surprise, and to promise or say firmly that you are telling the truth or that you will do something or behave in a particular way",
         "type": "IRREGULAR"
     },
@@ -3933,7 +3576,6 @@
         "past": "SWEPT",
         "past_participle": "SWEPT",
         "present_participle": "SWEEPING",
-        "meaning_spn": "BARRER",
         "definition": "To sweep means to clean a surface, such as a floor, by using a broom or brush to remove dirt and debris.",
         "type": "IRREGULAR"
     },
@@ -3944,7 +3586,6 @@
         "past": "SWAM",
         "past_participle": "SWUM",
         "present_participle": "SWIMMING",
-        "meaning_spn": "NADAR",
         "definition": "To swim is to move through water by using your arms and legs.",
         "type": "IRREGULAR"
     },
@@ -3955,7 +3596,6 @@
         "past": "TOOK",
         "past_participle": "TAKEN",
         "present_participle": "TAKING",
-        "meaning_spn": "TOMAR",
         "definition": "To take is to gain possession of something, whether by physical action, mental effort, or other means. This can involve removing something from a place, accepting something offered, or capturing something.",
         "type": "IRREGULAR"
     },
@@ -3966,7 +3606,6 @@
         "past": "TAUGHT",
         "past_participle": "TAUGHT",
         "present_participle": "TEACHING",
-        "meaning_spn": "ENSE\u00d1AR",
         "definition": "To teach involves guiding and facilitating learning in another person or group. This can include explaining concepts, demonstrating techniques, providing feedback, and creating an environment conducive to learning.",
         "type": "IRREGULAR"
     },
@@ -3977,7 +3616,6 @@
         "past": "TOLD",
         "past_participle": "TOLD",
         "present_participle": "TELLING",
-        "meaning_spn": "DECIR",
         "definition": "To express thoughts, feelings, or facts to someone using words, gestures, or other means of communication. This can involve narrating events, giving instructions, sharing opinions, or conveying emotions.",
         "type": "IRREGULAR"
     },
@@ -3988,7 +3626,6 @@
         "past": "THOUGHT",
         "past_participle": "THOUGHT",
         "present_participle": "THINKING",
-        "meaning_spn": "PENSAR",
         "definition": "To think is to use your mind to create ideas, consider something, or solve a problem.",
         "type": "IRREGULAR"
     },
@@ -3999,7 +3636,6 @@
         "past": "THREW",
         "past_participle": "THROWN",
         "present_participle": "THROWING",
-        "meaning_spn": "LANZAR",
         "definition": "To throw means to propel something through the air by using your arm or hand.",
         "type": "IRREGULAR"
     },
@@ -4010,7 +3646,6 @@
         "past": "UNDERSTOOD",
         "past_participle": "UNDERSTOOD",
         "present_participle": "UNDERSTANDING",
-        "meaning_spn": "ENTENDER",
         "definition": "To understand is to have a clear and comprehensive knowledge or perception of something. It involves recognizing patterns, making connections, and interpreting information to form a coherent mental representation. This can encompass various aspects, such as comprehending language, grasping concepts, and recognizing emotions.",
         "type": "IRREGULAR"
     },
@@ -4021,7 +3656,6 @@
         "past": "WORE",
         "past_participle": "WORN",
         "present_participle": "WEARING",
-        "meaning_spn": "USAR",
         "definition": "To wear signifies the act of having something on one's person, such as clothing, footwear, or accessories. This can include articles of clothing like shirts, pants, and dresses, as well as adornments like jewelry, hats, and glasses. It can also refer to the gradual deterioration or erosion of something due to use or exposure.",
         "type": "IRREGULAR"
     },
@@ -4032,7 +3666,6 @@
         "past": "WEPT",
         "past_participle": "WEPT",
         "present_participle": "WEEPING",
-        "meaning_spn": "LLORAR",
         "definition": "To weep is to shed tears, often accompanied by audible sounds such as sobbing or wailing. It is an emotional expression of sorrow, grief, or intense sadness.",
         "type": "IRREGULAR"
     },
@@ -4043,7 +3676,6 @@
         "past": "WON",
         "past_participle": "WON",
         "present_participle": "WINNING",
-        "meaning_spn": "GANAR",
         "definition": "To win is to achieve victory or success in a game, race, battle, or any other competitive situation. It involves overcoming obstacles, surpassing rivals, and achieving a desired outcome.",
         "type": "IRREGULAR"
     },
@@ -4054,7 +3686,6 @@
         "past": "WROTE",
         "past_participle": "WRITTEN",
         "present_participle": "WRITING",
-        "meaning_spn": "ESCRIBIR",
         "definition": "To write is to express thoughts, ideas, or information through the use of symbols, typically letters arranged in a meaningful sequence. This can involve composing stories, poems, articles, letters, code, and more.",
         "type": "IRREGULAR"
     }
