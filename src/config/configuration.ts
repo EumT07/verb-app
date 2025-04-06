@@ -6,4 +6,6 @@ export default () => ({
     nodemailer_user: process.env.NODEMAILER_USER,
     nodemailer_password: process.env.NODEMAILER_PASSWORD,
     nodemailer_email_from: process.env.NODEMAILER_EMAIL_FROM,
+    api_key: process.env.API_KEY,
+    api_base_url: process.env.API_BASE_URL
 })

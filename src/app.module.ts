@@ -8,6 +8,7 @@ import { PrismaService } from './modules/prisma/prisma.service';
 import { UserModule } from './modules/user/user.module';
 import { EmailModule } from './providers/email/email.module';
 import { VerbsModule } from './modules/verbs/verbs.module';
+import { DeepseekAiModule } from './modules/deepseek-ai/deepseek-ai.module';
 
 @Module({
   imports: [
@@ -17,6 +18,7 @@ import { VerbsModule } from './modules/verbs/verbs.module';
     UserModule,
     EmailModule,
     VerbsModule,
+    DeepseekAiModule,
   ],
   controllers: [],
   providers: [

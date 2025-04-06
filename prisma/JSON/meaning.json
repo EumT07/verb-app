@@ -1,0 +1,3323 @@
+[
+    {
+        "id": "MEAN-ACC-4470",
+        "verb_id": "V6-ACC-4502",
+        "spanish": "aceptar",
+        "portuguese": "aceitar",
+        "italian": "accettare",
+        "french": "accepter",
+        "german": "akzeptieren"
+    },
+    {
+        "id": "MEAN-ACT-9668",
+        "verb_id": "V3-ACT-6473",
+        "spanish": "actuar",
+        "portuguese": "agir",
+        "italian": "agire",
+        "french": "agir",
+        "german": "handeln"
+    },
+    {
+        "id": "MEAN-ADD-7350",
+        "verb_id": "V3-ADD-4735",
+        "spanish": "a\u00f1adir",
+        "portuguese": "adicionar",
+        "italian": "aggiungere",
+        "french": "ajouter",
+        "german": "hinzuf\u00fcgen"
+    },
+    {
+        "id": "MEAN-ADM-1331",
+        "verb_id": "V5-ADM-9699",
+        "spanish": "admitir",
+        "portuguese": "admitir",
+        "italian": "ammettere",
+        "french": "admettre",
+        "german": "zugeben"
+    },
+    {
+        "id": "MEAN-ADV-7825",
+        "verb_id": "V6-ADV-3470",
+        "spanish": "aconsejar",
+        "portuguese": "aconselhar",
+        "italian": "consigliare",
+        "french": "conseiller",
+        "german": "raten"
+    },
+    {
+        "id": "MEAN-AFF-4921",
+        "verb_id": "V6-AFF-4842",
+        "spanish": "permitirse",
+        "portuguese": "permitir-se",
+        "italian": "permettersi",
+        "french": "permettre",
+        "german": "sich leisten"
+    },
+    {
+        "id": "MEAN-AGR-1721",
+        "verb_id": "V5-AGR-2065",
+        "spanish": "estar de acuerdo",
+        "portuguese": "concordar",
+        "italian": "essere d'accordo",
+        "french": "\u00eatre d'accord",
+        "german": "zustimmen"
+    },
+    {
+        "id": "MEAN-AIM-2656",
+        "verb_id": "V3-AIM-3259",
+        "spanish": "apuntar - planificar - lograr",
+        "portuguese": "mirar",
+        "italian": "puntare",
+        "french": "viser",
+        "german": "zielen"
+    },
+    {
+        "id": "MEAN-ALL-2147",
+        "verb_id": "V5-ALL-7778",
+        "spanish": "permitir",
+        "portuguese": "permitir",
+        "italian": "permettere",
+        "french": "permettre",
+        "german": "erlauben"
+    },
+    {
+        "id": "MEAN-AMU-2081",
+        "verb_id": "V5-AMU-4321",
+        "spanish": "divertir - entreneter",
+        "portuguese": "divertir",
+        "italian": "divertire",
+        "french": "amuser",
+        "german": "am\u00fcsieren"
+    },
+    {
+        "id": "MEAN-ANS-4511",
+        "verb_id": "V6-ANS-2931",
+        "spanish": "responder",
+        "portuguese": "responder",
+        "italian": "rispondere",
+        "french": "r\u00e9pondre",
+        "german": "antworten"
+    },
+    {
+        "id": "MEAN-ANT-1603",
+        "verb_id": "V10-ANT-9438",
+        "spanish": "anticipar",
+        "portuguese": "antecipar",
+        "italian": "anticipare",
+        "french": "anticiper",
+        "german": "vorwegnehmen"
+    },
+    {
+        "id": "MEAN-APO-5020",
+        "verb_id": "V9-APO-6050",
+        "spanish": "disculparse",
+        "portuguese": "desculpar-se",
+        "italian": "scusarsi",
+        "french": "s'excuser",
+        "german": "sich entschuldigen"
+    },
+    {
+        "id": "MEAN-APP-2917",
+        "verb_id": "V6-APP-2863",
+        "spanish": "aparecer",
+        "portuguese": "aparecer",
+        "italian": "apparire",
+        "french": "appara\u00eetre",
+        "german": "erscheinen"
+    },
+    {
+        "id": "MEAN-APP-1040",
+        "verb_id": "V10-APP-1852",
+        "spanish": "apreciar",
+        "portuguese": "apreciar",
+        "italian": "apprezzare",
+        "french": "appr\u00e9cier",
+        "german": "sch\u00e4tzen"
+    },
+    {
+        "id": "MEAN-APP-4746",
+        "verb_id": "V7-APP-9521",
+        "spanish": "aprobar",
+        "portuguese": "aprovar",
+        "italian": "approvare",
+        "french": "approuver",
+        "german": "genehmigen"
+    },
+    {
+        "id": "MEAN-ARR-7876",
+        "verb_id": "V7-ARR-6997",
+        "spanish": "organizar",
+        "portuguese": "organizar",
+        "italian": "organizzare",
+        "french": "arranger",
+        "german": "arrangieren"
+    },
+    {
+        "id": "MEAN-ARR-3768",
+        "verb_id": "V6-ARR-8664",
+        "spanish": "llegar",
+        "portuguese": "chegar",
+        "italian": "arrivare",
+        "french": "arriver",
+        "german": "ankommen"
+    },
+    {
+        "id": "MEAN-ASK-7479",
+        "verb_id": "V3-ASK-3327",
+        "spanish": "preguntar",
+        "portuguese": "perguntar",
+        "italian": "chiedere",
+        "french": "demander",
+        "german": "fragen"
+    },
+    {
+        "id": "MEAN-ATT-3216",
+        "verb_id": "V7-ATT-9750",
+        "spanish": "intentar",
+        "portuguese": "tentar",
+        "italian": "tentare",
+        "french": "tenter",
+        "german": "versuchen"
+    },
+    {
+        "id": "MEAN-ATT-5046",
+        "verb_id": "V6-ATT-7133",
+        "spanish": "asistir",
+        "portuguese": "assistir",
+        "italian": "assistere",
+        "french": "assister",
+        "german": "teilnehmen"
+    },
+    {
+        "id": "MEAN-AVO-8461",
+        "verb_id": "V5-AVO-9904",
+        "spanish": "evitar",
+        "portuguese": "evitar",
+        "italian": "evitare",
+        "french": "\u00e9viter",
+        "german": "vermeiden"
+    },
+    {
+        "id": "MEAN-BAT-9097",
+        "verb_id": "V5-BAT-9849",
+        "spanish": "ba\u00f1ar",
+        "portuguese": "banhar",
+        "italian": "fare il bagno",
+        "french": "baigner",
+        "german": "baden"
+    },
+    {
+        "id": "MEAN-BEG-2709",
+        "verb_id": "V3-BEG-5796",
+        "spanish": "rogar",
+        "portuguese": "implorar",
+        "italian": "supplicare",
+        "french": "mendier",
+        "german": "betteln"
+    },
+    {
+        "id": "MEAN-BEH-9424",
+        "verb_id": "V6-BEH-8848",
+        "spanish": "comportarse",
+        "portuguese": "comportar-se",
+        "italian": "comportarsi",
+        "french": "se comporter",
+        "german": "sich benehmen"
+    },
+    {
+        "id": "MEAN-BEL-9195",
+        "verb_id": "V7-BEL-5974",
+        "spanish": "creer",
+        "portuguese": "acreditar",
+        "italian": "credere",
+        "french": "croire",
+        "german": "glauben"
+    },
+    {
+        "id": "MEAN-BEL-8699",
+        "verb_id": "V6-BEL-8806",
+        "spanish": "pertenecer",
+        "portuguese": "pertencer",
+        "italian": "appartenere",
+        "french": "appartenir",
+        "german": "geh\u00f6ren"
+    },
+    {
+        "id": "MEAN-BOI-4704",
+        "verb_id": "V4-BOI-4790",
+        "spanish": "hervir",
+        "portuguese": "ferver",
+        "italian": "bollire",
+        "french": "bouillir",
+        "german": "kochen"
+    },
+    {
+        "id": "MEAN-BOR-7027",
+        "verb_id": "V6-BOR-7415",
+        "spanish": "pedir prestado",
+        "portuguese": "emprestar",
+        "italian": "prendere in prestito",
+        "french": "emprunter",
+        "german": "borgen"
+    },
+    {
+        "id": "MEAN-BOT-8683",
+        "verb_id": "V6-BOT-2367",
+        "spanish": "molestar",
+        "portuguese": "incomodar",
+        "italian": "disturbare",
+        "french": "d\u00e9ranger",
+        "german": "bel\u00e4stigen"
+    },
+    {
+        "id": "MEAN-BRU-4576",
+        "verb_id": "V5-BRU-8745",
+        "spanish": "cepillar",
+        "portuguese": "escovar",
+        "italian": "spazzolare",
+        "french": "brosser",
+        "german": "b\u00fcrsten"
+    },
+    {
+        "id": "MEAN-CAL-3400",
+        "verb_id": "V4-CAL-8883",
+        "spanish": "llamar",
+        "portuguese": "chamar",
+        "italian": "chiamare",
+        "french": "appeler",
+        "german": "anrufen"
+    },
+    {
+        "id": "MEAN-CAR-2589",
+        "verb_id": "V5-CAR-4994",
+        "spanish": "llevar",
+        "portuguese": "carregar",
+        "italian": "portare",
+        "french": "porter",
+        "german": "tragen"
+    },
+    {
+        "id": "MEAN-CAS-8260",
+        "verb_id": "V4-CAS-5431",
+        "spanish": "cobrar",
+        "portuguese": "descontar",
+        "italian": "incassare",
+        "french": "encaisser",
+        "german": "einl\u00f6sen"
+    },
+    {
+        "id": "MEAN-CEA-3499",
+        "verb_id": "V5-CEA-4293",
+        "spanish": "cesar/detenerse",
+        "portuguese": "cessar",
+        "italian": "cessare",
+        "french": "cesser",
+        "german": "aufh\u00f6ren"
+    },
+    {
+        "id": "MEAN-CEL-9501",
+        "verb_id": "V9-CEL-9031",
+        "spanish": "celebrar",
+        "portuguese": "celebrar",
+        "italian": "celebrare",
+        "french": "c\u00e9l\u00e9brer",
+        "german": "feiern"
+    },
+    {
+        "id": "MEAN-CHA-4790",
+        "verb_id": "V6-CHA-6986",
+        "spanish": "cambiar",
+        "portuguese": "mudar",
+        "italian": "cambiare",
+        "french": "changer",
+        "german": "\u00e4ndern"
+    },
+    {
+        "id": "MEAN-CHE-1589",
+        "verb_id": "V5-CHE-6281",
+        "spanish": "enga\u00f1ar",
+        "portuguese": "enganar",
+        "italian": "imbrogliare",
+        "french": "tricher",
+        "german": "betr\u00fcgen"
+    },
+    {
+        "id": "MEAN-CHE-5857",
+        "verb_id": "V5-CHE-3364",
+        "spanish": "verificar",
+        "portuguese": "verificar",
+        "italian": "controllare",
+        "french": "v\u00e9rifier",
+        "german": "\u00fcberpr\u00fcfen"
+    },
+    {
+        "id": "MEAN-CLA-9318",
+        "verb_id": "V5-CLA-1348",
+        "spanish": "reclamar",
+        "portuguese": "reivindicar",
+        "italian": "reclamare",
+        "french": "revendiquer",
+        "german": "beanspruchen"
+    },
+    {
+        "id": "MEAN-CLE-5362",
+        "verb_id": "V5-CLE-4400",
+        "spanish": "limpiar",
+        "portuguese": "limpar",
+        "italian": "pulire",
+        "french": "nettoyer",
+        "german": "reinigen"
+    },
+    {
+        "id": "MEAN-CLI-6061",
+        "verb_id": "V5-CLI-5972",
+        "spanish": "escalar",
+        "portuguese": "escalar",
+        "italian": "arrampicare",
+        "french": "grimper",
+        "german": "klettern"
+    },
+    {
+        "id": "MEAN-CLO-1706",
+        "verb_id": "V5-CLO-4517",
+        "spanish": "cerrar",
+        "portuguese": "fechar",
+        "italian": "chiudere",
+        "french": "fermer",
+        "german": "schlie\u00dfen"
+    },
+    {
+        "id": "MEAN-COM-8761",
+        "verb_id": "V4-COM-9907",
+        "spanish": "peinar",
+        "portuguese": "pentear",
+        "italian": "pettinare",
+        "french": "peigner",
+        "german": "k\u00e4mmen"
+    },
+    {
+        "id": "MEAN-COM-9601",
+        "verb_id": "V7-COM-2632",
+        "spanish": "comparar",
+        "portuguese": "comparar",
+        "italian": "confrontare",
+        "french": "comparer",
+        "german": "vergleichen"
+    },
+    {
+        "id": "MEAN-COM-8906",
+        "verb_id": "V6-COM-6056",
+        "spanish": "obligar",
+        "portuguese": "obrigar",
+        "italian": "costringere",
+        "french": "contraindre",
+        "german": "zwingen"
+    },
+    {
+        "id": "MEAN-COM-1235",
+        "verb_id": "V8-COM-4193",
+        "spanish": "quejarse",
+        "portuguese": "reclamar",
+        "italian": "lamentarsi",
+        "french": "se plaindre",
+        "german": "sich beschweren"
+    },
+    {
+        "id": "MEAN-COM-7639",
+        "verb_id": "V8-COM-3624",
+        "spanish": "completar",
+        "portuguese": "completar",
+        "italian": "completare",
+        "french": "compl\u00e9ter",
+        "german": "vollenden"
+    },
+    {
+        "id": "MEAN-CON-1087",
+        "verb_id": "V12-CON-1116",
+        "spanish": "felicitar",
+        "portuguese": "parabenizar",
+        "italian": "congratularsi",
+        "french": "f\u00e9liciter",
+        "german": "gratulieren"
+    },
+    {
+        "id": "MEAN-CON-4592",
+        "verb_id": "V7-CON-3515",
+        "spanish": "consentir",
+        "portuguese": "consentir",
+        "italian": "consentire",
+        "french": "consentir",
+        "german": "zustimmen"
+    },
+    {
+        "id": "MEAN-CON-8495",
+        "verb_id": "V8-CON-5680",
+        "spanish": "considerar",
+        "portuguese": "considerar",
+        "italian": "considerare",
+        "french": "consid\u00e9rer",
+        "german": "betrachten"
+    },
+    {
+        "id": "MEAN-CON-8913",
+        "verb_id": "V8-CON-3026",
+        "spanish": "continuar",
+        "portuguese": "continuar",
+        "italian": "continuare",
+        "french": "continuer",
+        "german": "fortsetzen"
+    },
+    {
+        "id": "MEAN-CON-4356",
+        "verb_id": "V8-CON-9575",
+        "spanish": "convencer",
+        "portuguese": "convencer",
+        "italian": "convincere",
+        "french": "convaincre",
+        "german": "\u00fcberzeugen"
+    },
+    {
+        "id": "MEAN-COO-9950",
+        "verb_id": "V4-COO-7219",
+        "spanish": "cocinar",
+        "portuguese": "cozinhar",
+        "italian": "cucinare",
+        "french": "cuisiner",
+        "german": "kochen"
+    },
+    {
+        "id": "MEAN-COR-6369",
+        "verb_id": "V7-COR-2324",
+        "spanish": "corregir",
+        "portuguese": "corrigir",
+        "italian": "correggere",
+        "french": "corriger",
+        "german": "korrigieren"
+    },
+    {
+        "id": "MEAN-COV-3670",
+        "verb_id": "V5-COV-8452",
+        "spanish": "cubrir",
+        "portuguese": "cobrir",
+        "italian": "coprire",
+        "french": "couvrir",
+        "german": "decken"
+    },
+    {
+        "id": "MEAN-CRO-7953",
+        "verb_id": "V5-CRO-6055",
+        "spanish": "cruzar",
+        "portuguese": "cruzar",
+        "italian": "attraversare",
+        "french": "traverser",
+        "german": "\u00fcberqueren"
+    },
+    {
+        "id": "MEAN-CRY-3834",
+        "verb_id": "V3-CRY-7262",
+        "spanish": "llorar",
+        "portuguese": "chorar",
+        "italian": "piangere",
+        "french": "pleurer",
+        "german": "weinen"
+    },
+    {
+        "id": "MEAN-CUR-2235",
+        "verb_id": "V4-CUR-7740",
+        "spanish": "curar",
+        "portuguese": "curar",
+        "italian": "curare",
+        "french": "gu\u00e9rir",
+        "german": "heilen"
+    },
+    {
+        "id": "MEAN-DAN-8641",
+        "verb_id": "V5-DAN-7176",
+        "spanish": "bailar",
+        "portuguese": "dan\u00e7ar",
+        "italian": "ballare",
+        "french": "danser",
+        "german": "tanzen"
+    },
+    {
+        "id": "MEAN-DAR-8596",
+        "verb_id": "V4-DAR-1964",
+        "spanish": "atreverse",
+        "portuguese": "ousar",
+        "italian": "osare",
+        "french": "oser",
+        "german": "wagen"
+    },
+    {
+        "id": "MEAN-DAT-5292",
+        "verb_id": "V4-DAT-7024",
+        "spanish": "salir",
+        "portuguese": "namorar",
+        "italian": "uscire",
+        "french": "sortir",
+        "german": "datieren"
+    },
+    {
+        "id": "MEAN-DEC-4962",
+        "verb_id": "V6-DEC-3090",
+        "spanish": "decidir",
+        "portuguese": "decidir",
+        "italian": "decidere",
+        "french": "d\u00e9cider",
+        "german": "entscheiden"
+    },
+    {
+        "id": "MEAN-DEC-8341",
+        "verb_id": "V7-DEC-2910",
+        "spanish": "declinar",
+        "portuguese": "declinar",
+        "italian": "declinare",
+        "french": "d\u00e9cliner",
+        "german": "ablehnen"
+    },
+    {
+        "id": "MEAN-DEF-9276",
+        "verb_id": "V6-DEF-4451",
+        "spanish": "defender",
+        "portuguese": "defender",
+        "italian": "difendere",
+        "french": "d\u00e9fendre",
+        "german": "verteidigen"
+    },
+    {
+        "id": "MEAN-DEF-8641",
+        "verb_id": "V5-DEF-5886",
+        "spanish": "aplazar",
+        "portuguese": "adiar",
+        "italian": "rinviare",
+        "french": "diff\u00e9rer",
+        "german": "verschieben"
+    },
+    {
+        "id": "MEAN-DEL-4305",
+        "verb_id": "V5-DEL-8575",
+        "spanish": "retrasar",
+        "portuguese": "atrasar",
+        "italian": "ritardare",
+        "french": "retarder",
+        "german": "verz\u00f6gern"
+    },
+    {
+        "id": "MEAN-DEM-2086",
+        "verb_id": "V6-DEM-3586",
+        "spanish": "exigir",
+        "portuguese": "exigir",
+        "italian": "esigere",
+        "french": "exiger",
+        "german": "fordern"
+    },
+    {
+        "id": "MEAN-DEN-8301",
+        "verb_id": "V4-DEN-5271",
+        "spanish": "negar",
+        "portuguese": "negar",
+        "italian": "negare",
+        "french": "nier",
+        "german": "leugnen"
+    },
+    {
+        "id": "MEAN-DES-8362",
+        "verb_id": "V8-DES-6881",
+        "spanish": "describir",
+        "portuguese": "descrever",
+        "italian": "descrivere",
+        "french": "d\u00e9crire",
+        "german": "beschreiben"
+    },
+    {
+        "id": "MEAN-DES-1075",
+        "verb_id": "V7-DES-6441",
+        "spanish": "merecer",
+        "portuguese": "merecer",
+        "italian": "meritare",
+        "french": "m\u00e9riter",
+        "german": "verdienen"
+    },
+    {
+        "id": "MEAN-DES-7614",
+        "verb_id": "V6-DES-8793",
+        "spanish": "desear",
+        "portuguese": "desejar",
+        "italian": "desiderare",
+        "french": "d\u00e9sirer",
+        "german": "begehren"
+    },
+    {
+        "id": "MEAN-DES-4715",
+        "verb_id": "V7-DES-9729",
+        "spanish": "destruir",
+        "portuguese": "destruir",
+        "italian": "distruggere",
+        "french": "d\u00e9truire",
+        "german": "zerst\u00f6ren"
+    },
+    {
+        "id": "MEAN-DET-2658",
+        "verb_id": "V6-DET-8060",
+        "spanish": "detestar",
+        "portuguese": "detestar",
+        "italian": "detestare",
+        "french": "d\u00e9tester",
+        "german": "verabscheuen"
+    },
+    {
+        "id": "MEAN-DIE-2353",
+        "verb_id": "V3-DIE-3266",
+        "spanish": "morir",
+        "portuguese": "morrer",
+        "italian": "morire",
+        "french": "mourir",
+        "german": "sterben"
+    },
+    {
+        "id": "MEAN-DIS-1981",
+        "verb_id": "V10-DIS-3961",
+        "spanish": "desaprobar",
+        "portuguese": "desaprovar",
+        "italian": "disapprovare",
+        "french": "d\u00e9sapprouver",
+        "german": "missbilligen"
+    },
+    {
+        "id": "MEAN-DIS-4869",
+        "verb_id": "V8-DIS-3845",
+        "spanish": "descubrir",
+        "portuguese": "descobrir",
+        "italian": "scoprire",
+        "french": "d\u00e9couvrir",
+        "german": "entdecken"
+    },
+    {
+        "id": "MEAN-DIS-7284",
+        "verb_id": "V7-DIS-4174",
+        "spanish": "discutir",
+        "portuguese": "discutir",
+        "italian": "discutere",
+        "french": "discuter",
+        "german": "diskutieren"
+    },
+    {
+        "id": "MEAN-DIS-2458",
+        "verb_id": "V7-DIS-9210",
+        "spanish": "disgustar",
+        "portuguese": "desgostar",
+        "italian": "dispiacere",
+        "french": "d\u00e9tester",
+        "german": "nicht m\u00f6gen"
+    },
+    {
+        "id": "MEAN-DOU-3856",
+        "verb_id": "V5-DOU-1013",
+        "spanish": "dudar",
+        "portuguese": "duvidar",
+        "italian": "dubitare",
+        "french": "douter",
+        "german": "zweifeln"
+    },
+    {
+        "id": "MEAN-DRE-6447",
+        "verb_id": "V5-DRE-3158",
+        "spanish": "vestir",
+        "portuguese": "vestir",
+        "italian": "vestire",
+        "french": "habiller",
+        "german": "anziehen"
+    },
+    {
+        "id": "MEAN-ELE-3963",
+        "verb_id": "V5-ELE-5634",
+        "spanish": "elegir",
+        "portuguese": "eleger",
+        "italian": "eleggere",
+        "french": "\u00e9lire",
+        "german": "w\u00e4hlen"
+    },
+    {
+        "id": "MEAN-EMP-3440",
+        "verb_id": "V6-EMP-7697",
+        "spanish": "emplear",
+        "portuguese": "empregar",
+        "italian": "impiegare",
+        "french": "employer",
+        "german": "besch\u00e4ftigen"
+    },
+    {
+        "id": "MEAN-ENC-7156",
+        "verb_id": "V9-ENC-1900",
+        "spanish": "animar",
+        "portuguese": "encorajar",
+        "italian": "incoraggiare",
+        "french": "encourager",
+        "german": "ermutigen"
+    },
+    {
+        "id": "MEAN-END-8622",
+        "verb_id": "V3-END-8615",
+        "spanish": "terminar",
+        "portuguese": "terminar",
+        "italian": "finire",
+        "french": "finir",
+        "german": "enden"
+    },
+    {
+        "id": "MEAN-END-5202",
+        "verb_id": "V6-END-1850",
+        "spanish": "soportar",
+        "portuguese": "suportar",
+        "italian": "sopportare",
+        "french": "endurer",
+        "german": "ertragen"
+    },
+    {
+        "id": "MEAN-ENJ-8953",
+        "verb_id": "V5-ENJ-1690",
+        "spanish": "disfrutar",
+        "portuguese": "desfrutar",
+        "italian": "godere",
+        "french": "profiter",
+        "german": "genie\u00dfen"
+    },
+    {
+        "id": "MEAN-ENT-3470",
+        "verb_id": "V5-ENT-2186",
+        "spanish": "entrar",
+        "portuguese": "entrar",
+        "italian": "entrare",
+        "french": "entrer",
+        "german": "betreten"
+    },
+    {
+        "id": "MEAN-ERA-7989",
+        "verb_id": "V5-ERA-2793",
+        "spanish": "borrar",
+        "portuguese": "apagar",
+        "italian": "cancellare",
+        "french": "effacer",
+        "german": "l\u00f6schen"
+    },
+    {
+        "id": "MEAN-ESC-3457",
+        "verb_id": "V6-ESC-2252",
+        "spanish": "escapar",
+        "portuguese": "escapar",
+        "italian": "fuggire",
+        "french": "\u00e9chapper",
+        "german": "entkommen"
+    },
+    {
+        "id": "MEAN-EXC-5860",
+        "verb_id": "V7-EXC-2940",
+        "spanish": "exclamar",
+        "portuguese": "exclamar",
+        "italian": "esclamare",
+        "french": "s'exclamer",
+        "german": "ausrufen"
+    },
+    {
+        "id": "MEAN-EXC-8760",
+        "verb_id": "V6-EXC-7140",
+        "spanish": "disculpar",
+        "portuguese": "desculpar",
+        "italian": "scusare",
+        "french": "excuser",
+        "german": "entschuldigen"
+    },
+    {
+        "id": "MEAN-EXP-6602",
+        "verb_id": "V6-EXP-5419",
+        "spanish": "esperar",
+        "portuguese": "esperar",
+        "italian": "aspettare",
+        "french": "attendre",
+        "german": "erwarten"
+    },
+    {
+        "id": "MEAN-EXP-9984",
+        "verb_id": "V7-EXP-7075",
+        "spanish": "explicar",
+        "portuguese": "explicar",
+        "italian": "spiegare",
+        "french": "expliquer",
+        "german": "erkl\u00e4ren"
+    },
+    {
+        "id": "MEAN-EXP-6078",
+        "verb_id": "V7-EXP-2188",
+        "spanish": "expresar",
+        "portuguese": "expressar",
+        "italian": "esprimere",
+        "french": "exprimer",
+        "german": "ausdr\u00fccken"
+    },
+    {
+        "id": "MEAN-FAI-7015",
+        "verb_id": "V4-FAI-9572",
+        "spanish": "fallar",
+        "portuguese": "falhar",
+        "italian": "fallire",
+        "french": "\u00e9chouer",
+        "german": "scheitern"
+    },
+    {
+        "id": "MEAN-FIN-4509",
+        "verb_id": "V6-FIN-5598",
+        "spanish": "terminar",
+        "portuguese": "terminar",
+        "italian": "finire",
+        "french": "finir",
+        "german": "beenden"
+    },
+    {
+        "id": "MEAN-FIT-3789",
+        "verb_id": "V3-FIT-1069",
+        "spanish": "caber",
+        "portuguese": "caber",
+        "italian": "stare",
+        "french": "convenir",
+        "german": "passen"
+    },
+    {
+        "id": "MEAN-FOL-5838",
+        "verb_id": "V6-FOL-1497",
+        "spanish": "seguir",
+        "portuguese": "seguir",
+        "italian": "seguire",
+        "french": "suivre",
+        "german": "folgen"
+    },
+    {
+        "id": "MEAN-FOR-7448",
+        "verb_id": "V5-FOR-7914",
+        "spanish": "forzar",
+        "portuguese": "for\u00e7ar",
+        "italian": "forzare",
+        "french": "forcer",
+        "german": "zwingen"
+    },
+    {
+        "id": "MEAN-FOR-2238",
+        "verb_id": "V4-FOR-5837",
+        "spanish": "formar",
+        "portuguese": "formar",
+        "italian": "formare",
+        "french": "former",
+        "german": "formen"
+    },
+    {
+        "id": "MEAN-FRY-5590",
+        "verb_id": "V3-FRY-4387",
+        "spanish": "fre\u00edr",
+        "portuguese": "fritar",
+        "italian": "friggere",
+        "french": "frire",
+        "german": "braten"
+    },
+    {
+        "id": "MEAN-GAT-8100",
+        "verb_id": "V6-GAT-5605",
+        "spanish": "reunir",
+        "portuguese": "reunir",
+        "italian": "riunire",
+        "french": "rassembler",
+        "german": "sammeln"
+    },
+    {
+        "id": "MEAN-GOV-8209",
+        "verb_id": "V6-GOV-3582",
+        "spanish": "gobernar",
+        "portuguese": "governar",
+        "italian": "governare",
+        "french": "gouverner",
+        "german": "regieren"
+    },
+    {
+        "id": "MEAN-GRE-3373",
+        "verb_id": "V5-GRE-9765",
+        "spanish": "saludar",
+        "portuguese": "cumprimentar",
+        "italian": "salutare",
+        "french": "saluer",
+        "german": "gr\u00fc\u00dfen"
+    },
+    {
+        "id": "MEAN-GUA-7647",
+        "verb_id": "V9-GUA-3282",
+        "spanish": "garantizar",
+        "portuguese": "garantir",
+        "italian": "garantire",
+        "french": "garantir",
+        "german": "garantieren"
+    },
+    {
+        "id": "MEAN-HAP-2620",
+        "verb_id": "V6-HAP-6408",
+        "spanish": "suceder",
+        "portuguese": "acontecer",
+        "italian": "accadere",
+        "french": "arriver",
+        "german": "geschehen"
+    },
+    {
+        "id": "MEAN-HAT-1398",
+        "verb_id": "V4-HAT-3326",
+        "spanish": "odiar",
+        "portuguese": "odiar",
+        "italian": "odiare",
+        "french": "d\u00e9tester",
+        "german": "hassen"
+    },
+    {
+        "id": "MEAN-HEA-4442",
+        "verb_id": "V4-HEA-9078",
+        "spanish": "dirigir",
+        "portuguese": "dirigir",
+        "italian": "dirigere",
+        "french": "diriger",
+        "german": "leiten"
+    },
+    {
+        "id": "MEAN-HEL-7517",
+        "verb_id": "V4-HEL-3592",
+        "spanish": "ayudar",
+        "portuguese": "ajudar",
+        "italian": "aiutare",
+        "french": "aider",
+        "german": "helfen"
+    },
+    {
+        "id": "MEAN-HES-4293",
+        "verb_id": "V8-HES-8095",
+        "spanish": "vacilar",
+        "portuguese": "hesitar",
+        "italian": "esitare",
+        "french": "h\u00e9siter",
+        "german": "z\u00f6gern"
+    },
+    {
+        "id": "MEAN-HIR-4360",
+        "verb_id": "V4-HIR-7358",
+        "spanish": "contratar",
+        "portuguese": "contratar",
+        "italian": "assumere",
+        "french": "embaucher",
+        "german": "einstellen"
+    },
+    {
+        "id": "MEAN-HOP-2315",
+        "verb_id": "V4-HOP-3125",
+        "spanish": "esperar",
+        "portuguese": "esperar",
+        "italian": "sperare",
+        "french": "esp\u00e9rer",
+        "german": "hoffen"
+    },
+    {
+        "id": "MEAN-HUR-9623",
+        "verb_id": "V5-HUR-7031",
+        "spanish": "apresurarse",
+        "portuguese": "apressar-se",
+        "italian": "affrettarsi",
+        "french": "se d\u00e9p\u00eacher",
+        "german": "sich beeilen"
+    },
+    {
+        "id": "MEAN-IGN-4486",
+        "verb_id": "V6-IGN-2439",
+        "spanish": "ignorar",
+        "portuguese": "ignorar",
+        "italian": "ignorare",
+        "french": "ignorer",
+        "german": "ignorieren"
+    },
+    {
+        "id": "MEAN-IMA-9709",
+        "verb_id": "V7-IMA-7925",
+        "spanish": "imaginar",
+        "portuguese": "imaginar",
+        "italian": "immaginare",
+        "french": "imaginer",
+        "german": "sich vorstellen"
+    },
+    {
+        "id": "MEAN-IMP-7054",
+        "verb_id": "V7-IMP-8349",
+        "spanish": "implorar",
+        "portuguese": "implorar",
+        "italian": "implorare",
+        "french": "implorer",
+        "german": "anflehen"
+    },
+    {
+        "id": "MEAN-INC-9341",
+        "verb_id": "V6-INC-8848",
+        "spanish": "incitar",
+        "portuguese": "incitar",
+        "italian": "incitare",
+        "french": "inciter",
+        "german": "anstiften"
+    },
+    {
+        "id": "MEAN-INS-5906",
+        "verb_id": "V6-INS-7241",
+        "spanish": "insistir",
+        "portuguese": "insistir",
+        "italian": "insistere",
+        "french": "insister",
+        "german": "bestehen"
+    },
+    {
+        "id": "MEAN-INS-1644",
+        "verb_id": "V8-INS-8276",
+        "spanish": "instruir",
+        "portuguese": "instruir",
+        "italian": "istruire",
+        "french": "instruire",
+        "german": "anweisen"
+    },
+    {
+        "id": "MEAN-INT-2621",
+        "verb_id": "V6-INT-8400",
+        "spanish": "intentar",
+        "portuguese": "pretender",
+        "italian": "intendere",
+        "french": "avoir l'intention",
+        "german": "beabsichtigen"
+    },
+    {
+        "id": "MEAN-INT-3338",
+        "verb_id": "V9-INT-5531",
+        "spanish": "interrumpir",
+        "portuguese": "interromper",
+        "italian": "interrompere",
+        "french": "interrompre",
+        "german": "unterbrechen"
+    },
+    {
+        "id": "MEAN-INT-1955",
+        "verb_id": "V9-INT-8077",
+        "spanish": "introducir",
+        "portuguese": "introduzir",
+        "italian": "introdurre",
+        "french": "introduire",
+        "german": "einf\u00fchren"
+    },
+    {
+        "id": "MEAN-INV-5563",
+        "verb_id": "V6-INV-5600",
+        "spanish": "inventar",
+        "portuguese": "inventar",
+        "italian": "inventare",
+        "french": "inventer",
+        "german": "erfinden"
+    },
+    {
+        "id": "MEAN-INV-4257",
+        "verb_id": "V6-INV-2095",
+        "spanish": "invitar",
+        "portuguese": "convidar",
+        "italian": "invitare",
+        "french": "inviter",
+        "german": "einladen"
+    },
+    {
+        "id": "MEAN-INV-4524",
+        "verb_id": "V7-INV-3780",
+        "spanish": "involucrar",
+        "portuguese": "envolver",
+        "italian": "coinvolgere",
+        "french": "impliquer",
+        "german": "einbeziehen"
+    },
+    {
+        "id": "MEAN-JOG-6504",
+        "verb_id": "V3-JOG-5899",
+        "spanish": "trotar",
+        "portuguese": "correr",
+        "italian": "fare jogging",
+        "french": "faire du jogging",
+        "german": "joggen"
+    },
+    {
+        "id": "MEAN-JUM-5123",
+        "verb_id": "V4-JUM-7669",
+        "spanish": "saltar",
+        "portuguese": "pular",
+        "italian": "saltare",
+        "french": "sauter",
+        "german": "springen"
+    },
+    {
+        "id": "MEAN-KIL-3349",
+        "verb_id": "V4-KIL-3878",
+        "spanish": "matar",
+        "portuguese": "matar",
+        "italian": "uccidere",
+        "french": "tuer",
+        "german": "t\u00f6ten"
+    },
+    {
+        "id": "MEAN-KIS-1993",
+        "verb_id": "V4-KIS-8569",
+        "spanish": "besar",
+        "portuguese": "beijar",
+        "italian": "baciare",
+        "french": "embrasser",
+        "german": "k\u00fcssen"
+    },
+    {
+        "id": "MEAN-KNO-2660",
+        "verb_id": "V5-KNO-4374",
+        "spanish": "golpear",
+        "portuguese": "bater",
+        "italian": "bussare",
+        "french": "frapper",
+        "german": "klopfen"
+    },
+    {
+        "id": "MEAN-LAS-3478",
+        "verb_id": "V4-LAS-6414",
+        "spanish": "durar",
+        "portuguese": "durar",
+        "italian": "durare",
+        "french": "durer",
+        "german": "dauern"
+    },
+    {
+        "id": "MEAN-LAU-3962",
+        "verb_id": "V5-LAU-6231",
+        "spanish": "re\u00edr",
+        "portuguese": "rir",
+        "italian": "ridere",
+        "french": "rire",
+        "german": "lachen"
+    },
+    {
+        "id": "MEAN-LEA-1243",
+        "verb_id": "V4-LEA-1267",
+        "spanish": "liderar",
+        "portuguese": "liderar",
+        "italian": "guidare",
+        "french": "conduire",
+        "german": "f\u00fchren"
+    },
+    {
+        "id": "MEAN-LIE-3564",
+        "verb_id": "V3-LIE-8142",
+        "spanish": "mentir",
+        "portuguese": "mentir",
+        "italian": "mentire",
+        "french": "mentir",
+        "german": "l\u00fcgen"
+    },
+    {
+        "id": "MEAN-LIF-5977",
+        "verb_id": "V4-LIF-4573",
+        "spanish": "levantar",
+        "portuguese": "levantar",
+        "italian": "sollevare",
+        "french": "soulever",
+        "german": "heben"
+    },
+    {
+        "id": "MEAN-LIK-1444",
+        "verb_id": "V4-LIK-2590",
+        "spanish": "gustar",
+        "portuguese": "gostar",
+        "italian": "piacere",
+        "french": "aimer",
+        "german": "m\u00f6gen"
+    },
+    {
+        "id": "MEAN-LIS-3600",
+        "verb_id": "V6-LIS-1454",
+        "spanish": "escuchar",
+        "portuguese": "ouvir",
+        "italian": "ascoltare",
+        "french": "\u00e9couter",
+        "german": "zuh\u00f6ren"
+    },
+    {
+        "id": "MEAN-LIV-9159",
+        "verb_id": "V4-LIV-5275",
+        "spanish": "vivir",
+        "portuguese": "viver",
+        "italian": "vivere",
+        "french": "vivre",
+        "german": "leben"
+    },
+    {
+        "id": "MEAN-LOO-1917",
+        "verb_id": "V4-LOO-9283",
+        "spanish": "mirar",
+        "portuguese": "olhar",
+        "italian": "guardare",
+        "french": "regarder",
+        "german": "schauen"
+    },
+    {
+        "id": "MEAN-LOO-3097",
+        "verb_id": "V5-LOO-8185",
+        "spanish": "perder",
+        "portuguese": "perder",
+        "italian": "perdere",
+        "french": "perdre",
+        "german": "verlieren"
+    },
+    {
+        "id": "MEAN-LOV-1895",
+        "verb_id": "V4-LOV-4527",
+        "spanish": "amar",
+        "portuguese": "amar",
+        "italian": "amare",
+        "french": "aimer",
+        "german": "lieben"
+    },
+    {
+        "id": "MEAN-MAI-6483",
+        "verb_id": "V4-MAI-4860",
+        "spanish": "enviar por correo",
+        "portuguese": "enviar por correio",
+        "italian": "inviare per posta",
+        "french": "envoyer par la poste",
+        "german": "per Post senden"
+    },
+    {
+        "id": "MEAN-MAR-1514",
+        "verb_id": "V5-MAR-8772",
+        "spanish": "casarse",
+        "portuguese": "casar",
+        "italian": "sposare",
+        "french": "se marier",
+        "german": "heiraten"
+    },
+    {
+        "id": "MEAN-MAT-4539",
+        "verb_id": "V5-MAT-7398",
+        "spanish": "coincidir",
+        "portuguese": "combinar",
+        "italian": "corrispondere",
+        "french": "correspondre",
+        "german": "passen"
+    },
+    {
+        "id": "MEAN-MAT-5805",
+        "verb_id": "V6-MAT-9901",
+        "spanish": "importar",
+        "portuguese": "importar",
+        "italian": "importare",
+        "french": "importer",
+        "german": "bedeuten"
+    },
+    {
+        "id": "MEAN-MEA-2054",
+        "verb_id": "V7-MEA-7824",
+        "spanish": "medir",
+        "portuguese": "medir",
+        "italian": "misurare",
+        "french": "mesurer",
+        "german": "messen"
+    },
+    {
+        "id": "MEAN-MEN-1570",
+        "verb_id": "V7-MEN-8529",
+        "spanish": "mencionar",
+        "portuguese": "mencionar",
+        "italian": "menzionare",
+        "french": "mentionner",
+        "german": "erw\u00e4hnen"
+    },
+    {
+        "id": "MEAN-MIN-4563",
+        "verb_id": "V4-MIN-1635",
+        "spanish": "importar",
+        "portuguese": "importar-se",
+        "italian": "importare",
+        "french": "faire attention",
+        "german": "beachten"
+    },
+    {
+        "id": "MEAN-MIS-3998",
+        "verb_id": "V4-MIS-6051",
+        "spanish": "extra\u00f1ar",
+        "portuguese": "sentir falta",
+        "italian": "mancare",
+        "french": "manquer",
+        "german": "vermissen"
+    },
+    {
+        "id": "MEAN-MOV-8750",
+        "verb_id": "V4-MOV-2335",
+        "spanish": "mover",
+        "portuguese": "mover",
+        "italian": "muovere",
+        "french": "bouger",
+        "german": "bewegen"
+    },
+    {
+        "id": "MEAN-NEE-9317",
+        "verb_id": "V4-NEE-8431",
+        "spanish": "necesitar",
+        "portuguese": "precisar",
+        "italian": "avere bisogno",
+        "french": "avoir besoin",
+        "german": "brauchen"
+    },
+    {
+        "id": "MEAN-NEG-2921",
+        "verb_id": "V7-NEG-6841",
+        "spanish": "descuidar",
+        "portuguese": "negligenciar",
+        "italian": "trascurare",
+        "french": "n\u00e9gliger",
+        "german": "vernachl\u00e4ssigen"
+    },
+    {
+        "id": "MEAN-OBE-2978",
+        "verb_id": "V4-OBE-9875",
+        "spanish": "obedecer",
+        "portuguese": "obedecer",
+        "italian": "obbedire",
+        "french": "ob\u00e9ir",
+        "german": "gehorchen"
+    },
+    {
+        "id": "MEAN-OBS-6381",
+        "verb_id": "V7-OBS-2821",
+        "spanish": "observar",
+        "portuguese": "observar",
+        "italian": "osservare",
+        "french": "observer",
+        "german": "beobachten"
+    },
+    {
+        "id": "MEAN-OFF-2844",
+        "verb_id": "V5-OFF-6885",
+        "spanish": "ofrecer",
+        "portuguese": "oferecer",
+        "italian": "offrire",
+        "french": "offrir",
+        "german": "anbieten"
+    },
+    {
+        "id": "MEAN-OMI-2608",
+        "verb_id": "V4-OMI-4620",
+        "spanish": "omitir",
+        "portuguese": "omitir",
+        "italian": "omettere",
+        "french": "omettre",
+        "german": "auslassen"
+    },
+    {
+        "id": "MEAN-OPE-1024",
+        "verb_id": "V4-OPE-6614",
+        "spanish": "abrir",
+        "portuguese": "abrir",
+        "italian": "aprire",
+        "french": "ouvrir",
+        "german": "\u00f6ffnen"
+    },
+    {
+        "id": "MEAN-ORD-6570",
+        "verb_id": "V5-ORD-3072",
+        "spanish": "ordenar",
+        "portuguese": "ordenar",
+        "italian": "ordinare",
+        "french": "commander",
+        "german": "bestellen"
+    },
+    {
+        "id": "MEAN-ORG-2580",
+        "verb_id": "V8-ORG-7588",
+        "spanish": "organizar",
+        "portuguese": "organizar",
+        "italian": "organizzare",
+        "french": "organiser",
+        "german": "organisieren"
+    },
+    {
+        "id": "MEAN-OUT-9942",
+        "verb_id": "V7-OUT-3034",
+        "spanish": "esbozar",
+        "portuguese": "esbo\u00e7ar",
+        "italian": "delineare",
+        "french": "esquisser",
+        "german": "umrei\u00dfen"
+    },
+    {
+        "id": "MEAN-OWN-8757",
+        "verb_id": "V3-OWN-3823",
+        "spanish": "poseer",
+        "portuguese": "possuir",
+        "italian": "possedere",
+        "french": "poss\u00e9der",
+        "german": "besitzen"
+    },
+    {
+        "id": "MEAN-PAI-5018",
+        "verb_id": "V5-PAI-1970",
+        "spanish": "pintar",
+        "portuguese": "pintar",
+        "italian": "dipingere",
+        "french": "peindre",
+        "german": "malen"
+    },
+    {
+        "id": "MEAN-PAR-3486",
+        "verb_id": "V6-PAR-6249",
+        "spanish": "perdonar",
+        "portuguese": "perdoar",
+        "italian": "perdonare",
+        "french": "pardonner",
+        "german": "verzeihen"
+    },
+    {
+        "id": "MEAN-PAR-2176",
+        "verb_id": "V4-PAR-9043",
+        "spanish": "estacionar",
+        "portuguese": "estacionar",
+        "italian": "parcheggiare",
+        "french": "stationner",
+        "german": "parken"
+    },
+    {
+        "id": "MEAN-PAS-6042",
+        "verb_id": "V4-PAS-6437",
+        "spanish": "pasar",
+        "portuguese": "passar",
+        "italian": "passare",
+        "french": "passer",
+        "german": "vorbeigehen"
+    },
+    {
+        "id": "MEAN-PER-1597",
+        "verb_id": "V6-PER-2580",
+        "spanish": "permitir",
+        "portuguese": "permitir",
+        "italian": "permettere",
+        "french": "permettre",
+        "german": "erlauben"
+    },
+    {
+        "id": "MEAN-PHO-8783",
+        "verb_id": "V5-PHO-2574",
+        "spanish": "telefonear",
+        "portuguese": "telefonar",
+        "italian": "telefonare",
+        "french": "t\u00e9l\u00e9phoner",
+        "german": "anrufen"
+    },
+    {
+        "id": "MEAN-PLA-9976",
+        "verb_id": "V5-PLA-3247",
+        "spanish": "colocar",
+        "portuguese": "colocar",
+        "italian": "posizionare",
+        "french": "placer",
+        "german": "platzieren"
+    },
+    {
+        "id": "MEAN-PLA-1309",
+        "verb_id": "V4-PLA-8324",
+        "spanish": "planear",
+        "portuguese": "planejar",
+        "italian": "pianificare",
+        "french": "planifier",
+        "german": "planen"
+    },
+    {
+        "id": "MEAN-PLA-9547",
+        "verb_id": "V5-PLA-2164",
+        "spanish": "plantar",
+        "portuguese": "plantar",
+        "italian": "piantare",
+        "french": "planter",
+        "german": "pflanzen"
+    },
+    {
+        "id": "MEAN-PLA-3133",
+        "verb_id": "V4-PLA-6731",
+        "spanish": "jugar",
+        "portuguese": "jogar",
+        "italian": "giocare",
+        "french": "jouer",
+        "german": "spielen"
+    },
+    {
+        "id": "MEAN-PLE-8460",
+        "verb_id": "V6-PLE-1012",
+        "spanish": "complacer",
+        "portuguese": "agradar",
+        "italian": "piacere",
+        "french": "plaire",
+        "german": "gefallen"
+    },
+    {
+        "id": "MEAN-POI-4590",
+        "verb_id": "V5-POI-3754",
+        "spanish": "se\u00f1alar",
+        "portuguese": "apontar",
+        "italian": "indicare",
+        "french": "pointer",
+        "german": "zeigen"
+    },
+    {
+        "id": "MEAN-POS-5581",
+        "verb_id": "V4-POS-6171",
+        "spanish": "publicar",
+        "portuguese": "postar",
+        "italian": "postare",
+        "french": "poster",
+        "german": "posten"
+    },
+    {
+        "id": "MEAN-POS-1047",
+        "verb_id": "V8-POS-6324",
+        "spanish": "posponer",
+        "portuguese": "adiar",
+        "italian": "rimandare",
+        "french": "reporter",
+        "german": "verschieben"
+    },
+    {
+        "id": "MEAN-PRA-4992",
+        "verb_id": "V8-PRA-8015",
+        "spanish": "practicar",
+        "portuguese": "praticar",
+        "italian": "praticare",
+        "french": "pratiquer",
+        "german": "\u00fcben"
+    },
+    {
+        "id": "MEAN-PRA-7498",
+        "verb_id": "V4-PRA-1049",
+        "spanish": "rezar",
+        "portuguese": "rezar",
+        "italian": "pregare",
+        "french": "prier",
+        "german": "beten"
+    },
+    {
+        "id": "MEAN-PRE-4955",
+        "verb_id": "V6-PRE-3100",
+        "spanish": "preferir",
+        "portuguese": "preferir",
+        "italian": "preferire",
+        "french": "pr\u00e9f\u00e9rer",
+        "german": "bevorzugen"
+    },
+    {
+        "id": "MEAN-PRE-6336",
+        "verb_id": "V7-PRE-3341",
+        "spanish": "preparar",
+        "portuguese": "preparar",
+        "italian": "preparare",
+        "french": "pr\u00e9parer",
+        "german": "vorbereiten"
+    },
+    {
+        "id": "MEAN-PRE-6000",
+        "verb_id": "V7-PRE-6969",
+        "spanish": "fingir",
+        "portuguese": "fingir",
+        "italian": "fingere",
+        "french": "pr\u00e9tendre",
+        "german": "vorgeben"
+    },
+    {
+        "id": "MEAN-PRE-5413",
+        "verb_id": "V7-PRE-8471",
+        "spanish": "prevenir",
+        "portuguese": "prevenir",
+        "italian": "prevenire",
+        "french": "pr\u00e9venir",
+        "german": "verhindern"
+    },
+    {
+        "id": "MEAN-PRO-7846",
+        "verb_id": "V7-PRO-5497",
+        "spanish": "prometer",
+        "portuguese": "prometer",
+        "italian": "promettere",
+        "french": "promettre",
+        "german": "versprechen"
+    },
+    {
+        "id": "MEAN-PRO-6800",
+        "verb_id": "V7-PRO-8718",
+        "spanish": "proponer",
+        "portuguese": "propor",
+        "italian": "proporre",
+        "french": "proposer",
+        "german": "vorschlagen"
+    },
+    {
+        "id": "MEAN-PUB-2476",
+        "verb_id": "V7-PUB-7633",
+        "spanish": "publicar",
+        "portuguese": "publicar",
+        "italian": "pubblicare",
+        "french": "publier",
+        "german": "ver\u00f6ffentlichen"
+    },
+    {
+        "id": "MEAN-PUL-2346",
+        "verb_id": "V4-PUL-3871",
+        "spanish": "tirar",
+        "portuguese": "puxar",
+        "italian": "tirare",
+        "french": "tirer",
+        "german": "ziehen"
+    },
+    {
+        "id": "MEAN-PUN-4515",
+        "verb_id": "V6-PUN-5791",
+        "spanish": "castigar",
+        "portuguese": "punir",
+        "italian": "punire",
+        "french": "punir",
+        "german": "bestrafen"
+    },
+    {
+        "id": "MEAN-PUS-5935",
+        "verb_id": "V4-PUS-2800",
+        "spanish": "empujar",
+        "portuguese": "empurrar",
+        "italian": "spingere",
+        "french": "pousser",
+        "german": "dr\u00fccken"
+    },
+    {
+        "id": "MEAN-QUA-7445",
+        "verb_id": "V7-QUA-7073",
+        "spanish": "pelear",
+        "portuguese": "discutir",
+        "italian": "litigare",
+        "french": "se quereller",
+        "german": "streiten"
+    },
+    {
+        "id": "MEAN-RAI-9466",
+        "verb_id": "V4-RAI-8785",
+        "spanish": "llover",
+        "portuguese": "chover",
+        "italian": "piovere",
+        "french": "pleuvoir",
+        "german": "regnen"
+    },
+    {
+        "id": "MEAN-REA-4971",
+        "verb_id": "V5-REA-7631",
+        "spanish": "alcanzar",
+        "portuguese": "alcan\u00e7ar",
+        "italian": "raggiungere",
+        "french": "atteindre",
+        "german": "erreichen"
+    },
+    {
+        "id": "MEAN-REC-7588",
+        "verb_id": "V6-REC-6296",
+        "spanish": "recordar",
+        "portuguese": "recordar",
+        "italian": "ricordare",
+        "french": "rappeler",
+        "german": "erinnern"
+    },
+    {
+        "id": "MEAN-REC-5931",
+        "verb_id": "V7-REC-2521",
+        "spanish": "recibir",
+        "portuguese": "receber",
+        "italian": "ricevere",
+        "french": "recevoir",
+        "german": "erhalten"
+    },
+    {
+        "id": "MEAN-REC-3606",
+        "verb_id": "V9-REC-4277",
+        "spanish": "recordar",
+        "portuguese": "recordar",
+        "italian": "ricordare",
+        "french": "se souvenir",
+        "german": "sich erinnern"
+    },
+    {
+        "id": "MEAN-REC-9286",
+        "verb_id": "V9-REC-7801",
+        "spanish": "recomendar",
+        "portuguese": "recomendar",
+        "italian": "raccomandare",
+        "french": "recommander",
+        "german": "empfehlen"
+    },
+    {
+        "id": "MEAN-REC-6264",
+        "verb_id": "V6-REC-1638",
+        "spanish": "grabar",
+        "portuguese": "gravar",
+        "italian": "registrare",
+        "french": "enregistrer",
+        "german": "aufnehmen"
+    },
+    {
+        "id": "MEAN-REF-1790",
+        "verb_id": "V6-REF-4690",
+        "spanish": "rechazar",
+        "portuguese": "recusar",
+        "italian": "rifiutare",
+        "french": "refuser",
+        "german": "ablehnen"
+    },
+    {
+        "id": "MEAN-REG-6004",
+        "verb_id": "V6-REG-2302",
+        "spanish": "lamentar",
+        "portuguese": "lamentar",
+        "italian": "rimpiangere",
+        "french": "regretter",
+        "german": "bedauern"
+    },
+    {
+        "id": "MEAN-REJ-4135",
+        "verb_id": "V6-REJ-3381",
+        "spanish": "rechazar",
+        "portuguese": "rejeitar",
+        "italian": "rifiutare",
+        "french": "rejeter",
+        "german": "ablehnen"
+    },
+    {
+        "id": "MEAN-REM-8529",
+        "verb_id": "V6-REM-5344",
+        "spanish": "permanecer",
+        "portuguese": "permanecer",
+        "italian": "rimanere",
+        "french": "rester",
+        "german": "bleiben"
+    },
+    {
+        "id": "MEAN-REM-3049",
+        "verb_id": "V8-REM-5482",
+        "spanish": "recordar",
+        "portuguese": "lembrar",
+        "italian": "ricordare",
+        "french": "se souvenir",
+        "german": "erinnern"
+    },
+    {
+        "id": "MEAN-REM-1639",
+        "verb_id": "V6-REM-6130",
+        "spanish": "recordar",
+        "portuguese": "lembrar",
+        "italian": "ricordare",
+        "french": "rappeler",
+        "german": "erinnern"
+    },
+    {
+        "id": "MEAN-REM-8111",
+        "verb_id": "V6-REM-6417",
+        "spanish": "quitar",
+        "portuguese": "remover",
+        "italian": "rimuovere",
+        "french": "enlever",
+        "german": "entfernen"
+    },
+    {
+        "id": "MEAN-REP-8136",
+        "verb_id": "V6-REP-5595",
+        "spanish": "repetir",
+        "portuguese": "repetir",
+        "italian": "ripetere",
+        "french": "r\u00e9p\u00e9ter",
+        "german": "wiederholen"
+    },
+    {
+        "id": "MEAN-RES-7336",
+        "verb_id": "V6-RES-2707",
+        "spanish": "resentir",
+        "portuguese": "ressentir",
+        "italian": "risentire",
+        "french": "ressentir",
+        "german": "grollen"
+    },
+    {
+        "id": "MEAN-RES-3964",
+        "verb_id": "V6-RES-2943",
+        "spanish": "resistir",
+        "portuguese": "resistir",
+        "italian": "resistere",
+        "french": "r\u00e9sister",
+        "german": "widerstehen"
+    },
+    {
+        "id": "MEAN-RES-8555",
+        "verb_id": "V7-RES-3624",
+        "spanish": "resolver",
+        "portuguese": "resolver",
+        "italian": "risolvere",
+        "french": "r\u00e9soudre",
+        "german": "l\u00f6sen"
+    },
+    {
+        "id": "MEAN-RES-1513",
+        "verb_id": "V7-RES-7187",
+        "spanish": "responder",
+        "portuguese": "responder",
+        "italian": "rispondere",
+        "french": "r\u00e9pondre",
+        "german": "antworten"
+    },
+    {
+        "id": "MEAN-RES-9108",
+        "verb_id": "V4-RES-2508",
+        "spanish": "descansar",
+        "portuguese": "descansar",
+        "italian": "riposare",
+        "french": "reposer",
+        "german": "ruhen"
+    },
+    {
+        "id": "MEAN-RES-6503",
+        "verb_id": "V6-RES-2778",
+        "spanish": "reanudar",
+        "portuguese": "retomar",
+        "italian": "riprendere",
+        "french": "reprendre",
+        "german": "fortsetzen"
+    },
+    {
+        "id": "MEAN-RET-4897",
+        "verb_id": "V6-RET-7638",
+        "spanish": "regresar",
+        "portuguese": "retornar",
+        "italian": "ritornare",
+        "french": "retourner",
+        "german": "zur\u00fcckkehren"
+    },
+    {
+        "id": "MEAN-RIS-8779",
+        "verb_id": "V4-RIS-7047",
+        "spanish": "arriesgar",
+        "portuguese": "arriscar",
+        "italian": "rischiare",
+        "french": "risquer",
+        "german": "riskieren"
+    },
+    {
+        "id": "MEAN-RUL-3401",
+        "verb_id": "V4-RUL-3372",
+        "spanish": "gobernar",
+        "portuguese": "governar",
+        "italian": "governare",
+        "french": "gouverner",
+        "german": "regieren"
+    },
+    {
+        "id": "MEAN-SAI-1961",
+        "verb_id": "V4-SAI-8186",
+        "spanish": "navegar",
+        "portuguese": "navegar",
+        "italian": "navigare",
+        "french": "naviguer",
+        "german": "segeln"
+    },
+    {
+        "id": "MEAN-SAT-1718",
+        "verb_id": "V7-SAT-4025",
+        "spanish": "satisfacer",
+        "portuguese": "satisfazer",
+        "italian": "soddisfare",
+        "french": "satisfaire",
+        "german": "befriedigen"
+    },
+    {
+        "id": "MEAN-SAV-3630",
+        "verb_id": "V4-SAV-2081",
+        "spanish": "guardar",
+        "portuguese": "salvar",
+        "italian": "salvare",
+        "french": "sauver",
+        "german": "retten"
+    },
+    {
+        "id": "MEAN-SCO-7065",
+        "verb_id": "V5-SCO-9550",
+        "spanish": "rega\u00f1ar",
+        "portuguese": "repreender",
+        "italian": "sgridare",
+        "french": "gronder",
+        "german": "schimpfen"
+    },
+    {
+        "id": "MEAN-SEE-1594",
+        "verb_id": "V4-SEE-8545",
+        "spanish": "parecer",
+        "portuguese": "parecer",
+        "italian": "sembrare",
+        "french": "sembler",
+        "german": "scheinen"
+    },
+    {
+        "id": "MEAN-SEL-1751",
+        "verb_id": "V6-SEL-7682",
+        "spanish": "seleccionar",
+        "portuguese": "selecionar",
+        "italian": "selezionare",
+        "french": "s\u00e9lectionner",
+        "german": "ausw\u00e4hlen"
+    },
+    {
+        "id": "MEAN-SER-4317",
+        "verb_id": "V5-SER-2436",
+        "spanish": "servir",
+        "portuguese": "servir",
+        "italian": "servire",
+        "french": "servir",
+        "german": "dienen"
+    },
+    {
+        "id": "MEAN-SHA-6300",
+        "verb_id": "V5-SHA-4084",
+        "spanish": "compartir",
+        "portuguese": "compartilhar",
+        "italian": "condividere",
+        "french": "partager",
+        "german": "teilen"
+    },
+    {
+        "id": "MEAN-SHA-9421",
+        "verb_id": "V5-SHA-2093",
+        "spanish": "afeitar",
+        "portuguese": "barbear",
+        "italian": "radere",
+        "french": "raser",
+        "german": "rasieren"
+    },
+    {
+        "id": "MEAN-SHO-8221",
+        "verb_id": "V4-SHO-1615",
+        "spanish": "mostrar",
+        "portuguese": "mostrar",
+        "italian": "mostrare",
+        "french": "montrer",
+        "german": "zeigen"
+    },
+    {
+        "id": "MEAN-SIG-2089",
+        "verb_id": "V4-SIG-1064",
+        "spanish": "firmar",
+        "portuguese": "assinar",
+        "italian": "firmare",
+        "french": "signer",
+        "german": "unterschreiben"
+    },
+    {
+        "id": "MEAN-SMI-9855",
+        "verb_id": "V5-SMI-3955",
+        "spanish": "sonre\u00edr",
+        "portuguese": "sorrir",
+        "italian": "sorridere",
+        "french": "sourire",
+        "german": "l\u00e4cheln"
+    },
+    {
+        "id": "MEAN-SMO-1048",
+        "verb_id": "V5-SMO-4839",
+        "spanish": "fumar",
+        "portuguese": "fumar",
+        "italian": "fumare",
+        "french": "fumer",
+        "german": "rauchen"
+    },
+    {
+        "id": "MEAN-SNO-1655",
+        "verb_id": "V4-SNO-3087",
+        "spanish": "nevar",
+        "portuguese": "nevar",
+        "italian": "nevicare",
+        "french": "neiger",
+        "german": "schneien"
+    },
+    {
+        "id": "MEAN-SOL-2735",
+        "verb_id": "V5-SOL-7540",
+        "spanish": "resolver",
+        "portuguese": "resolver",
+        "italian": "risolvere",
+        "french": "r\u00e9soudre",
+        "german": "l\u00f6sen"
+    },
+    {
+        "id": "MEAN-SPE-6378",
+        "verb_id": "V5-SPE-2934",
+        "spanish": "deletrear",
+        "portuguese": "soletrar",
+        "italian": "compitare",
+        "french": "\u00e9peler",
+        "german": "buchstabieren"
+    },
+    {
+        "id": "MEAN-STA-9468",
+        "verb_id": "V5-STA-5115",
+        "spanish": "empezar",
+        "portuguese": "come\u00e7ar",
+        "italian": "iniziare",
+        "french": "commencer",
+        "german": "beginnen"
+    },
+    {
+        "id": "MEAN-STA-4536",
+        "verb_id": "V4-STA-9003",
+        "spanish": "quedarse",
+        "portuguese": "ficar",
+        "italian": "restare",
+        "french": "rester",
+        "german": "bleiben"
+    },
+    {
+        "id": "MEAN-STO-9722",
+        "verb_id": "V4-STO-5953",
+        "spanish": "parar",
+        "portuguese": "parar",
+        "italian": "fermare",
+        "french": "arr\u00eater",
+        "german": "stoppen"
+    },
+    {
+        "id": "MEAN-STR-3476",
+        "verb_id": "V8-STR-8921",
+        "spanish": "luchar",
+        "portuguese": "lutar",
+        "italian": "lottare",
+        "french": "lutter",
+        "german": "k\u00e4mpfen"
+    },
+    {
+        "id": "MEAN-STU-5997",
+        "verb_id": "V5-STU-5044",
+        "spanish": "estudiar",
+        "portuguese": "estudar",
+        "italian": "studiare",
+        "french": "\u00e9tudier",
+        "german": "studieren"
+    },
+    {
+        "id": "MEAN-SUG-9695",
+        "verb_id": "V7-SUG-4456",
+        "spanish": "sugerir",
+        "portuguese": "sugerir",
+        "italian": "suggerire",
+        "french": "sugg\u00e9rer",
+        "german": "vorschlagen"
+    },
+    {
+        "id": "MEAN-SUP-5093",
+        "verb_id": "V7-SUP-4575",
+        "spanish": "suponer",
+        "portuguese": "supor",
+        "italian": "supporre",
+        "french": "supposer",
+        "german": "annehmen"
+    },
+    {
+        "id": "MEAN-SUR-9129",
+        "verb_id": "V8-SUR-5825",
+        "spanish": "sorprender",
+        "portuguese": "surpreender",
+        "italian": "sorprendere",
+        "french": "surprendre",
+        "german": "\u00fcberraschen"
+    },
+    {
+        "id": "MEAN-TAL-1661",
+        "verb_id": "V4-TAL-6796",
+        "spanish": "hablar",
+        "portuguese": "falar",
+        "italian": "parlare",
+        "french": "parler",
+        "german": "sprechen"
+    },
+    {
+        "id": "MEAN-TAS-1497",
+        "verb_id": "V5-TAS-3073",
+        "spanish": "saborear",
+        "portuguese": "saborear",
+        "italian": "assaggiare",
+        "french": "go\u00fbter",
+        "german": "schmecken"
+    },
+    {
+        "id": "MEAN-TEL-1643",
+        "verb_id": "V9-TEL-5125",
+        "spanish": "telefonear",
+        "portuguese": "telefonar",
+        "italian": "telefonare",
+        "french": "t\u00e9l\u00e9phoner",
+        "german": "telefonieren"
+    },
+    {
+        "id": "MEAN-TEN-2417",
+        "verb_id": "V4-TEN-7330",
+        "spanish": "tender",
+        "portuguese": "tender",
+        "italian": "tendere",
+        "french": "tendre",
+        "german": "neigen"
+    },
+    {
+        "id": "MEAN-THA-5759",
+        "verb_id": "V5-THA-8988",
+        "spanish": "agradecer",
+        "portuguese": "agradecer",
+        "italian": "ringraziare",
+        "french": "remercier",
+        "german": "danken"
+    },
+    {
+        "id": "MEAN-TOL-4444",
+        "verb_id": "V8-TOL-4573",
+        "spanish": "tolerar",
+        "portuguese": "tolerar",
+        "italian": "tollerare",
+        "french": "tol\u00e9rer",
+        "german": "tolerieren"
+    },
+    {
+        "id": "MEAN-TOU-8044",
+        "verb_id": "V5-TOU-8483",
+        "spanish": "tocar",
+        "portuguese": "tocar",
+        "italian": "toccare",
+        "french": "toucher",
+        "german": "ber\u00fchren"
+    },
+    {
+        "id": "MEAN-TRA-5720",
+        "verb_id": "V9-TRA-5646",
+        "spanish": "traducir",
+        "portuguese": "traduzir",
+        "italian": "tradurre",
+        "french": "traduire",
+        "german": "\u00fcbersetzen"
+    },
+    {
+        "id": "MEAN-TRA-8148",
+        "verb_id": "V6-TRA-7780",
+        "spanish": "viajar",
+        "portuguese": "viajar",
+        "italian": "viaggiare",
+        "french": "voyager",
+        "german": "reisen"
+    },
+    {
+        "id": "MEAN-TRE-8362",
+        "verb_id": "V5-TRE-9561",
+        "spanish": "tratar",
+        "portuguese": "tratar",
+        "italian": "trattare",
+        "french": "traiter",
+        "german": "behandeln"
+    },
+    {
+        "id": "MEAN-TRE-2254",
+        "verb_id": "V7-TRE-9057",
+        "spanish": "temblar",
+        "portuguese": "tremer",
+        "italian": "tremare",
+        "french": "trembler",
+        "german": "zittern"
+    },
+    {
+        "id": "MEAN-TRY-4699",
+        "verb_id": "V3-TRY-3596",
+        "spanish": "intentar",
+        "portuguese": "tentar",
+        "italian": "provare",
+        "french": "essayer",
+        "german": "versuchen"
+    },
+    {
+        "id": "MEAN-TUR-6214",
+        "verb_id": "V4-TUR-1988",
+        "spanish": "girar",
+        "portuguese": "virar",
+        "italian": "girare",
+        "french": "tourner",
+        "german": "drehen"
+    },
+    {
+        "id": "MEAN-UND-1438",
+        "verb_id": "V9-UND-2827",
+        "spanish": "subrayar",
+        "portuguese": "sublinhar",
+        "italian": "sottolineare",
+        "french": "souligner",
+        "german": "unterstreichen"
+    },
+    {
+        "id": "MEAN-USE-7459",
+        "verb_id": "V3-USE-2116",
+        "spanish": "usar",
+        "portuguese": "usar",
+        "italian": "usare",
+        "french": "utiliser",
+        "german": "verwenden"
+    },
+    {
+        "id": "MEAN-VIS-3549",
+        "verb_id": "V5-VIS-7866",
+        "spanish": "visitar",
+        "portuguese": "visitar",
+        "italian": "visitare",
+        "french": "visiter",
+        "german": "besuchen"
+    },
+    {
+        "id": "MEAN-VOT-4505",
+        "verb_id": "V4-VOT-8356",
+        "spanish": "votar",
+        "portuguese": "votar",
+        "italian": "votare",
+        "french": "voter",
+        "german": "w\u00e4hlen"
+    },
+    {
+        "id": "MEAN-WAI-9716",
+        "verb_id": "V4-WAI-2238",
+        "spanish": "esperar",
+        "portuguese": "esperar",
+        "italian": "aspettare",
+        "french": "attendre",
+        "german": "warten"
+    },
+    {
+        "id": "MEAN-WAL-2729",
+        "verb_id": "V4-WAL-3715",
+        "spanish": "caminar",
+        "portuguese": "andar",
+        "italian": "camminare",
+        "french": "marcher",
+        "german": "gehen"
+    },
+    {
+        "id": "MEAN-WAN-1503",
+        "verb_id": "V4-WAN-2607",
+        "spanish": "querer",
+        "portuguese": "querer",
+        "italian": "volere",
+        "french": "vouloir",
+        "german": "wollen"
+    },
+    {
+        "id": "MEAN-WAS-3244",
+        "verb_id": "V4-WAS-2816",
+        "spanish": "lavar",
+        "portuguese": "lavar",
+        "italian": "lavare",
+        "french": "laver",
+        "german": "waschen"
+    },
+    {
+        "id": "MEAN-WAS-8518",
+        "verb_id": "V5-WAS-7783",
+        "spanish": "desperdiciar",
+        "portuguese": "desperdi\u00e7ar",
+        "italian": "sprecare",
+        "french": "gaspiller",
+        "german": "verschwenden"
+    },
+    {
+        "id": "MEAN-WAT-9715",
+        "verb_id": "V5-WAT-7748",
+        "spanish": "mirar",
+        "portuguese": "assistir",
+        "italian": "guardare",
+        "french": "regarder",
+        "german": "schauen"
+    },
+    {
+        "id": "MEAN-WEI-8673",
+        "verb_id": "V5-WEI-7629",
+        "spanish": "pesar",
+        "portuguese": "pesar",
+        "italian": "pesare",
+        "french": "peser",
+        "german": "wiegen"
+    },
+    {
+        "id": "MEAN-WEL-3753",
+        "verb_id": "V7-WEL-1306",
+        "spanish": "dar la bienvenida",
+        "portuguese": "dar as boas-vindas",
+        "italian": "dare il benvenuto",
+        "french": "accueillir",
+        "german": "begr\u00fc\u00dfen"
+    },
+    {
+        "id": "MEAN-WIS-3541",
+        "verb_id": "V4-WIS-3696",
+        "spanish": "desear",
+        "portuguese": "desejar",
+        "italian": "desiderare",
+        "french": "souhaiter",
+        "german": "w\u00fcnschen"
+    },
+    {
+        "id": "MEAN-WON-3479",
+        "verb_id": "V6-WON-9402",
+        "spanish": "preguntarse",
+        "portuguese": "perguntar-se",
+        "italian": "chiedersi",
+        "french": "se demander",
+        "german": "sich fragen"
+    },
+    {
+        "id": "MEAN-WOR-4546",
+        "verb_id": "V4-WOR-5518",
+        "spanish": "trabajar",
+        "portuguese": "trabalhar",
+        "italian": "lavorare",
+        "french": "travailler",
+        "german": "arbeiten"
+    },
+    {
+        "id": "MEAN-WOR-3863",
+        "verb_id": "V5-WOR-7519",
+        "spanish": "preocuparse",
+        "portuguese": "preocupar-se",
+        "italian": "preoccuparsi",
+        "french": "s'inqui\u00e9ter",
+        "german": "sich sorgen"
+    },
+    {
+        "id": "MEAN-ARI-8610",
+        "verb_id": "V6-ARI-6079",
+        "spanish": "surgir",
+        "portuguese": "surgir",
+        "italian": "sorgere",
+        "french": "surgir",
+        "german": "entstehen"
+    },
+    {
+        "id": "MEAN-BE--1741",
+        "verb_id": "V9-BE-4411",
+        "spanish": "ser, estar",
+        "portuguese": "ser, estar",
+        "italian": "essere",
+        "french": "\u00eatre",
+        "german": "sein"
+    },
+    {
+        "id": "MEAN-BEA-4552",
+        "verb_id": "V5-BEA-7432",
+        "spanish": "llevar - soportar",
+        "portuguese": "suportar",
+        "italian": "sopportare",
+        "french": "supporter",
+        "german": "ertragen"
+    },
+    {
+        "id": "MEAN-BEC-3588",
+        "verb_id": "V7-BEC-6328",
+        "spanish": "convertirse",
+        "portuguese": "tornar-se",
+        "italian": "diventare",
+        "french": "devenir",
+        "german": "werden"
+    },
+    {
+        "id": "MEAN-BEF-5920",
+        "verb_id": "V7-BEF-8964",
+        "spanish": "acontecer - ocurrir",
+        "portuguese": "acontecer",
+        "italian": "accadere",
+        "french": "arriver",
+        "german": "geschehen"
+    },
+    {
+        "id": "MEAN-BEG-7276",
+        "verb_id": "V6-BEG-8540",
+        "spanish": "comenzar",
+        "portuguese": "come\u00e7ar",
+        "italian": "iniziare",
+        "french": "commencer",
+        "german": "beginnen"
+    },
+    {
+        "id": "MEAN-BEN-8306",
+        "verb_id": "V5-BEN-5892",
+        "spanish": "doblar",
+        "portuguese": "dobrar",
+        "italian": "piegare",
+        "french": "plier",
+        "german": "biegen"
+    },
+    {
+        "id": "MEAN-BIN-7451",
+        "verb_id": "V4-BIN-3154",
+        "spanish": "atar",
+        "portuguese": "amarrar",
+        "italian": "legare",
+        "french": "lier",
+        "german": "binden"
+    },
+    {
+        "id": "MEAN-BIT-1742",
+        "verb_id": "V4-BIT-5493",
+        "spanish": "morder",
+        "portuguese": "morder",
+        "italian": "mordere",
+        "french": "mordre",
+        "german": "bei\u00dfen"
+    },
+    {
+        "id": "MEAN-BLE-7709",
+        "verb_id": "V6-BLE-1621",
+        "spanish": "sangrar",
+        "portuguese": "sangrar",
+        "italian": "sanguinare",
+        "french": "saigner",
+        "german": "bluten"
+    },
+    {
+        "id": "MEAN-BLO-4687",
+        "verb_id": "V5-BLO-2183",
+        "spanish": "soplar",
+        "portuguese": "soprar",
+        "italian": "soffiare",
+        "french": "souffler",
+        "german": "blasen"
+    },
+    {
+        "id": "MEAN-BRE-1692",
+        "verb_id": "V6-BRE-7361",
+        "spanish": "romper",
+        "portuguese": "quebrar",
+        "italian": "rompere",
+        "french": "casser",
+        "german": "brechen"
+    },
+    {
+        "id": "MEAN-BRI-9992",
+        "verb_id": "V5-BRI-9215",
+        "spanish": "traer",
+        "portuguese": "trazer",
+        "italian": "portare",
+        "french": "apporter",
+        "german": "bringen"
+    },
+    {
+        "id": "MEAN-BUI-6970",
+        "verb_id": "V6-BUI-2082",
+        "spanish": "construir",
+        "portuguese": "construir",
+        "italian": "costruire",
+        "french": "construire",
+        "german": "bauen"
+    },
+    {
+        "id": "MEAN-BUR-4217",
+        "verb_id": "V5-BUR-1943",
+        "spanish": "quemar",
+        "portuguese": "queimar",
+        "italian": "bruciare",
+        "french": "br\u00fbler",
+        "german": "brennen"
+    },
+    {
+        "id": "MEAN-BUY-7123",
+        "verb_id": "V3-BUY-7854",
+        "spanish": "comprar",
+        "portuguese": "comprar",
+        "italian": "comprare",
+        "french": "acheter",
+        "german": "kaufen"
+    },
+    {
+        "id": "MEAN-CAT-5031",
+        "verb_id": "V6-CAT-6670",
+        "spanish": "atrapar",
+        "portuguese": "capturar",
+        "italian": "catturare",
+        "french": "attraper",
+        "german": "fangen"
+    },
+    {
+        "id": "MEAN-CHO-4371",
+        "verb_id": "V7-CHO-4593",
+        "spanish": "elegir",
+        "portuguese": "escolher",
+        "italian": "scegliere",
+        "french": "choisir",
+        "german": "w\u00e4hlen"
+    },
+    {
+        "id": "MEAN-COM-6148",
+        "verb_id": "V5-COM-9321",
+        "spanish": "venir",
+        "portuguese": "vir",
+        "italian": "venire",
+        "french": "venir",
+        "german": "kommen"
+    },
+    {
+        "id": "MEAN-COS-2314",
+        "verb_id": "V5-COS-8982",
+        "spanish": "costar",
+        "portuguese": "custar",
+        "italian": "costare",
+        "french": "co\u00fbter",
+        "german": "kosten"
+    },
+    {
+        "id": "MEAN-CUT-9558",
+        "verb_id": "V4-CUT-4237",
+        "spanish": "cortar",
+        "portuguese": "cortar",
+        "italian": "tagliare",
+        "french": "couper",
+        "german": "schneiden"
+    },
+    {
+        "id": "MEAN-DEA-9869",
+        "verb_id": "V5-DEA-3862",
+        "spanish": "tratar",
+        "portuguese": "lidar",
+        "italian": "trattare",
+        "french": "traiter",
+        "german": "handeln"
+    },
+    {
+        "id": "MEAN-DO--3773",
+        "verb_id": "V3-DO-3170",
+        "spanish": "hacer",
+        "portuguese": "fazer",
+        "italian": "fare",
+        "french": "faire",
+        "german": "machen"
+    },
+    {
+        "id": "MEAN-DRA-2015",
+        "verb_id": "V5-DRA-6476",
+        "spanish": "dibujar",
+        "portuguese": "desenhar",
+        "italian": "disegnare",
+        "french": "dessiner",
+        "german": "zeichnen"
+    },
+    {
+        "id": "MEAN-DRE-7090",
+        "verb_id": "V6-DRE-6850",
+        "spanish": "so\u00f1ar",
+        "portuguese": "sonhar",
+        "italian": "sognare",
+        "french": "r\u00eaver",
+        "german": "tr\u00e4umen"
+    },
+    {
+        "id": "MEAN-DRI-6641",
+        "verb_id": "V6-DRI-7500",
+        "spanish": "beber",
+        "portuguese": "beber",
+        "italian": "bere",
+        "french": "boire",
+        "german": "trinken"
+    },
+    {
+        "id": "MEAN-DRI-9176",
+        "verb_id": "V6-DRI-3984",
+        "spanish": "conducir",
+        "portuguese": "dirigir",
+        "italian": "guidare",
+        "french": "conduire",
+        "german": "fahren"
+    },
+    {
+        "id": "MEAN-EAT-6282",
+        "verb_id": "V4-EAT-4925",
+        "spanish": "comer",
+        "portuguese": "comer",
+        "italian": "mangiare",
+        "french": "manger",
+        "german": "essen"
+    },
+    {
+        "id": "MEAN-FAL-6592",
+        "verb_id": "V5-FAL-2169",
+        "spanish": "caer",
+        "portuguese": "cair",
+        "italian": "cadere",
+        "french": "tomber",
+        "german": "fallen"
+    },
+    {
+        "id": "MEAN-FEE-6375",
+        "verb_id": "V5-FEE-1275",
+        "spanish": "alimentar",
+        "portuguese": "alimentar",
+        "italian": "nutrire",
+        "french": "nourrir",
+        "german": "f\u00fcttern"
+    },
+    {
+        "id": "MEAN-FEE-5600",
+        "verb_id": "V4-FEE-9368",
+        "spanish": "sentir",
+        "portuguese": "sentir",
+        "italian": "sentire",
+        "french": "sentir",
+        "german": "f\u00fchlen"
+    },
+    {
+        "id": "MEAN-FIG-7924",
+        "verb_id": "V5-FIG-5860",
+        "spanish": "luchar",
+        "portuguese": "lutar",
+        "italian": "combattere",
+        "french": "combattre",
+        "german": "k\u00e4mpfen"
+    },
+    {
+        "id": "MEAN-FIN-2828",
+        "verb_id": "V4-FIN-5169",
+        "spanish": "encontrar",
+        "portuguese": "encontrar",
+        "italian": "trovare",
+        "french": "trouver",
+        "german": "finden"
+    },
+    {
+        "id": "MEAN-FLY-1661",
+        "verb_id": "V3-FLY-6478",
+        "spanish": "volar",
+        "portuguese": "voar",
+        "italian": "volare",
+        "french": "voler",
+        "german": "fliegen"
+    },
+    {
+        "id": "MEAN-FOR-7790",
+        "verb_id": "V6-FOR-8536",
+        "spanish": "prohibir",
+        "portuguese": "proibir",
+        "italian": "proibire",
+        "french": "interdire",
+        "german": "verbieten"
+    },
+    {
+        "id": "MEAN-FOR-7612",
+        "verb_id": "V6-FOR-2041",
+        "spanish": "olvidar",
+        "portuguese": "esquecer",
+        "italian": "dimenticare",
+        "french": "oublier",
+        "german": "vergessen"
+    },
+    {
+        "id": "MEAN-FOR-8453",
+        "verb_id": "V7-FOR-5933",
+        "spanish": "perdonar",
+        "portuguese": "perdoar",
+        "italian": "perdonare",
+        "french": "pardonner",
+        "german": "vergeben"
+    },
+    {
+        "id": "MEAN-GET-5956",
+        "verb_id": "V4-GET-1136",
+        "spanish": "conseguir",
+        "portuguese": "obter",
+        "italian": "ottenere",
+        "french": "obtenir",
+        "german": "bekommen"
+    },
+    {
+        "id": "MEAN-GIV-2276",
+        "verb_id": "V4-GIV-1547",
+        "spanish": "dar",
+        "portuguese": "dar",
+        "italian": "dare",
+        "french": "donner",
+        "german": "geben"
+    },
+    {
+        "id": "MEAN-GO -7604",
+        "verb_id": "V3-GO -3532",
+        "spanish": "ir",
+        "portuguese": "ir",
+        "italian": "andare",
+        "french": "aller",
+        "german": "gehen"
+    },
+    {
+        "id": "MEAN-GRO-2311",
+        "verb_id": "V4-GRO-3491",
+        "spanish": "crecer",
+        "portuguese": "crescer",
+        "italian": "crescere",
+        "french": "grandir",
+        "german": "wachsen"
+    },
+    {
+        "id": "MEAN-HAV-1855",
+        "verb_id": "V10-HAV-2898",
+        "spanish": "tener",
+        "portuguese": "ter",
+        "italian": "avere",
+        "french": "avoir",
+        "german": "haben"
+    },
+    {
+        "id": "MEAN-HEA-7827",
+        "verb_id": "V4-HEA-2587",
+        "spanish": "o\u00edr",
+        "portuguese": "ouvir",
+        "italian": "sentire",
+        "french": "entendre",
+        "german": "h\u00f6ren"
+    },
+    {
+        "id": "MEAN-HID-7790",
+        "verb_id": "V4-HID-3624",
+        "spanish": "esconder",
+        "portuguese": "esconder",
+        "italian": "nascondere",
+        "french": "cacher",
+        "german": "verstecken"
+    },
+    {
+        "id": "MEAN-HIT-6480",
+        "verb_id": "V3-HIT-4896",
+        "spanish": "golpear",
+        "portuguese": "bater",
+        "italian": "colpire",
+        "french": "frapper",
+        "german": "schlagen"
+    },
+    {
+        "id": "MEAN-HOL-2781",
+        "verb_id": "V4-HOL-4515",
+        "spanish": "sostener",
+        "portuguese": "segurar",
+        "italian": "tenere",
+        "french": "tenir",
+        "german": "halten"
+    },
+    {
+        "id": "MEAN-HUR-6268",
+        "verb_id": "V4-HUR-7374",
+        "spanish": "herir",
+        "portuguese": "machucar",
+        "italian": "ferire",
+        "french": "blesser",
+        "german": "verletzen"
+    },
+    {
+        "id": "MEAN-KEE-6733",
+        "verb_id": "V4-KEE-8028",
+        "spanish": "mantener",
+        "portuguese": "manter",
+        "italian": "mantenere",
+        "french": "garder",
+        "german": "behalten"
+    },
+    {
+        "id": "MEAN-KNE-2541",
+        "verb_id": "V5-KNE-4769",
+        "spanish": "arrodillarse",
+        "portuguese": "ajoelhar",
+        "italian": "inginocchiarsi",
+        "french": "s'agenouiller",
+        "german": "knien"
+    },
+    {
+        "id": "MEAN-KNO-6763",
+        "verb_id": "V4-KNO-5597",
+        "spanish": "saber",
+        "portuguese": "saber",
+        "italian": "sapere",
+        "french": "savoir",
+        "german": "wissen"
+    },
+    {
+        "id": "MEAN-LEA-8979",
+        "verb_id": "V4-LEA-6454",
+        "spanish": "liderar",
+        "portuguese": "liderar",
+        "italian": "guidare",
+        "french": "conduire",
+        "german": "f\u00fchren"
+    },
+    {
+        "id": "MEAN-LEA-4846",
+        "verb_id": "V5-LEA-7931",
+        "spanish": "aprender",
+        "portuguese": "aprender",
+        "italian": "imparare",
+        "french": "apprendre",
+        "german": "lernen"
+    },
+    {
+        "id": "MEAN-LEA-4766",
+        "verb_id": "V5-LEA-4164",
+        "spanish": "dejar",
+        "portuguese": "deixar",
+        "italian": "lasciare",
+        "french": "partir",
+        "german": "verlassen"
+    },
+    {
+        "id": "MEAN-LEN-9906",
+        "verb_id": "V4-LEN-2461",
+        "spanish": "prestar",
+        "portuguese": "emprestar",
+        "italian": "prestare",
+        "french": "pr\u00eater",
+        "german": "leihen"
+    },
+    {
+        "id": "MEAN-LET-9006",
+        "verb_id": "V3-LET-9915",
+        "spanish": "dejar",
+        "portuguese": "deixar",
+        "italian": "lasciare",
+        "french": "laisser",
+        "german": "lassen"
+    },
+    {
+        "id": "MEAN-LIG-9827",
+        "verb_id": "V5-LIG-3726",
+        "spanish": "encender",
+        "portuguese": "acender",
+        "italian": "accendere",
+        "french": "allumer",
+        "german": "anz\u00fcnden"
+    },
+    {
+        "id": "MEAN-LOS-9108",
+        "verb_id": "V4-LOS-7276",
+        "spanish": "perder",
+        "portuguese": "perder",
+        "italian": "perdere",
+        "french": "perdre",
+        "german": "verlieren"
+    },
+    {
+        "id": "MEAN-MAK-1739",
+        "verb_id": "V4-MAK-7926",
+        "spanish": "hacer",
+        "portuguese": "fazer",
+        "italian": "fare",
+        "french": "faire",
+        "german": "machen"
+    },
+    {
+        "id": "MEAN-MEA-5491",
+        "verb_id": "V4-MEA-2738",
+        "spanish": "significar",
+        "portuguese": "significar",
+        "italian": "significare",
+        "french": "signifier",
+        "german": "bedeuten"
+    },
+    {
+        "id": "MEAN-MEE-3545",
+        "verb_id": "V4-MEE-9256",
+        "spanish": "conocer",
+        "portuguese": "conhecer",
+        "italian": "incontrare",
+        "french": "rencontrer",
+        "german": "treffen"
+    },
+    {
+        "id": "MEAN-MIS-6388",
+        "verb_id": "V7-MIS-2237",
+        "spanish": "equivocar",
+        "portuguese": "enganar-se",
+        "italian": "sbagliare",
+        "french": "se tromper",
+        "german": "sich irren"
+    },
+    {
+        "id": "MEAN-PAY-8146",
+        "verb_id": "V3-PAY-5631",
+        "spanish": "pagar",
+        "portuguese": "pagar",
+        "italian": "pagare",
+        "french": "payer",
+        "german": "bezahlen"
+    },
+    {
+        "id": "MEAN-PUT-2731",
+        "verb_id": "V3-PUT-4197",
+        "spanish": "poner",
+        "portuguese": "colocar",
+        "italian": "mettere",
+        "french": "mettre",
+        "german": "legen"
+    },
+    {
+        "id": "MEAN-REA-5814",
+        "verb_id": "V4-REA-7757",
+        "spanish": "leer",
+        "portuguese": "ler",
+        "italian": "leggere",
+        "french": "lire",
+        "german": "lesen"
+    },
+    {
+        "id": "MEAN-RID-8496",
+        "verb_id": "V4-RID-1077",
+        "spanish": "montar",
+        "portuguese": "andar",
+        "italian": "cavalcare",
+        "french": "monter",
+        "german": "reiten"
+    },
+    {
+        "id": "MEAN-RIN-8392",
+        "verb_id": "V4-RIN-1918",
+        "spanish": "sonar",
+        "portuguese": "tocar",
+        "italian": "suonare",
+        "french": "sonner",
+        "german": "klingeln"
+    },
+    {
+        "id": "MEAN-RIS-7778",
+        "verb_id": "V5-RIS-4854",
+        "spanish": "levantar",
+        "portuguese": "levantar",
+        "italian": "alzare",
+        "french": "lever",
+        "german": "erheben"
+    },
+    {
+        "id": "MEAN-RUN-6720",
+        "verb_id": "V3-RUN-7378",
+        "spanish": "correr",
+        "portuguese": "correr",
+        "italian": "correre",
+        "french": "courir",
+        "german": "laufen"
+    },
+    {
+        "id": "MEAN-SAY-6177",
+        "verb_id": "V3-SAY-1253",
+        "spanish": "decir",
+        "portuguese": "dizer",
+        "italian": "dire",
+        "french": "dire",
+        "german": "sagen"
+    },
+    {
+        "id": "MEAN-SEE-3427",
+        "verb_id": "V3-SEE-9095",
+        "spanish": "ver",
+        "portuguese": "ver",
+        "italian": "vedere",
+        "french": "voir",
+        "german": "sehen"
+    },
+    {
+        "id": "MEAN-SEE-8014",
+        "verb_id": "V4-SEE-9084",
+        "spanish": "buscar",
+        "portuguese": "procurar",
+        "italian": "cercare",
+        "french": "chercher",
+        "german": "suchen"
+    },
+    {
+        "id": "MEAN-SEL-5950",
+        "verb_id": "V4-SEL-7557",
+        "spanish": "vender",
+        "portuguese": "vender",
+        "italian": "vendere",
+        "french": "vendre",
+        "german": "verkaufen"
+    },
+    {
+        "id": "MEAN-SEN-8260",
+        "verb_id": "V4-SEN-9447",
+        "spanish": "enviar",
+        "portuguese": "enviar",
+        "italian": "inviare",
+        "french": "envoyer",
+        "german": "senden"
+    },
+    {
+        "id": "MEAN-SET-4940",
+        "verb_id": "V3-SET-8429",
+        "spanish": "poner",
+        "portuguese": "colocar",
+        "italian": "mettere",
+        "french": "mettre",
+        "german": "setzen"
+    },
+    {
+        "id": "MEAN-SEW-4109",
+        "verb_id": "V3-SEW-7598",
+        "spanish": "coser",
+        "portuguese": "costurar",
+        "italian": "cucire",
+        "french": "coudre",
+        "german": "n\u00e4hen"
+    },
+    {
+        "id": "MEAN-SHA-1301",
+        "verb_id": "V5-SHA-2473",
+        "spanish": "sacudir",
+        "portuguese": "sacudir",
+        "italian": "scuotere",
+        "french": "secouer",
+        "german": "sch\u00fctteln"
+    },
+    {
+        "id": "MEAN-SHI-3423",
+        "verb_id": "V5-SHI-8931",
+        "spanish": "brillar",
+        "portuguese": "brilhar",
+        "italian": "brillare",
+        "french": "briller",
+        "german": "scheinen"
+    },
+    {
+        "id": "MEAN-SHO-8623",
+        "verb_id": "V5-SHO-6368",
+        "spanish": "disparar",
+        "portuguese": "atirar",
+        "italian": "sparare",
+        "french": "tirer",
+        "german": "schie\u00dfen"
+    },
+    {
+        "id": "MEAN-SHO-5154",
+        "verb_id": "V4-SHO-8870",
+        "spanish": "mostrar",
+        "portuguese": "mostrar",
+        "italian": "mostrare",
+        "french": "montrer",
+        "german": "zeigen"
+    },
+    {
+        "id": "MEAN-SHU-5968",
+        "verb_id": "V4-SHU-3018",
+        "spanish": "cerrar",
+        "portuguese": "fechar",
+        "italian": "chiudere",
+        "french": "fermer",
+        "german": "schlie\u00dfen"
+    },
+    {
+        "id": "MEAN-SIN-1062",
+        "verb_id": "V4-SIN-9662",
+        "spanish": "cantar",
+        "portuguese": "cantar",
+        "italian": "cantare",
+        "french": "chanter",
+        "german": "singen"
+    },
+    {
+        "id": "MEAN-SIT-5269",
+        "verb_id": "V3-SIT-1977",
+        "spanish": "sentar",
+        "portuguese": "sentar",
+        "italian": "sedere",
+        "french": "asseoir",
+        "german": "sitzen"
+    },
+    {
+        "id": "MEAN-SLE-4553",
+        "verb_id": "V5-SLE-5610",
+        "spanish": "dormir",
+        "portuguese": "dormir",
+        "italian": "dormire",
+        "french": "dormir",
+        "german": "schlafen"
+    },
+    {
+        "id": "MEAN-SME-3199",
+        "verb_id": "V5-SME-5576",
+        "spanish": "oler",
+        "portuguese": "cheirar",
+        "italian": "annusare",
+        "french": "sentir",
+        "german": "riechen"
+    },
+    {
+        "id": "MEAN-SPE-5396",
+        "verb_id": "V5-SPE-8840",
+        "spanish": "hablar",
+        "portuguese": "falar",
+        "italian": "parlare",
+        "french": "parler",
+        "german": "sprechen"
+    },
+    {
+        "id": "MEAN-SPE-2410",
+        "verb_id": "V5-SPE-3397",
+        "spanish": "gastar",
+        "portuguese": "gastar",
+        "italian": "spendere",
+        "french": "d\u00e9penser",
+        "german": "ausgeben"
+    },
+    {
+        "id": "MEAN-SPI-4735",
+        "verb_id": "V5-SPI-9386",
+        "spanish": "derramar",
+        "portuguese": "derramar",
+        "italian": "versare",
+        "french": "renverser",
+        "german": "versch\u00fctten"
+    },
+    {
+        "id": "MEAN-STA-2403",
+        "verb_id": "V5-STA-2678",
+        "spanish": "estar de pie",
+        "portuguese": "ficar de p\u00e9",
+        "italian": "stare in piedi",
+        "french": "se tenir debout",
+        "german": "stehen"
+    },
+    {
+        "id": "MEAN-STE-7796",
+        "verb_id": "V5-STE-4721",
+        "spanish": "robar",
+        "portuguese": "roubar",
+        "italian": "rubare",
+        "french": "voler",
+        "german": "stehlen"
+    },
+    {
+        "id": "MEAN-STI-5835",
+        "verb_id": "V5-STI-3221",
+        "spanish": "pegar",
+        "portuguese": "colar",
+        "italian": "attaccare",
+        "french": "coller",
+        "german": "kleben"
+    },
+    {
+        "id": "MEAN-SWE-5125",
+        "verb_id": "V5-SWE-4690",
+        "spanish": "jurar",
+        "portuguese": "jurar",
+        "italian": "giurare",
+        "french": "jurer",
+        "german": "schw\u00f6ren"
+    },
+    {
+        "id": "MEAN-SWE-4583",
+        "verb_id": "V5-SWE-5301",
+        "spanish": "barrer",
+        "portuguese": "varrer",
+        "italian": "spazzare",
+        "french": "balayer",
+        "german": "fegen"
+    },
+    {
+        "id": "MEAN-SWI-5176",
+        "verb_id": "V4-SWI-9636",
+        "spanish": "nadar",
+        "portuguese": "nadar",
+        "italian": "nuotare",
+        "french": "nager",
+        "german": "schwimmen"
+    },
+    {
+        "id": "MEAN-TAK-7528",
+        "verb_id": "V4-TAK-6251",
+        "spanish": "tomar",
+        "portuguese": "tomar",
+        "italian": "prendere",
+        "french": "prendre",
+        "german": "nehmen"
+    },
+    {
+        "id": "MEAN-TEA-5086",
+        "verb_id": "V5-TEA-8753",
+        "spanish": "ense\u00f1ar",
+        "portuguese": "ensinar",
+        "italian": "insegnare",
+        "french": "enseigner",
+        "german": "lehren"
+    },
+    {
+        "id": "MEAN-TEL-5533",
+        "verb_id": "V4-TEL-7832",
+        "spanish": "decir",
+        "portuguese": "dizer",
+        "italian": "dire",
+        "french": "dire",
+        "german": "erz\u00e4hlen"
+    },
+    {
+        "id": "MEAN-THI-8299",
+        "verb_id": "V5-THI-6061",
+        "spanish": "pensar",
+        "portuguese": "pensar",
+        "italian": "pensare",
+        "french": "penser",
+        "german": "denken"
+    },
+    {
+        "id": "MEAN-THR-9711",
+        "verb_id": "V5-THR-9601",
+        "spanish": "lanzar",
+        "portuguese": "lan\u00e7ar",
+        "italian": "lanciare",
+        "french": "jeter",
+        "german": "werfen"
+    },
+    {
+        "id": "MEAN-UND-4594",
+        "verb_id": "V10-UND-7950",
+        "spanish": "entender",
+        "portuguese": "entender",
+        "italian": "capire",
+        "french": "comprendre",
+        "german": "verstehen"
+    },
+    {
+        "id": "MEAN-WEA-9627",
+        "verb_id": "V4-WEA-9690",
+        "spanish": "llevar",
+        "portuguese": "usar",
+        "italian": "indossare",
+        "french": "porter",
+        "german": "tragen"
+    },
+    {
+        "id": "MEAN-WEE-6022",
+        "verb_id": "V4-WEE-4774",
+        "spanish": "llorar",
+        "portuguese": "chorar",
+        "italian": "piangere",
+        "french": "pleurer",
+        "german": "weinen"
+    },
+    {
+        "id": "MEAN-WIN-3737",
+        "verb_id": "V3-WIN-6465",
+        "spanish": "ganar",
+        "portuguese": "ganhar",
+        "italian": "vincere",
+        "french": "gagner",
+        "german": "gewinnen"
+    },
+    {
+        "id": "MEAN-WRI-5741",
+        "verb_id": "V5-WRI-1887",
+        "spanish": "escribir",
+        "portuguese": "escrever",
+        "italian": "scrivere",
+        "french": "\u00e9crire",
+        "german": "schreiben"
+    }
+]
