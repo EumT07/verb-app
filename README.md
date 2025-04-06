@@ -53,8 +53,6 @@ npm install
 # Edit the following variables
 PORT=4545 "Your favorite port"
 DATABASE_URL="postgresql://username:randompassword@localhost:5432/mydb?schema=public"
-JWT_SECRET="secret-token"
-JWT_RECOVERY_PASSWORD_SECRET="recovery-token"
 
 API_KEY="Deepseek API key"
 API_BASE_URL="Base URL from deepseek"
